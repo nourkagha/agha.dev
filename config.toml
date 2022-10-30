@@ -1,0 +1,81 @@
+baseurl = "https://agha.dev"
+title = "Nour Agha"
+theme = "hugo-coder"
+languagecode = "en"
+defaultcontentlanguage = "en"
+
+paginate = 20
+
+pygmentsstyle = "bw"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+[params]
+  author = "Nour Agha"
+  info = "Software Engineer"
+  description = "My personal website and blog."
+  keywords = "blog,developer,personal"
+  avatarurl = "images/avatar.jpg"
+
+  since = 2022
+
+  enableTwemoji = true
+
+  colorScheme = "auto"
+  hidecolorschemetoggle = false
+
+  customCSS = []
+  customSCSS = []
+  customJS = []
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+  author = "authors"
+
+# Social links
+[[params.social]]
+  name = "Mail"
+  icon = "fa fa-2x fa-envelope"
+  weight = 1
+  url = "mailto:nour@agha.dev"
+[[params.social]]
+  name = "GitHub"
+  icon = "fa fa-2x fa-github"
+  weight = 2
+  url = "https://github.com/nourkagha"
+[[params.social]]
+  name = "Matrix"
+  icon = "fa fa-2x fa-matrix-org"
+  weight = 3
+  url = "https://matrix.to/#/@nour:mozilla.org"
+[[params.social]]
+  name = "Mastodon"
+  icon = "fa fa-2x fa-mastodon"
+  weight = 4
+  url = "https://fosstodon.org/@Nour"
+[[params.social]]
+  name = "LinkedIn"
+  icon = "fa fa-2x fa-linkedin"
+  weight = 5
+  url = "https://linkedin.com/in/nouragha"
+[[params.social]]
+  name = "GnuPG"
+  icon = "fa fa-2x fa-gnupg"
+  weight = 6
+  url = "gpg"
+
+# Menu links
+[[menu.main]]
+  name = "About"
+  weight = 1
+  url = "about"
+[[menu.main]]
+  name = "Blog"
+  weight = 2
+  url  = "posts"
+[[menu.main]]
+  name = "Contact"
+  weight = 3
+  url = "contact"
