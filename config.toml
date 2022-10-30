@@ -1,4 +1,4 @@
-baseurl = "https://nourkagha.github.io/agha.dev"
+baseurl = "https://agha.dev"
 title = "Nour Agha"
 theme = "hugo-coder"
 languagecode = "en"
