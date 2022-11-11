@@ -62,14 +62,9 @@ pygmentscodefencesguesssyntax = true
   weight = 5
   url = "https://linkedin.com/in/nouragha"
 [[params.social]]
-  name = "Keyoxide"
-  icon = "fa fa-2x fa-keyoxide"
-  weight = 6
-  url = "https://keyoxide.org/nour@agha.dev"
-[[params.social]]
   name = "GnuPG"
   icon = "fa fa-2x fa-gnupg"
-  weight = 7
+  weight = 6
   url = "gpg"
 
 # Menu links
