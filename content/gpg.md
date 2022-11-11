@@ -2,7 +2,7 @@
 title = "GPG"
 +++
 
-**Key ID:** C1859ED057E714DC
+**Key ID:** C185 9ED0 57E7 14DC
 
 **Fingerprint:** 135F 6915 34C8 9192 95ED 97C1 C185 9ED0 57E7 14DC
 
