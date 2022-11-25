@@ -48,7 +48,6 @@ pygmentscodefencesguesssyntax = true
     "https://cdn.jsdelivr.net/",
   ]
   prefetchsrc = ["'self'"]
-  # connect-src directive – defines valid targets for to XMLHttpRequest (AJAX), WebSockets or EventSource
   connectsrc = ["'self'"]
 
 [taxonomies]
