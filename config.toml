@@ -33,7 +33,7 @@ pygmentscodefencesguesssyntax = true
   childsrc = ["'self'"]
   fontsrc = ["'self'", "https://fonts.gstatic.com", "https://cdn.jsdelivr.net/"]
   formaction = ["'self'"]
-  framesrc = ["'self'", "https://www.youtube-nocookie.com"]
+  framesrc = ["'self'", "https://youtube-nocookie.com"]
   imgsrc = ["'self'"]
   objectsrc = ["'none'"]
   stylesrc = [
@@ -49,17 +49,6 @@ pygmentscodefencesguesssyntax = true
   ]
   prefetchsrc = ["'self'"]
   connectsrc = ["'self'"]
-  
-[[headers]]
-  for = "/*"
-  [headers.values]
-    X-Frame-Options = "DENY"
-    X-XSS-Protection = "1; mode=block"
-    X-Content-Type-Options = "nosniff"
-    # Content-Security-Policy = ""
-    Referrer-Policy = "strict-origin-when-cross-origin"
-    Strict-Transport-Security = "max-age=63072000"
-    Permissions-Policy = "vibrate=(), geolocation=(), midi=(), notifications=(), push=(), sync-xhr=(), microphone=(), camera=(), magnetometer=(), gyroscope=(), speaker=(), vibrate=(), fullscreen=(), payment=()"
 
 [taxonomies]
   category = "categories"
