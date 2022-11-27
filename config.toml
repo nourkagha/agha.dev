@@ -47,6 +47,12 @@ pygmentscodefencesguesssyntax = true
   # ]
   # prefetchsrc = ["'self'"]
   # connectsrc = ["'self'"]
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+  author = "authors"
   
 [[headers]]
   for = "/*"
@@ -58,12 +64,6 @@ pygmentscodefencesguesssyntax = true
     Referrer-Policy = "strict-origin-when-cross-origin"
     Strict-Transport-Security = "max-age=63072000; includeSubDomains; preload"
     Permissions-Policy = "vibrate=(), geolocation=(), midi=(), notifications=(), push=(), sync-xhr=(), microphone=(), camera=(), magnetometer=(), gyroscope=(), speaker=(), vibrate=(), fullscreen=(), payment=()"
-
-[taxonomies]
-  category = "categories"
-  series = "series"
-  tag = "tags"
-  author = "authors"
 
 # Social links
 [[params.social]]
