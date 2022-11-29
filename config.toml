@@ -57,6 +57,10 @@ pygmentscodefencesguesssyntax = true
 [permalinks]
   posts = "blog/:slug"
 
+[params.plausibleAnalytics]
+domain = "agha.dev"
+serverURL = "plausible.io"
+
 # Social links
 [[params.social]]
   name = "Mail"
