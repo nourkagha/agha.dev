@@ -55,7 +55,7 @@ pygmentscodefencesguesssyntax = true
   author = "authors"
 
 [permalinks]
-posts = "blog/:slug"
+  posts = "blog/:slug"
 
 # Social links
 [[params.social]]
