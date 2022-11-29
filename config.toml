@@ -29,24 +29,24 @@ pygmentscodefencesguesssyntax = true
   customJS = []
   
 # Content Security Policy (CSP)
-[params.csp]
-  childsrc = ["'self'"]
-  fontsrc = ["'self'", "https://fonts.gstatic.com", "https://cdn.jsdelivr.net"]
-  formaction = ["'self'"]
-  framesrc = ["'self'", "https://youtube-nocookie.com"]
-  imgsrc = ["'self'"]
-  objectsrc = ["'none'"]
-  stylesrc = [
-    "'self'",
-    "https://fonts.googleapis.com",
-    "https://cdn.jsdelivr.net",
-  ]
-  scriptsrc = [
-    "'self'",
-    "https://cdn.jsdelivr.net",
-  ]
-  prefetchsrc = ["'self'"]
-  connectsrc = ["'self'"]
+#[params.csp]
+#  childsrc = ["'self'"]
+#  fontsrc = ["'self'", "https://fonts.gstatic.com", "https://cdn.jsdelivr.net"]
+#  formaction = ["'self'"]
+#  framesrc = ["'self'", "https://youtube-nocookie.com"]
+#  imgsrc = ["'self'"]
+#  objectsrc = ["'none'"]
+#  stylesrc = [
+#    "'self'",
+#    "https://fonts.googleapis.com",
+#    "https://cdn.jsdelivr.net",
+#  ]
+#  scriptsrc = [
+#    "'self'",
+#    "https://cdn.jsdelivr.net",
+#  ]
+#  prefetchsrc = ["'self'"]
+#  connectsrc = ["'self'"]
 
 [taxonomies]
   category = "categories"
