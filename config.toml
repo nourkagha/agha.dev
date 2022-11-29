@@ -59,7 +59,7 @@ pygmentscodefencesguesssyntax = true
 
 [params.plausibleAnalytics]
 domain = "agha.dev"
-serverURL = "plausible.io"
+#serverURL = ""
 
 # Social links
 [[params.social]]
