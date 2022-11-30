@@ -16,6 +16,9 @@ pygmentscodefencesguesssyntax = true
   description = "My personal website and blog."
   keywords = "blog,developer,personal"
   avatarurl = "images/avatar.jpg"
+  
+#  favicon_32 = "/images/favicon-32x32.png"
+#  favicon_16 = "/images/favicon-16x16.png"
 
   since = 2022
 
