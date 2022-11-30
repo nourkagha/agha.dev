@@ -57,8 +57,8 @@ pygmentscodefencesguesssyntax = true
 [permalinks]
   posts = "blog/:slug"
 
-[params.plausibleAnalytics]
-domain = "agha.dev"
+#[params.plausibleAnalytics]
+#domain = "agha.dev"
 #serverURL = ""
 
 # Social links
