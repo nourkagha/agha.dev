@@ -96,6 +96,13 @@ pygmentscodefencesguesssyntax = true
   icon = "fa fa-2x fa-gnupg"
   weight = 6
   url = "gpg"
+[[params.social]]
+  name = "RSS"
+  icon = "fa fa-2x fa-rss"
+  weight = 7
+  url = "index.xml"
+  rel = "alternate"
+  type = "application/rss+xml"
 
 # Menu links
 [[menu.main]]
