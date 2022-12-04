@@ -1,0 +1,20 @@
+@mixin footer_dark {
+  .footer {
+    a {
+      &:hover,
+      &:focus {
+      color: #42a5f5;
+      }
+    }
+  }
+}
+
+body.colorscheme-dark {
+  @include footer_dark();
+}
+
+body.colorscheme-auto {
+  @media (prefers-color-scheme: dark) {
+    @include footer_dark();
+  }
+}
