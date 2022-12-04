@@ -1,6 +1,10 @@
 @mixin footer_dark {
   .footer {
     a {
+      color: #dadada;
+    }
+    
+    i {
       &:hover,
       &:focus {
         color: #42a5f5;
