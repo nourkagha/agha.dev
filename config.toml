@@ -28,8 +28,7 @@ pygmentscodefencesguesssyntax = true
   hidecolorschemetoggle = false
 
   customCSS = []
-#  customSCSS = ["scss/_footer.scss",
-#                "scss/_footer_dark.scss"]
+  customSCSS = []
   customJS = []
   
 # Content Security Policy (CSP)
