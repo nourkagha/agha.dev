@@ -7,9 +7,7 @@
     {{ now.Year }}
     {{ with .Site.Params.author }} {{ . }}
     · <a href="index.xml" aria-label="RSS" rel="alternate" type="application/rss+xml">
-          <i class="fa fa-1x fa-rss" aria-hidden="true">
-        ::before
-          </i>
+          <i class="fa fa-1x fa-rss" aria-hidden="true"></i>
       </a>
     {{ end }}
     {{ if (and .Site.Params.license) }}
