@@ -62,8 +62,8 @@ pygmentscodefencesguesssyntax = true
   posts = "blog/:slug"
 
 #[params.plausibleAnalytics]
-#domain = "agha.dev"
-#serverURL = ""
+#  domain = "agha.dev"
+#  serverURL = ""
 
 # Social links
 [[params.social]]
