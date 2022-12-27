@@ -1,25 +1,23 @@
 {
-    "subject":"acct:Nour@fosstodon.org",
-    "aliases":
-    [
-        "https://fosstodon.org/@Nour",
-        "https://fosstodon.org/users/Nour"
-    ],
-    "links":
-    [
-        {
-            "rel":"http://webfinger.net/rel/profile-page",
-            "type":"text/html",
-            "href":"https://fosstodon.org/@Nour"
-        },
-        {
-            "rel":"self",
-            "type":"application/activity+json",
-            "href":"https://fosstodon.org/users/Nour"
-        },
-        {
-            "rel":"http://ostatus.org/schema/1.0/subscribe",
-            "template":"https://fosstodon.org/authorize_interaction?uri={uri}"
-        }
-    ]
+  "subject": "acct:Nour@fosstodon.org",
+  "aliases": [
+    "https://fosstodon.org/@Nour",
+    "https://fosstodon.org/users/Nour"
+  ],
+  "links": [
+    {
+      "rel": "http://webfinger.net/rel/profile-page",
+      "type": "text/html",
+      "href": "https://fosstodon.org/@Nour"
+    },
+    {
+      "rel": "self",
+      "type": "application/activity+json",
+      "href": "https://fosstodon.org/users/Nour"
+    },
+    {
+      "rel": "http://ostatus.org/schema/1.0/subscribe",
+      "template": "https://fosstodon.org/authorize_interaction?uri={uri}"
+    }
+  ]
 }
