@@ -8,7 +8,7 @@
     Referrer-Policy = "strict-origin-when-cross-origin"
     Strict-Transport-Security = "max-age=63072000; includeSubDomains; preload"
     Permissions-Policy = "geolocation=(), midi=(), notifications=(), push=(), sync-xhr=(), microphone=(), camera=(), magnetometer=(), gyroscope=(), speaker=(), vibrate=(), fullscreen=(), payment=()"
-    
+
 [[redirects]]
   from = "https://nouragha.netlify.app"
   to = "https://agha.dev"
@@ -16,7 +16,67 @@
   force = true
 
 [[redirects]]
+  from = "https://nour.agha.dev"
+  to = "https://agha.dev"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://blog.agha.dev"
+  to = "/blog"
+  status = 302
+  force = true
+
+[[redirects]]
+  from = "https://contact.agha.dev"
+  to = "/contact"
+  status = 302
+  force = true
+
+[[redirects]]
+  from = "https://github.agha.dev"
+  to = "https://github.com/nourkagha"
+  status = 302
+  force = true
+
+[[redirects]]
+  from = "https://keyoxide.agha.dev"
+  to = "https://keyoxide.org/nour@agha.dev"
+  status = 302
+  force = true
+
+[[redirects]]
+  from = "https://linkedin.agha.dev"
+  to = "https://linkedin.com/in/nouragha"
+  status = 302
+  force = true
+
+[[redirects]]
+  from = "https://links.agha.dev"
+  to = "https://nour.omg.lol"
+  status = 302
+  force = true
+
+[[redirects]]
+  from = "https://mastodon.agha.dev"
+  to = "https://fosstodon.org/@Nour"
+  status = 302
+  force = true
+  
+[[redirects]]
   from = "/@nour"
   to = "https://fosstodon.org/@Nour"
+  status = 302
+  force = true
+
+[[redirects]]
+  from = "https://matrix.agha.dev"
+  to = "https://matrix.to/#/@nour:mozilla.org"
+  status = 302
+  force = true
+
+[[redirects]]
+  from = "https://pixelfed.agha.dev"
+  to = "https://pixelfed.social/@Nour"
   status = 302
   force = true
