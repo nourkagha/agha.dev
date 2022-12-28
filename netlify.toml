@@ -29,13 +29,13 @@
 
 [[redirects]]
   from = "https://blog.agha.dev"
-  to = "/blog"
+  to = "https://agha.dev/blog"
   status = 302
   force = true
 
 [[redirects]]
   from = "https://contact.agha.dev"
-  to = "/contact"
+  to = "https://agha.dev/contact"
   status = 302
   force = true
 
