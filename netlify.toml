@@ -20,22 +20,28 @@
   to = "https://agha.dev"
   status = 301
   force = true
-
+  
 [[redirects]]
-  from = "/@nour"
-  to = "https://fosstodon.org/@Nour"
-  status = 302
+  from = "https://about.agha.dev"
+  to = "https://agha.dev/about"
+  status = 301
   force = true
 
 [[redirects]]
-  from = "https://blog.agha.dev"
-  to = "https://agha.dev/blog"
-  status = 302
+  from = "https://blog.agha.dev/*"
+  to = "https://agha.dev/blog/:splat"
+  status = 301
   force = true
 
 [[redirects]]
   from = "https://contact.agha.dev"
   to = "https://agha.dev/contact"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/@nour"
+  to = "https://fosstodon.org/@Nour"
   status = 302
   force = true
 
