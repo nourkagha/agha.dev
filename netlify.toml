@@ -86,6 +86,12 @@
   to = "https://pixelfed.social/@Nour"
   status = 302
   force = true
+  
+[[redirects]]
+  from = "https://mta-sts.agha.dev"
+  to = "https://agha.dev"
+  status = 302
+  force = true
 
 [[redirects]]
   from = "https://nouragha.com/*"
@@ -118,13 +124,7 @@
   force = true
 
 [[redirects]]
-  from = "https://mta-sts.nouragha.com/.well-known"
-  to = "https://mta-sts.nouragha.com/.well-known"
-  status = 302
-  force = true
-
-[[redirects]]
-  from = "https://mta-sts.nouragha.com/*"
-  to = "https://nouragha.com/:splat"
+  from = "https://mta-sts.nouragha.com"
+  to = "https://nouragha.com"
   status = 302
   force = true
