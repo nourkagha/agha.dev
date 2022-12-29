@@ -1,8 +1,7 @@
 +++
 title = "About"
 description = "About"
-date = "2022-10-30"
-aliases = ["about-me"]
+date = "2022-12-29"
 author = "Nour Agha"
 +++
 
