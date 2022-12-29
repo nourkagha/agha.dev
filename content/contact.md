@@ -2,7 +2,6 @@
 title = "Contact"
 description = "Contact"
 date = "2022-12-29"
-aliases = ["contact-me"]
 author = "Nour Agha"
 +++
 
