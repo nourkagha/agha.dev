@@ -10,8 +10,8 @@
     Permissions-Policy = "geolocation=(), midi=(), notifications=(), push=(), sync-xhr=(), microphone=(), camera=(), magnetometer=(), gyroscope=(), speaker=(), vibrate=(), fullscreen=(), payment=()"
 
 [[redirects]]
-  from = "https://nouragha.netlify.app"
-  to = "https://agha.dev"
+  from = "https://nouragha.netlify.app/*"
+  to = "https://agha.dev/:splat"
   status = 301
   force = true
 
@@ -22,7 +22,7 @@
   force = true
   
 [[redirects]]
-  from = "https://about.agha.dev"
+  from = "https://about.agha.dev/*"
   to = "https://agha.dev/about"
   status = 301
   force = true
@@ -34,56 +34,56 @@
   force = true
 
 [[redirects]]
-  from = "https://contact.agha.dev"
+  from = "https://contact.agha.dev/*"
   to = "https://agha.dev/contact"
   status = 301
   force = true
 
 [[redirects]]
-  from = "/@nour"
-  to = "https://fosstodon.org/@Nour"
+  from = "/@nour/*"
+  to = "https://fosstodon.org/@Nour/:splat"
   status = 302
   force = true
 
 [[redirects]]
-  from = "https://github.agha.dev"
-  to = "https://github.com/nourkagha"
+  from = "https://github.agha.dev/*"
+  to = "https://github.com/nourkagha/:splat"
   status = 302
   force = true
 
 [[redirects]]
-  from = "https://keyoxide.agha.dev"
+  from = "https://keyoxide.agha.dev/*"
   to = "https://keyoxide.org/nour@agha.dev"
   status = 302
   force = true
 
 [[redirects]]
-  from = "https://linkedin.agha.dev"
+  from = "https://linkedin.agha.dev/*"
   to = "https://linkedin.com/in/nouragha"
   status = 302
   force = true
 
 [[redirects]]
-  from = "https://links.agha.dev"
+  from = "https://links.agha.dev/*"
   to = "https://nour.omg.lol"
   status = 302
   force = true
 
 [[redirects]]
-  from = "https://mastodon.agha.dev"
-  to = "https://fosstodon.org/@Nour"
+  from = "https://mastodon.agha.dev/*"
+  to = "https://fosstodon.org/@Nour/:splat"
   status = 302
   force = true
 
 [[redirects]]
-  from = "https://matrix.agha.dev"
+  from = "https://matrix.agha.dev/*"
   to = "https://matrix.to/#/@nour:mozilla.org"
   status = 302
   force = true
 
 [[redirects]]
-  from = "https://pixelfed.agha.dev"
-  to = "https://pixelfed.social/@Nour"
+  from = "https://pixelfed.agha.dev/*"
+  to = "https://pixelfed.social/@Nour/:splat"
   status = 302
   force = true
   
@@ -106,7 +106,7 @@
   force = true
 
 [[redirects]]
-  from = "https://about.nouragha.com"
+  from = "https://about.nouragha.com/*"
   to = "https://about.agha.dev"
   status = 302
   force = true
@@ -118,7 +118,7 @@
   force = true
 
 [[redirects]]
-  from = "https://contact.nouragha.com"
+  from = "https://contact.nouragha.com/*"
   to = "https://contact.agha.dev"
   status = 302
   force = true
