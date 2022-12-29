@@ -86,3 +86,33 @@
   to = "https://pixelfed.social/@Nour"
   status = 302
   force = true
+
+[[redirects]]
+  from = "https://nouragha.com/*"
+  to = "https://agha.dev/:splat"
+  status = 302
+  force = true
+
+[[redirects]]
+  from = "https://www.nouragha.com/*"
+  to = "https://www.agha.dev/:splat"
+  status = 302
+  force = true
+
+[[redirects]]
+  from = "https://about.nouragha.com"
+  to = "https://about.agha.dev"
+  status = 302
+  force = true
+
+[[redirects]]
+  from = "https://blog.nouragha.com/*"
+  to = "https://blog.agha.dev/:splat"
+  status = 302
+  force = true
+
+[[redirects]]
+  from = "https://contact.nouragha.com"
+  to = "https://contact.agha.dev"
+  status = 302
+  force = true
