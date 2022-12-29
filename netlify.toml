@@ -11,30 +11,30 @@
 
 [[redirects]]
   from = "https://nouragha.netlify.app/*"
-  to = "/:splat"
+  to = "https://agha.dev/:splat"
   status = 301
   force = true
 
 [[redirects]]
   from = "https://nour.agha.dev/*"
-  to = "/:splat"
+  to = "https://agha.dev/:splat"
   status = 301
   force = true
 
 [[redirects]]
   from = "https://about.agha.dev"
-  to = "/about"
+  to = "https://agha.dev/about"
   status = 301
 
 [[redirects]]
   from = "https://blog.agha.dev/*"
-  to = "/blog/:splat"
+  to = "https://agha.dev/blog/:splat"
   status = 301
   force = true
 
 [[redirects]]
   from = "https://contact.agha.dev"
-  to = "/contact"
+  to = "https://agha.dev/contact"
   status = 301
 
 [[redirects]]
@@ -83,7 +83,7 @@
 
 [[redirects]]
   from = "https://mta-sts.agha.dev/.well-known/mta-sts.txt"
-  to = "/.well-known/mta-sts.txt"
+  to = "https://agha.dev/.well-known/mta-sts.txt"
   status = 200
 
 [[redirects]]
@@ -93,35 +93,35 @@
 
 [[redirects]]
   from = "https://nouragha.com/*"
-  to = "/:splat"
+  to = "https://agha.dev/:splat"
   status = 302
   force = true
 
 [[redirects]]
   from = "https://www.nouragha.com/*"
-  to = "/:splat"
+  to = "https://www.agha.dev/:splat"
   status = 302
   force = true
 
 [[redirects]]
   from = "https://about.nouragha.com"
-  to = "/about"
+  to = "https://agha.dev/about"
   status = 302
 
 [[redirects]]
   from = "https://blog.nouragha.com/*"
-  to = "/blog/:splat"
+  to = "https://agha.dev/blog/:splat"
   status = 302
   force = true
 
 [[redirects]]
   from = "https://contact.nouragha.com"
-  to = "/contact"
+  to = "https://agha.dev/contact"
   status = 302
 
 [[redirects]]
   from = "https://mta-sts.nouragha.com/.well-known/mta-sts.txt"
-  to = "/.well-known/mta-sts.txt"
+  to = "https://agha.dev/.well-known/mta-sts.txt"
   status = 200
 
 [[redirects]]
