@@ -16,8 +16,8 @@
   force = true
 
 [[redirects]]
-  from = "https://nour.agha.dev"
-  to = "https://agha.dev"
+  from = "https://nour.agha.dev/*"
+  to = "https://agha.dev/:splat"
   status = 301
   force = true
   
