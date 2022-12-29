@@ -13,16 +13,24 @@ For secure and encrypted communication, you can find my GPG key here: [C185 9ED0
 
 ### Message
 
-If you'd like to get in touch with me and chat, feel free to send me a message on **Matrix**: [@nour:mozilla.org](https://matrix.to/#/@nour:mozilla.org)
+If you'd like to get in touch with me and chat, feel free to send me a message on **Matrix**:
+
+[@nour:mozilla.org](https://matrix.to/#/@nour:mozilla.org)
 
 ### Social
 
-You can find and follow me on the [Fosstodon](https://fosstodon.org) server on **Mastodon**: https://agha.dev/@nour
+You can find and follow me on the [Fosstodon](https://fosstodon.org) server on **Mastodon**:
+
+https://agha.dev/@nour
 
 ### Identity
 
-My digital identities are signed and verified using OpenPGP and can be found on **Keyoxide**: https://keyoxide.org/nour@agha.dev
+My digital identities are signed and verified with my GPG key and can be found on **Keyoxide**:
+
+https://keyoxide.org/nour@agha.dev
 
 ### Links
 
-A full list of my accounts, emails and socials can be found on my links page: https://links.agha.dev
+A full list of my accounts, emails and socials can be found on my links page:
+
+https://links.agha.dev
