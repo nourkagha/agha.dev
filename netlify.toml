@@ -132,3 +132,4 @@
   from = "https://mta-sts.nouragha.com/*"
   to = "https://nouragha.com/:splat"
   status = 302
+  force = true
