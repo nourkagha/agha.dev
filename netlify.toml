@@ -88,10 +88,9 @@
   force = true
 
 [[redirects]]
-  from = "https://mta-sts.agha.dev"
-  to = "https://agha.dev"
-  status = 302
-  force = true
+  from = "https://mta-sts.agha.dev/*"
+  to = "https://agha.dev/.well-known/mta-sts.txt"
+  status = 200
 
 [[redirects]]
   from = "https://nouragha.com/*"
@@ -124,12 +123,6 @@
   force = true
 
 [[redirects]]
-  from = "https://mta-sts.nouragha.com/.well-known/mta-sts.txt"
+  from = "https://mta-sts.nouragha.com/*"
   to = "https://agha.dev/.well-known/mta-sts.txt"
   status = 200
-
-[[redirects]]
-  from = "https://mta-sts.nouragha.com/*"
-  to = "https://nouragha.com/:splat"
-  status = 302
-  force = true
