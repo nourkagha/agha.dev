@@ -65,7 +65,7 @@ pygmentscodefencesguesssyntax = true
   name = "Mastodon"
   icon = "fa fa-2x fa-mastodon"
   weight = 4
-  url = "https://mastodon.agha.dev"
+  url = "https://agha.dev/@nour"
   rel = "me"
 [[params.social]]
   name = "LinkedIn"
