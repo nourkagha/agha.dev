@@ -13,7 +13,7 @@ For secure and encrypted communication, you can find my GPG key here: [C185 9ED0
 
 ### Message
 
-If you'd like to get in touch with me and chat, feel free to send me a message on **Matrix**:
+If you'd like to get in touch and chat with me, feel free to send me a message on **Matrix**:
 
 [@nour:mozilla.org](https://matrix.to/#/@nour:mozilla.org)
 
@@ -31,6 +31,6 @@ https://keyoxide.org/nour@agha.dev
 
 ### Links
 
-A full list of my accounts, emails and socials can be found on my links page:
+A full list of my accounts, email addresses and socials can be found on my links page:
 
 https://links.agha.dev
