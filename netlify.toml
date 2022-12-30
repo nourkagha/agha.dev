@@ -89,6 +89,11 @@
 
 [[redirects]]
   from = "https://mta-sts.agha.dev/*"
+  to = "https://mta-sts.agha.dev/.well-known/mta-sts.txt"
+  status = 302
+
+[[redirects]]
+  from = "https://mta-sts.nouragha.com/.well-known/mta-sts.txt"
   to = "https://agha.dev/.well-known/mta-sts.txt"
   status = 200
 
