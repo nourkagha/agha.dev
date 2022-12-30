@@ -88,6 +88,12 @@
   force = true
 
 [[redirects]]
+  from = "/rss"
+  to = "/index.xml"
+  status = 302
+  force = true 
+
+[[redirects]]
   from = "https://mta-sts.agha.dev/.well-known/mta-sts.txt"
   to = "https://agha.dev/.well-known/mta-sts.txt"
   status = 200
