@@ -105,12 +105,6 @@
   force = true
 
 [[redirects]]
-  from = "https://agha.dev/.well-known/mta-sts.txt"
-  to = "https://mta-sts.agha.dev/.well-known/mta-sts.txt"
-  status = 302
-  force = true
-
-[[redirects]]
   from = "https://nouragha.com/*"
   to = "https://agha.dev/:splat"
   status = 302
