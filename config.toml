@@ -41,6 +41,21 @@ pygmentscodefencesguesssyntax = true
 [permalinks]
   posts = "blog/:slug"
 
+[params.giscus] # https://giscus.app
+  repo = "nourkagha/agha.dev"
+  repoID = "R_kgDOIVKGgw" 
+  category = "Comments"
+  categoryID = "DIC_kwDOIVKGg84CTIJ3"
+  mapping = "pathname"
+  term = ""
+  strict = "0"
+  reactionsEnabled = "1"
+  emitMetadata = "0"
+  inputPosition = "bottom"
+  theme = ""
+  lang = "en"
+  loading = ""
+
 #[params.plausibleAnalytics]
 #  domain = "agha.dev"
 #  serverURL = ""
