@@ -103,6 +103,11 @@
   to = "https://mta-sts.agha.dev/.well-known/mta-sts.txt"
   status = 302
   force = true
+  
+[[redirects]]
+  from = "https://analytics.agha.dev/*"
+  to = "https://analytics.umami.is/share/Xsx2krfZC7YHC6zK/Nour%20Agha"
+  status = 200
 
 [[redirects]]
   from = "https://nouragha.com/*"
