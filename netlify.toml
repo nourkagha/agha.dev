@@ -4,7 +4,7 @@
     X-Frame-Options = "DENY"
     X-XSS-Protection = "0"
     X-Content-Type-Options = "nosniff"
-    Content-Security-Policy = "default-src 'none'; script-src 'self' 'sha256-zxs1Daokqx9WyeUOlq0+TKzxhPeGJxMTg1OJy0ZYjbw=' giscus.app analytics.umami.is cdn.jsdelivr.net; style-src 'self' 'sha256-2ycMMPFUOnyA34Yg3+cS/BEKpCQBZ+CBs9yaEsIzN+E=' giscus.app fonts.googleapis.com cdn.jsdelivr.net; img-src 'self'; font-src 'self' fonts.gstatic.com cdn.jsdelivr.net; connect-src 'self'; child-src 'self'; frame-src 'self' giscus.app youtube-nocookie.com; frame-ancestors 'none'; form-action 'self'; upgrade-insecure-requests; base-uri 'self'; manifest-src 'self'; report-uri https://nour.report-uri.com/r/d/csp/enforce"
+    Content-Security-Policy = "default-src 'none'; script-src 'self' 'sha256-zxs1Daokqx9WyeUOlq0+TKzxhPeGJxMTg1OJy0ZYjbw=' giscus.app analytics.umami.is cdn.jsdelivr.net; style-src 'self' 'sha256-2ycMMPFUOnyA34Yg3+cS/BEKpCQBZ+CBs9yaEsIzN+E=' giscus.app fonts.googleapis.com cdn.jsdelivr.net; img-src 'self'; font-src 'self' fonts.gstatic.com cdn.jsdelivr.net; connect-src 'self' analytics.umami.is; child-src 'self'; frame-src 'self' giscus.app youtube-nocookie.com; frame-ancestors 'none'; form-action 'self'; upgrade-insecure-requests; base-uri 'self'; manifest-src 'self'; report-uri https://nour.report-uri.com/r/d/csp/enforce"
     Referrer-Policy = "strict-origin-when-cross-origin"
     Strict-Transport-Security = "max-age=63072000; includeSubDomains; preload"
     Permissions-Policy = "geolocation=(), midi=(), notifications=(), push=(), sync-xhr=(), microphone=(), camera=(), magnetometer=(), gyroscope=(), speaker=(), vibrate=(), fullscreen=(), payment=()"
