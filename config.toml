@@ -12,7 +12,7 @@ pygmentscodefencesguesssyntax = true
 
 [params]
   author = "Nour Agha"
-  info = "Software Engineer"
+  info = ["Computer Engineer", "Software Developer"]
   description = "My personal website and blog."
   keywords = "blog,developer,personal"
   avatarurl = "images/avatar.jpg"
