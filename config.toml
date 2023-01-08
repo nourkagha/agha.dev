@@ -56,10 +56,6 @@ pygmentscodefencesguesssyntax = true
   lang = "en"
   loading = ""
 
-#[params.plausibleAnalytics]
-#  domain = "agha.dev"
-#  serverURL = ""
-
 # Social links
 [[params.social]]
   name = "Mail"
