@@ -2,35 +2,35 @@ baseurl = "https://agha.dev"
 title = "Nour Agha"
 theme = "hugo-coder"
 languagecode = "en"
-defaultcontentlanguage = "en"
-
+defaultContentLanguage = "en"
 paginate = 20
+enableEmoji = true
 
-pygmentsstyle = "bw"
-pygmentscodefences = true
-pygmentscodefencesguesssyntax = true
+[markup.highlight]
+  style = "github-dark"
 
 [params]
   author = "Nour Agha"
   info = ["Computer Engineer", "Software Developer"]
   description = "My personal website and blog."
   keywords = "blog,developer,personal"
-  avatarurl = "images/avatar.jpg"
+  avatarURL = "images/avatar.jpg"
+  dateFormat = "January 1, 2000"
+  since = 2022
 
   touchIcon = "images/apple-touch-icon.png"  
   favicon_32 = "images/favicon-32x32.png"
   favicon_16 = "images/favicon-16x16.png"
 
-  since = 2022
-
-  enableTwemoji = true
   maxSeeAlsoItems = 5
+  rtl = false
   colorScheme = "auto"
-  hidecolorschemetoggle = false
+  hideColorSchemeToggle = false
 
   customCSS = []
   customSCSS = []
   customJS = []
+  customRemoteJS = []
 
 [taxonomies]
   category = "categories"
