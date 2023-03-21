@@ -4,4 +4,4 @@
 
 My personal website and blog, built with [Hugo](https://github.com/gohugoio/hugo) & [Coder](https://github.com/luizdepra/hugo-coder).
 
-Privacy-friendly analytics by [Umami](https://umami.is): https://analytics.agha.dev
+Privacy-friendly analytics: https://analytics.agha.dev
