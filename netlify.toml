@@ -91,7 +91,13 @@
   from = "/rss"
   to = "/index.xml"
   status = 302
-  force = true 
+  force = true
+
+[[redirects]]
+  from = "https://status.agha.dev/*"
+  to = "https://stats.uptimerobot.com/Q8KKEHXGK1"
+  status = 302
+  force = true
 
 [[redirects]]
   from = "https://mta-sts.agha.dev/.well-known/mta-sts.txt"
