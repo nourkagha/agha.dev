@@ -7,3 +7,24 @@ My personal website and blog, built with [Hugo](https://github.com/gohugoio/hugo
 Privacy-friendly analytics: https://plausible.agha.dev/agha.dev
 
 Status: https://status.agha.dev
+
+## Build
+
+### Requirements
+
+- [Hugo](https://gohugo.io/installation)
+- [Netlify CLI](https://www.netlify.com/products/cli)
+
+### Development
+
+Clone the repository:
+
+    git clone --recurse-submodules https://github.com/nourkagha/agha.dev
+
+Change into the source directory:
+
+    cd agha.dev
+    
+Run the local development server:
+
+    netlify dev
