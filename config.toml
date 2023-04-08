@@ -15,7 +15,7 @@ enableEmoji = true
   description = "My personal website and blog."
   keywords = "blog,developer,personal"
   avatarURL = "images/avatar.jpg"
-  dateFormat = "January 1, 2000"
+  dateFormat = "January 2, 2006"
   since = 2022
 
   touchIcon = "images/apple-touch-icon.png"  
