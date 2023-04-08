@@ -12,7 +12,7 @@ series = []
 
 Welcome to my blog!
 
-This will be a home for my thoughts, opinions and perspectives, and a place to share my ideas, projects, guides and documentation. I aim to make my guides and documentation user-friendly and accessible to anyone regardless of technical background, where possible or necessary.
+This will be a home for my thoughts, opinion and perspective, and a place to share my ideas, projects, guides and documentation. I aim to make my guides and documentation user-friendly and accessible to anyone regardless of technical background, where possible or necessary.
 
 You can find out and explore more about me and my background [here](/about), where I cover my main areas, passions and interests. If you would like to connect, need help or have any questions, you can reach out and get in contact with me [here](/contact).
 
