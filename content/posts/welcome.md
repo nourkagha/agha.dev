@@ -12,8 +12,12 @@ series = []
 
 Welcome to my blog!
 
-This is a home for my thoughts, opinion and perspective, and a place to share my ideas, projects, guides and documentation. I aim to make my guides and documentation user-friendly and accessible to anyone regardless of technical background, where possible or necessary.
+This is a place to share my ideas, projects, guides and documentation, and a home for my thoughts, opinions, insights and perspectives regarding any topics or subjects of interest. When it comes to technical blogs, my aim is to make my guides and documentation user-friendly and accessible to anyone regardless of technical skill and background, where possible or necessary.
 
-You can find out and explore more about me and my background [here](/about), where I cover my main areas, passions and interests. If you would like to connect, need help or have any questions, you can reach out and get in [contact](/contact) with me.
+You can find out and explore more about me and my background [here](/about), where I cover my main areas, passions and interests. If you would like to connect, need help or have any questions, feel free to reach out and get in [contact](/contact) with me – I'm always happy to chat and meet new people.
 
-I have a lot of stuff coming up, including some big music projects that I have been planning for a long time, and I can't wait to share it with the world. You can subscribe to any updates by following my [RSS](/rss) feed.
+I have a lot of stuff coming up, including some big music projects that I have been planning for a long time and span more than a decade of inspiration, and I can't wait to share it with the world.
+
+The source code for this website and blog lives on [GitHub](https://github.com/nourkagha/agha.dev).
+
+You can subscribe to any updates by following my [RSS](/rss) feed.

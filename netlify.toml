@@ -94,6 +94,12 @@
   force = true
 
 [[redirects]]
+  from = "https://analytics.agha.dev/*"
+  to = "https://plausible.agha.dev/agha.dev"
+  status = 302
+  force = true
+
+[[redirects]]
   from = "https://status.agha.dev/*"
   to = "https://stats.uptimerobot.com/Q8KKEHXGK1"
   status = 302
