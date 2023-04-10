@@ -90,7 +90,7 @@
 [[redirects]]
   from = "/rss"
   to = "/index.xml"
-  status = 302
+  status = 301
   force = true
 
 [[redirects]]
