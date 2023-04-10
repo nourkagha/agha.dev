@@ -4,7 +4,7 @@
 
 My personal website and blog, built with [Hugo](https://github.com/gohugoio/hugo) & [Coder](https://github.com/luizdepra/hugo-coder) and deployed on [Netlify](https://netlify.com).
 
-Privacy-friendly analytics: https://plausible.agha.dev/agha.dev
+Privacy-friendly analytics: https://analytics.agha.dev
 
 Status: https://status.agha.dev
 
