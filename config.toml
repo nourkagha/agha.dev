@@ -13,6 +13,7 @@ enableEmoji = true
   author = "Nour Agha"
   info = ["Computer Engineer", "Software Developer"]
   description = "My personal website and blog."
+  images = ["images/cover.png"]
   keywords = "blog,developer,personal"
   avatarURL = "images/avatar.jpg"
   dateFormat = "January 2, 2006"
