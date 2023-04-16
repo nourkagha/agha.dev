@@ -56,7 +56,7 @@ Football is a huge passion and important part of my life, and I'm a big fan of s
 
 ### Germany
 
-My earliest footballing memory is the 2002 World Cup. I really liked Germany and supported them throughout the tournament and final and became interested in German football. My favourite German national team player was Michael Ballack and I naturally liked his team Bayern Munich in the Bundesliga, although I did not watch or follow league football at the time. Bastian Schweinsteiger, who had also played for both Germany and Bayern, similarly became one of my favourite footballers of all time. I have great admiration and appreciation for German football, which includes the Germany national team who I've followed internationally, the Bundesliga and Bayern Munich – a club I like, respect and have a soft spot for.
+My earliest footballing memory is the World Cup in 2002. I really liked Germany and supported them throughout the tournament and final and became interested in German football. My favourite German national team player was Michael Ballack and I naturally liked his team Bayern Munich in the Bundesliga, although I did not watch or follow league football at the time. Bastian Schweinsteiger, who had also played for both Germany and Bayern, similarly became one of my favourite footballers of all time. I have great admiration and appreciation for German football, which includes the Germany national team who I've followed internationally, the Bundesliga and Bayern Munich – a club I like, respect and have a soft spot for.
 
 ### Chelsea FC
 
