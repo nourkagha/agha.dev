@@ -50,7 +50,7 @@ This returns a JSON document which looks like this:
 
 To create a Mastodon alias, it involves a simple trick, and all you have to do is host a WebFinger endpoint on your own domain at `/.well-known/webfinger`, the same place it lives on your Mastodon server (i.e. fosstodon.org). For a WebFinger query or lookup to be successful, it needs to find this at the root of your website as a JSON formatted document containing your profile information to be returned.
 
-You can visit this link and you will find that it returns the same JSON document above:
+You can visit this URL and you will find that it returns the same JSON document above:
 
     https://agha.dev/.well-known/webfinger
     
