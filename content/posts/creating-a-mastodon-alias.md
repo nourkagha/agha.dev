@@ -56,7 +56,7 @@ You can visit this link and you will find that it returns the same JSON document
     
 When you search for **nour@agha.dev** on Mastodon, a WebFinger lookup is done on the `agha.dev` domain, which finds my Fosstodon account or profile information, and leads to my Fosstodon profile being returned as a result.
 
-Other people can now find me by the same identity and address I use for my email and don't even need to know or memorize what server I'm on or instance I decide to migrate to, because the alias is the same. If I need to migrate to another Mastodon instance, I will just need to update the JSON document on my website at `.well-known/webfinger` with my new instance and Mastodon username.
+Other people can now find me by the same identity and address I use for my email and don't even need to know or memorize what server I'm on or instance I decide to migrate to, because the alias is the same. If I need to migrate to another Mastodon instance, I will just need to update the JSON document on my website at `/.well-known/webfinger` with my new instance and Mastodon username.
 
 If you would like to get your own alias set up, I would highly recommend the [Masto Guide](https://guide.toot.as/guide/use-your-own-domain) for this, which makes things very easy by allowing you to interactively fill in your information in the placeholder fields.
 
