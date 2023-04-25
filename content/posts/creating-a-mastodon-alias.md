@@ -10,7 +10,7 @@ externalLink = ""
 series = []
 +++
 
-You can create a Mastodon alias with your own custom domain without having to host your own server, thanks to some web magic. It's called an alias because it doesn't change your actual *address*, but it's very useful for identity and discoverability. This means that others can find you on Mastodon (or the wider fediverse) using your alias – a part of your identity that remains unchanged, even if you switch or migrate servers.
+You can create a Mastodon alias with your own custom domain without having to host your own Mastodon server, thanks to some web magic. It's called an alias because it doesn't change your actual *address*, but it's very useful for identity and discoverability. This means that others can find you on Mastodon (or the wider fediverse) using your alias – a part of your identity that remains unchanged, even if you switch or migrate servers.
 
 Since it uses your own custom domain, your Mastodon alias could be the same as your email address, for example. My Mastodon account is **Nour\@fosstodon.org**, but you can also find my account by searching **nour\@agha.dev**.
 
@@ -58,9 +58,9 @@ When you search for **nour@agha.dev** on Mastodon, a WebFinger lookup is done on
 
 Other people can now find me by the same identity and address I use for my email and don't even need to know or memorize what server I'm on or instance I decide to migrate to, because the alias is the same. If I need to migrate to another Mastodon instance, I will just need to update the JSON document on my website at `/.well-known/webfinger` with my new instance and Mastodon username.
 
-If you would like to get your own alias set up, I would highly recommend the [Masto Guide](https://guide.toot.as/guide/use-your-own-domain) for this, which makes things very easy by allowing you to interactively fill in your information in the placeholder fields.
+If you would like to get your own alias set up, I would highly recommend the [Masto Guide](https://guide.toot.as/guide/use-your-own-domain) for this, which makes things very easy by allowing you to interactively fill your information in the placeholder fields.
 
-After I had my alias set up, I decided to take things a step further. Instead of only being found with my custom alias through Mastodon search, I also wanted a way to be able to externally link my account to people outside Mastodon while using my custom domain for consistency. For example, if someone visits https://agha.dev/@nour, it would redirect to my Mastodon profile at https://fosstodon.org/@Nour.
+After I had my alias set up, I decided to take things a step further. Instead of only being found with my custom alias through Mastodon search, I also wanted a way to be able to externally link my account to people outside Mastodon while using my custom domain for consistency. For example, visiting https://agha.dev/@nour would redirect to my Mastodon profile at https://fosstodon.org/@Nour.
 
 There are a lot of ways to do URL redirects, and since my website is hosted on Netlify, this is easily achievable with their powerful and flexible [redirects and rewrites](https://docs.netlify.com/routing/redirects).
 
