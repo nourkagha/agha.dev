@@ -64,7 +64,7 @@ Lastly, in order to enable MTA-STS and signal that my domain supports it, a DNS 
 - Type: `TXT`
 - Value: `v=STSv1; id=1666328180`
 
-The `id` is set as the current time in epoch (UNIX) time (the amount of seconds since January 1, 1970). `1666328180` refers to October 21, 2022, which is the time I created and published my policy. It needs to be unique and updated every time any changes or updates are made to the policy. An [epoch converter](https://www.epochconverter.com) is useful.
+The `id` is set as the current time in epoch (UNIX) time (the amount of seconds since 1 January 1970). `1666328180` refers to October 21, 2022, which is the time I created and published my policy. It needs to be unique and updated every time any changes or updates are made to the policy. An [epoch converter](https://www.epochconverter.com) is useful.
 
 To add and enable TLS-RPT (SMTP TLS Reporting) reports for statistics such as successes and failures, I use [Report URI](https://report-uri.com) to collect the reports and have the following DNS record added:
 
