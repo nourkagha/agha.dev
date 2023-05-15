@@ -4,13 +4,15 @@ title = "Hosting an MTA-STS policy using Hugo and Netlify"
 description = "Create an MTA-STS policy to secure your emails on a domain hosted with Hugo and Netlify."
 slug = ""
 authors = []
-tags = []
-categories = []
+tags = ["security", "email", "web"]
+categories = ["security"]
 externalLink = ""
 series = []
 +++
 
-An [MTA-STS](https://emailsecurity.blog/configuring-mta-sts-and-smtp-tls-rpt) (Mail Transfer Agent Strict Transport Security) policy is essential for securing your emails with both encryption and authentication to prevent potential and malicious MITM (man-in-the-middle) attacks involving interception and tampering during transit through SMTP (Simple Mail Transfer Protocol) used by mail providers. MTA-STS is a fairly new standard which has been adopted by [Google](https://security.googleblog.com/2019/04/gmail-making-email-more-secure-with-mta.html) for Gmail only a few years ago and makes email communication much more secure. If you have and use your own domain for email, you will need to create, configure and publish your own MTA-STS policy.
+An [MTA-STS](https://emailsecurity.blog/configuring-mta-sts-and-smtp-tls-rpt) (Mail Transfer Agent Strict Transport Security) policy is essential for securing your emails with both encryption and authentication. This helps prevent potential and malicious MITM (man-in-the-middle) attacks which involve interception and tampering during transit through SMTP (Simple Mail Transfer Protocol) used by mail providers. MTA-STS is a fairly new standard which has been adopted by [Google](https://security.googleblog.com/2019/04/gmail-making-email-more-secure-with-mta.html) for Gmail only a few years ago and makes email communication much more secure. If you have and use your own domain for email, you will need to create, configure and publish your own MTA-STS policy.
+
+# Creating a policy
 
 My MTA-STS policy is published and can be accessed at `https://mta-sts.agha.dev/.well-known/mta-sts.txt`. For your domain, this similarly requires defining and configuring your policy in an `mta-sts.txt` file under a `.well-known` directory at the root of an `mta-sts` subdomain. In a Hugo repository, for `.well-known` to be at the root of your site, it should go under the `/static` directory at the root of your repository. The `mta-sts.txt` file should have the following contents:
 
@@ -36,6 +38,8 @@ This can be easily done by creating a different branch (`mta-sts`) within my sit
 
 Placing my `mta-sts.txt` policy configuration file under the `.well-known` directory in my main branch was the best approach, but there was one problem. This would serve it from my base domain `agha.dev` rather than the `mta-sts.agha.dev` subdomain.
 
+# Redirects and rewrites
+
 This is where Netlify [redirects and rewrites](https://docs.netlify.com/routing/redirects), as ever, come in handy. To solve this, defining some redirects and rewrites in my `netlify.toml` file was needed as follows:
 
 ```toml
@@ -56,6 +60,8 @@ The first redirect rule uses the HTTP 200 code and essentially does a rewrite by
 The second redirect rule is a simple HTTP 302 redirect and uses a `*` wildcard. which makes it so that visiting the `https://mta-sts.agha.dev` subdomain always redirects to my MTA-STS policy configuration in `mta-sts.txt`, no matter what's typed after the URL. This is important because this subdomain is not going to be used for serving anything else other than my MTA-STS policy, and due to how the DNS records are configured in Netlify, not having this redirect would instead make the URL serve my website rather than the policy.
 
 If we visit `https://mta-sts.agha.dev/.well-known/mta-sts.txt`, we can see that my policy is successfully returned. For short, it can also be accessed at `https://mta-sts.agha.dev`, but the full URL is what mail servers need and look for when checking for an MTA-STS policy.
+
+# DNS records
 
 Lastly, in order to enable MTA-STS and signal that my domain supports it, a DNS record should be defined as follows:
 
