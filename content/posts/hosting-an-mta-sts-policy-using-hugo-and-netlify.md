@@ -81,4 +81,4 @@ To add and enable TLS-RPT (SMTP TLS Reporting) reports for statistics such as su
 
 This sends reports to `nour-d@tlsrpt.report-uri.com`, which allows the reports and statistics to be displayed in my Report URI dashboard. It can be substituted for one of my emails, but using a service like Report URI collects and aggregates the reports and displays them to be visualized in a nicer way through graphs.
 
-After setting up MTA-STS and TLS-RPT, [Hardenize](https://www.hardenize.com/report/agha.dev) shows that my domain is properly secured and hardened for email.
+After setting up MTA-STS and TLS-RPT, [Hardenize](https://www.hardenize.com/report/agha.dev) shows that my domain is properly hardened and secured for email.
