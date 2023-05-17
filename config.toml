@@ -7,6 +7,7 @@ paginate = 20
 enableEmoji = true
 
 [markup.highlight]
+  noClasses = false
   style = "catppuccin-mocha"
 
 [params]
@@ -28,7 +29,7 @@ enableEmoji = true
   colorScheme = "auto"
   hideColorSchemeToggle = false
 
-  customCSS = []
+  customCSS = ["css/syntax-catppuccin-mocha.css"]
   customSCSS = []
   customJS = []
   customRemoteJS = []
