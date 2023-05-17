@@ -7,7 +7,7 @@ paginate = 20
 enableEmoji = true
 
 [markup.highlight]
-  style = "github-dark"
+  style = "catppuccin-mocha"
 
 [params]
   author = "Nour Agha"
