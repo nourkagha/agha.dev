@@ -8,7 +8,6 @@ enableEmoji = true
 
 [markup.highlight]
   noClasses = false
-  style = "github-dark"
 
 [params]
   author = "Nour Agha"
@@ -29,8 +28,8 @@ enableEmoji = true
   colorScheme = "auto"
   hideColorSchemeToggle = false
 
-  customCSS = ["css/syntax-github-dark.css"]
-  customSCSS = []
+  customCSS = []
+  customSCSS = ["scss/syntax_github.scss"]
   customJS = []
   customRemoteJS = []
 
