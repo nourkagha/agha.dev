@@ -16,7 +16,7 @@ An [MTA-STS](https://emailsecurity.blog/configuring-mta-sts-and-smtp-tls-rpt) (M
 
 My MTA-STS policy is published and can be accessed at `https://mta-sts.agha.dev/.well-known/mta-sts.txt`. For your domain, this similarly requires defining and configuring your policy in an `mta-sts.txt` file under a `.well-known` directory at the root of an `mta-sts` subdomain. In a Hugo repository, for `.well-known` to be at the root of your site, it should go under the `/static` directory at the root of your repository. The `mta-sts.txt` file should have the following contents:
 
-```
+```txt
 version: STSv1
 mode: enforce
 mx: mail.protonmail.ch
