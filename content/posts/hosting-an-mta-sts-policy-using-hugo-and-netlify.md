@@ -10,7 +10,7 @@ externalLink = ""
 series = []
 +++
 
-An [MTA-STS](https://emailsecurity.blog/configuring-mta-sts-and-smtp-tls-rpt) (Mail Transfer Agent Strict Transport Security) policy is essential for securing your emails with both encryption and authentication. This helps prevent potential and malicious MITM (man-in-the-middle) attacks which involve interception and tampering during transit through SMTP (Simple Mail Transfer Protocol) used by mail providers. MTA-STS is a fairly new standard which has been adopted by [Google](https://security.googleblog.com/2019/04/gmail-making-email-more-secure-with-mta.html) for Gmail only a few years ago and makes email communication much more secure. If you have and use your own domain for email, you will need to create, configure and publish your own MTA-STS policy.
+An [MTA-STS](https://emailsecurity.blog/configuring-mta-sts-and-smtp-tls-rpt) (Mail Transfer Agent Strict Transport Security) policy is essential for securing your emails with both encryption and authentication. This helps prevent potential and malicious MITM (man-in-the-middle) attacks which involve interception and tampering during transit through SMTP (Simple Mail Transfer Protocol) used by mail providers. MTA-STS is a fairly new standard which makes email communication much more secure, and has been adopted by [Google](https://security.googleblog.com/2019/04/gmail-making-email-more-secure-with-mta.html) a few years ago and [Microsoft](https://techcommunity.microsoft.com/t5/exchange-team-blog/introducing-mta-sts-for-exchange-online/ba-p/3106386) only a year ago. If you have and use your own domain for email, you will need to create, configure and publish your own MTA-STS policy.
 
 # Creating a policy
 
@@ -59,7 +59,7 @@ The first redirect rule uses the HTTP 200 code and essentially does a rewrite by
 
 The second redirect rule is a simple HTTP 302 redirect and uses a `*` wildcard. which makes it so that visiting the `https://mta-sts.agha.dev` subdomain always redirects to my MTA-STS policy configuration in `mta-sts.txt`, no matter what's typed after the URL. This is important because this subdomain is not going to be used for serving anything else other than my MTA-STS policy, and due to how the DNS records are configured in Netlify, not having this redirect would instead make the URL serve my website rather than the policy.
 
-If we visit `https://mta-sts.agha.dev/.well-known/mta-sts.txt`, we can see that my policy is successfully returned. For short, it can also be accessed at `https://mta-sts.agha.dev`, but the full URL is what mail servers need and look for when checking for an MTA-STS policy.
+If we visit `https://mta-sts.agha.dev/.well-known/mta-sts.txt`, we can see that my policy is successfully returned and served from the correct URL. For short, it can also be accessed at `https://mta-sts.agha.dev`, but the full URL is what mail servers need and look for when checking for an MTA-STS policy.
 
 # DNS records
 
