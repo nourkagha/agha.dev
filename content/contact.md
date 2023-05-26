@@ -7,7 +7,7 @@ author = "Nour Agha"
 
 ### Message
 
-You can contact me at ✉️ [nour@agha.dev](mailto:nour@agha.dev) or [hello@nouragha.com](mailto:hello@nouragha.com).
+You can contact me at ✉️ [nour@agha.dev](mailto:nour@agha.dev), [hello@nouragha.com](mailto:hello@nouragha.com) or [hi@nour.lol](mailto:hi@nour.lol).
 
 For secure and encrypted communication, you can find my GPG key here: [C185 9ED0 57E7 14DC](/gpg)
 
