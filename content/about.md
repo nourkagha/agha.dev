@@ -17,7 +17,7 @@ My background covers my main areas, passions and interests which include some of
 - [Education](#education)
 - [Software](#software)
   - [Programming](#programming)
-  - [Free and Open Source Software](#free-and-open-source-software)
+  - [Free and Open Source](#free-and-open-source)
   - [Privacy and Security](#privacy-and-security)
 - [Music](#music)
 - [Gaming](#gaming)
@@ -42,7 +42,7 @@ Software and programming are my ideal and preferred profession and field. I enjo
 
 I'm experienced and familiar with C/C++ and Java, and I'm very interested in and currently learning Rust and Go which have recently emerged as my favourite modern languages. Python is also a language I never got the chance to learn, even though it's a lot simpler and I need to familiarize myself with its syntax. There are a lot of other languages, apart from frameworks, I'm interested in eventually learning later on such as Ruby, Kotlin, Dart, Lua and more. I'm familiar with basic shell scripting which I use to automate some tasks on my system, and I've been working on and building some projects recently using frameworks such as Hugo, which this site is based on, and Next.js. I have a server on DigitalOcean which I use for development and self-hosting some personal services, and when it comes to web projects I prefer to go serverless with Netlify and Vercel.
 
-### Free and Open Source Software
+### Free and Open Source
 
 Over the years, I grew very passionate and enthusiastic about [free](https://fsf.org) (as in freedom, or in other words, libre) and [open source](https://opensource.org) software, and I enjoy developing and contributing to projects, especially ones that I use and rely on such as the [theme](https://github.com/luizdepra/hugo-coder/commits?author=nourkagha) of this website and popular and widely used privacy and security tools like [Cryptomator](https://github.com/cryptomator/cryptomator/commits?author=nourkagha). Open source software promotes community, trust and transparency and allows for endless possibilities and innovation through interoperability, collaboration, inspiration, learning, knowledge-sharing and freedom which collectively benefit and improve society. The largest example of this is the Linux kernel which the computing, networking, server and cloud infrastructure of the world is built on, and powers most people's smartphones through the Android operating system. I prefer to and almost always use free and open source software, but I don't mind using closed source or proprietary software if there is no viable or better alternative or if it helps achieve or get something done much more efficiently, especially if it has good design and practices.
 
