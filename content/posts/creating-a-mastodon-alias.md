@@ -20,9 +20,11 @@ To understand how this works, you will need to understand how Mastodon search wo
 
 For example, when you search for **Nour\@fosstodon.org** on Mastodon, a GET request is performed at a WebFinger endpoint which looks like this:
 
-    https://fosstodon.org/.well-known/webfinger?resource=acct:Nour@fosstodon.org
+```txt
+https://fosstodon.org/.well-known/webfinger?resource=acct:Nour@fosstodon.org
+```
 
-This returns a JSON document which looks like this:
+This returns a JSON document as follows:
 
 ```json
 {
@@ -54,8 +56,10 @@ To create a Mastodon alias, it involves a simple trick, and all you have to do i
 
 You can visit this URL and you will find that it returns the same JSON document above:
 
-    https://agha.dev/.well-known/webfinger
-    
+```txt
+https://agha.dev/.well-known/webfinger
+``` 
+
 When you search for **nour\@agha.dev** on Mastodon, a WebFinger lookup is done on the `agha.dev` domain, which finds my Fosstodon account or profile information, and leads to my Fosstodon profile being returned as a result.
 
 Other people can now find me by the same identity and address I use for my email and don't need to know or memorize what server I'm on or instance I decide to migrate to, because the alias is the same. If I need to migrate to another Mastodon instance, I will just need to update the JSON document on my website at `/.well-known/webfinger` with my new instance and Mastodon username.
