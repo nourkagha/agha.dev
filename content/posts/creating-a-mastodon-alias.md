@@ -24,7 +24,7 @@ For example, when you search for **Nour\@fosstodon.org** on Mastodon, a GET requ
 https://fosstodon.org/.well-known/webfinger?resource=acct:Nour@fosstodon.org
 ```
 
-This returns a JSON document as follows:
+This returns the below JSON document:
 
 ```json
 {
