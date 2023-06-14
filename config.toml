@@ -29,7 +29,7 @@ enableEmoji = true
   hideColorSchemeToggle = false
 
   customCSS = []
-  customSCSS = ["scss/syntax_github.scss"]
+  customSCSS = []
   customJS = []
   customRemoteJS = []
 
