@@ -33,4 +33,4 @@ My digital identities are signed and verified with my GPG key and can be found o
 
 A full list of my accounts, email addresses and socials can be found on my links page:
 
-🔗 https://links.agha.dev
+🔗 https://nour.lol
