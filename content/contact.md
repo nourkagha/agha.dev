@@ -31,6 +31,6 @@ My digital identities are signed and verified with my GPG key and can be found o
 
 ### Links
 
-A full list of my accounts, email addresses and socials can be found on my links page:
+A full list of my currently active accounts, email addresses and socials can be found on my links page:
 
 🔗 https://nour.lol
