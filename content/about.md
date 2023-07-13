@@ -60,7 +60,7 @@ As the speed at which our technology is advancing grows exponentially, we have a
 
 ## Music
 
-I grew up listening to everything like a lot of people, with my background mainly in rock music through different bands and early influences such as Linkin Park, Green Day and Muse. I was heavily drawn towards the electronic sounds produced by the electric guitar which became my favourite instrument, and I started taking guitar lessons in 2006. We also had an electronic keyboard at home, apart from a grand piano, and I love some good piano chords. It did not take me long until I found myself exactly where I needed to be.
+I grew up listening to everything like a lot of people, with my background mainly in rock music through different bands and early influences such as Linkin Park, Green Day and Muse. I was heavily drawn towards the electronic sounds produced by the electric guitar which became my favourite instrument, and I started taking guitar lessons in 2006. We also had an electronic keyboard at home, apart from a grand piano, and there are a few things I love more than some good piano chords. It did not take me long until I found myself exactly where I needed to be.
 
 My electronic music journey started in 2007 with trance and house music, through legendary acts and pioneers such as Tiësto, Armin van Buuren, Paul van Dyk, Above & Beyond, Cosmic Gate, Dash Berlin, Ferry Corsten, Markus Schulz, David Vendetta, deadmau5, Eric Prydz, Dirty South and more. I was introduced to a lot of new sounds and styles, and the energy and emotion in some tracks was unlike anything I had ever heard, felt or experienced before.
 
