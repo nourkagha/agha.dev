@@ -11,7 +11,7 @@ enableEmoji = true
 
 [params]
   author = "Nour Agha"
-  info = ["Computer Engineer", "Software Developer"]
+  info = ["Software Engineer"]
   description = "My personal website and blog."
   images = ["images/cover.png"]
   keywords = "blog,developer,personal"
