@@ -60,39 +60,29 @@ enableEmoji = true
 # Social links
 [[params.social]]
   name = "Mail"
-  icon = "fa fa-2x fa-envelope"
+  icon = "fa fa-envelope fa-2x"
   weight = 1
   url = "mailto:nour@agha.dev"
 [[params.social]]
   name = "GitHub"
-  icon = "fa fa-2x fa-github"
+  icon = "fa-brands fa-github fa-2x"
   weight = 2
   url = "https://github.agha.dev"
 [[params.social]]
-  name = "Matrix"
-  icon = "fa fa-2x fa-matrix-org"
-  weight = 3
-  url = "https://matrix.agha.dev"
-[[params.social]]
   name = "Mastodon"
-  icon = "fa fa-2x fa-mastodon"
-  weight = 4
+  icon = "fa-brands fa-mastodon fa-2x"
+  weight = 3
   url = "https://agha.dev/@nour"
   rel = "me"
 [[params.social]]
   name = "LinkedIn"
-  icon = "fa fa-2x fa-linkedin"
-  weight = 5
+  icon = "fa-brands fa-linkedin fa-2x"
+  weight = 4
   url = "https://linkedin.agha.dev"
-[[params.social]]
-  name = "GnuPG"
-  icon = "fa fa-2x fa-gnupg"
-  weight = 6
-  url = "gpg"
 #[[params.social]]
 #  name = "RSS"
-#  icon = "fa fa-2x fa-rss"
-#  weight = 7
+#  icon = "fa fa-rss fa-2x"
+#  weight = 5
 #  url = "index.xml"
 #  rel = "alternate"
 #  type = "application/rss+xml"
