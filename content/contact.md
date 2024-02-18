@@ -27,7 +27,7 @@ You can find and follow me on the [Fosstodon](https://fosstodon.org) server on *
 
 My digital identities are signed and verified with my GPG key and can be found on **Keyoxide**:
 
-🔑 https://keyoxide.org/nour@agha.dev
+🔑 https://keyoxide.org/135F691534C8919295ED97C1C1859ED057E714DC
 
 ### Links
 
