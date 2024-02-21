@@ -15,9 +15,9 @@ For secure and encrypted communication, you can find my GPG key here: [135F 6915
 
 If you'd like to get in touch and chat with me, feel free to send me a message:
 
-🗨️ **Signal**: [nour.01](https://signal.me/#eu/kG31MsSYsHuTUB9uACZVMuqt6Up-5t5rJxEZLAdOU2uaR2GpAfROUriQiLgAmVaX)
+🗨️ **Signal**: [nour.01](https://signal.agha.dev)
 
-🗨 **Matrix**: [@nour:mozilla.org](https://matrix.to/#/@nour:mozilla.org)
+🗨️ **Matrix**: [@nour:mozilla.org](https://matrix.agha.dev)
 
 ### Social
 
