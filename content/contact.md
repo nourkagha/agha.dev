@@ -29,9 +29,9 @@ You can find and follow me on the [Fosstodon](https://fosstodon.org) server on *
 
 My digital identities are cryptographically signed and verified and can be found on **Keyoxide**:
 
-🔑 **OpenPGP:** [openpgp4fpr:135F691534C8919295ED97C1C1859ED057E714DC](https://keyoxide.org/openpgp4fpr:135F691534C8919295ED97C1C1859ED057E714DC)
+🔑 **OpenPGP**: [openpgp4fpr:135F691534C8919295ED97C1C1859ED057E714DC](https://keyoxide.org/openpgp4fpr:135F691534C8919295ED97C1C1859ED057E714DC)
 
-🔑 **ASP:** [aspe:keyoxide.org:NRWOOGRSUA5JACMIMCVAQP4H6E](https://keyoxide.org/aspe:keyoxide.org:NRWOOGRSUA5JACMIMCVAQP4H6E)
+🔑 **ASP**: [aspe:keyoxide.org:NRWOOGRSUA5JACMIMCVAQP4H6E](https://keyoxide.org/aspe:keyoxide.org:NRWOOGRSUA5JACMIMCVAQP4H6E)
 
 ### Links
 
