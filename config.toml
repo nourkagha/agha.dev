@@ -84,15 +84,10 @@ enableEmoji = true
   icon = "fa-brands fa-linkedin fa-2x"
   weight = 5
   url = "https://linkedin.agha.dev"
-[[params.social]]
-  name = "Keyoxide"
-  icon = "fa fa-key fa-2x"
-  weight = 6
-  url = "https://keyoxide.agha.dev"
 #[[params.social]]
 #  name = "RSS"
 #  icon = "fa fa-rss fa-2x"
-#  weight = 7
+#  weight = 6
 #  url = "index.xml"
 #  rel = "alternate"
 #  type = "application/rss+xml"

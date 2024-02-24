@@ -38,6 +38,12 @@
   to = "https://agha.dev/contact"
   status = 301
   force = true
+  
+[[redirects]]
+  from = "/id"
+  to = "/contact/#identity"
+  status = 302
+  force = true
 
 [[redirects]]
   from = "/@nour/*"
@@ -48,12 +54,6 @@
 [[redirects]]
   from = "https://github.agha.dev/*"
   to = "https://github.com/nourkagha/:splat"
-  status = 302
-  force = true
-
-[[redirects]]
-  from = "https://keyoxide.agha.dev/*"
-  to = "https://keyoxide.org/openpgp4fpr:135F691534C8919295ED97C1C1859ED057E714DC"
   status = 302
   force = true
 

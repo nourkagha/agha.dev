@@ -23,16 +23,18 @@ If you'd like to get in touch and chat with me, feel free to send me a message:
 
 You can find and follow me on the [Fosstodon](https://fosstodon.org) server on **Mastodon**:
 
-👥 https://agha.dev/@nour
+👥 [agha.dev/@nour](https://agha.dev/@nour)
 
 ### Identity
 
-My digital identities are signed and verified with my GPG key and can be found on **Keyoxide**:
+My digital identities are cryptographically signed and verified and can be found on **Keyoxide**:
 
-🔑 https://keyoxide.agha.dev
+🔑 **OpenPGP:** [openpgp4fpr:135F691534C8919295ED97C1C1859ED057E714DC](https://keyoxide.org/openpgp4fpr:135F691534C8919295ED97C1C1859ED057E714DC)
+
+🔑 **ASP:** [aspe:keyoxide.org:NRWOOGRSUA5JACMIMCVAQP4H6E](https://keyoxide.org/aspe:keyoxide.org:NRWOOGRSUA5JACMIMCVAQP4H6E)
 
 ### Links
 
 A full list of my currently active accounts, email addresses and socials can be found on my links page:
 
-🔗 https://nour.lol
+🔗 [nour.lol](https://nour.lol)
