@@ -30,7 +30,7 @@ Status: https://status.agha.dev
 
 Clone the repository:
 
-    git clone --recurse-submodules https://github.com/nourkagha/agha.dev
+    git clone --recurse-submodules https://github.agha.dev/agha.dev
 
 Change into the source directory:
 

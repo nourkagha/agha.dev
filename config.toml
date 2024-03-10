@@ -12,7 +12,7 @@ enableEmoji = true
 [params]
   author = "Nour Agha"
   info = ["Software Engineer"]
-  description = "My personal website and blog."
+  description = "Computer engineer and software developer. Free and open source software (FOSS) enthusiast. Privacy, security, digital freedom and humane technology advocate. INFP, dreamer, writer and gamer. Progressive and uplifting electronic music listener, producer and DJ."
   images = ["images/cover.png"]
   keywords = "blog,developer,personal"
   avatarURL = "images/avatar.jpg"
