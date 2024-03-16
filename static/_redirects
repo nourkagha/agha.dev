@@ -1,7 +1,3 @@
-https://nour.agha.dev/* /:splat 301
-https://about.agha.dev/* /about 301
-https://blog.agha.dev/* /blog/:splat 301
-https://contact.agha.dev/* /contact 301
 /@nour/* https://fosstodon.org/@Nour/:splat
 /id/openpgp/* https://keyoxide.org/openpgp4fpr:135F691534C8919295ED97C1C1859ED057E714DC
 /id/asp/* https://keyoxide.org/aspe:keyoxide.org:NRWOOGRSUA5JACMIMCVAQP4H6E
