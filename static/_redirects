@@ -1,10 +1,11 @@
 /rss /index.xml 301
 https://mta-sts.agha.dev/.well-known/mta-sts.txt https://agha.dev/.well-known/mta-sts.txt 200
 https://mta-sts.nouragha.com/.well-known/mta-sts.txt https://agha.dev/.well-known/mta-sts.txt 200
+/@nour https://fosstodon.org/@Nour
 /@nour/* https://fosstodon.org/@Nour/:splat
-/id/openpgp/* https://keyoxide.org/openpgp4fpr:135F691534C8919295ED97C1C1859ED057E714DC
-/id/asp/* https://keyoxide.org/aspe:keyoxide.org:NRWOOGRSUA5JACMIMCVAQP4H6E
-/id/* /contact/#identity
+/id/openpgp https://keyoxide.org/openpgp4fpr:135F691534C8919295ED97C1C1859ED057E714DC
+/id/asp https://keyoxide.org/aspe:keyoxide.org:NRWOOGRSUA5JACMIMCVAQP4H6E
+/id /contact/#identity
 https://github.agha.dev/* https://github.com/nourkagha/:splat
 https://linkedin.agha.dev/* https://linkedin.com/in/nouragha
 https://links.agha.dev/* https://nour.lol
