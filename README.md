@@ -28,9 +28,9 @@ Status: https://status.agha.dev
 
 Clone the repository:
 
-    git clone --recurse-submodules https://github.agha.dev/agha.dev
+    git clone --recurse-submodules https://github.com/nourkagha/agha.dev
 
-Change into the source directory:
+Change to the source directory:
 
     cd agha.dev
     
