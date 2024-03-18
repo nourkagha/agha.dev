@@ -57,6 +57,10 @@ enableEmoji = true
   theme = ""
   lang = "en"
   loading = ""
+  
+[params.umami]
+  siteID = "0c6d4a57-0900-410d-b444-434537e9dc93"
+  scriptURL = "eu.umami.is/script.js" 
 
 # Social links
 [[params.social]]
