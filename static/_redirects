@@ -1,25 +1,7 @@
 /rss /index.xml 301
-https://mta-sts.agha.dev/.well-known/mta-sts.txt https://agha.dev/.well-known/mta-sts.txt 200
-https://mta-sts.nouragha.com/.well-known/mta-sts.txt https://agha.dev/.well-known/mta-sts.txt 200
+/gpg /135F691534C8919295ED97C1C1859ED057E714DC.asc 200
 /@nour https://fosstodon.org/@Nour
 /@nour/* https://fosstodon.org/@Nour/:splat
 /id/openpgp https://keyoxide.org/openpgp4fpr:135F691534C8919295ED97C1C1859ED057E714DC
 /id/asp https://keyoxide.org/aspe:keyoxide.org:NRWOOGRSUA5JACMIMCVAQP4H6E
 /id /contact/#identity
-https://github.agha.dev/* https://github.com/nourkagha/:splat
-https://linkedin.agha.dev/* https://linkedin.com/in/nouragha
-https://links.agha.dev/* https://nour.lol
-https://mastodon.agha.dev/* https://fosstodon.org/@Nour/:splat
-https://matrix.agha.dev/* https://matrix.to/#/@nour:mozilla.org
-https://pixelfed.agha.dev/* https://pixelfed.social/@Nour/:splat
-https://signal.agha.dev/* https://signal.me/#eu/kG31MsSYsHuTUB9uACZVMuqt6Up-5t5rJxEZLAdOU2uaR2GpAfROUriQiLgAmVaX
-https://analytics.agha.dev/* https://analytics.umami.is/share/Xsx2krfZC7YHC6zK/Nour%20Agha
-https://status.agha.dev/* https://stats.uptimerobot.com/Q8KKEHXGK1
-https://mta-sts.agha.dev/* https://mta-sts.agha.dev/.well-known/mta-sts.txt
-https://nouragha.com/* https://agha.dev/:splat
-https://www.nouragha.com/* https://www.agha.dev/:splat
-https://about.nouragha.com/* https://about.agha.dev
-https://blog.nouragha.com/* https://blog.agha.dev/:splat
-https://contact.nouragha.com/* https://contact.agha.dev
-https://links.nouragha.com/* https://links.agha.dev
-https://mta-sts.nouragha.com/* https://mta-sts.nouragha.com/.well-known/mta-sts.txt
