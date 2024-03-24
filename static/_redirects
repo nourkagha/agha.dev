@@ -1,7 +1,7 @@
 /rss /index.xml 301
 /gpg /135F691534C8919295ED97C1C1859ED057E714DC.asc
-/@nour https://fosstodon.org/@Nour
-/@nour/* https://fosstodon.org/@Nour/:splat
 /id/openpgp https://keyoxide.org/openpgp4fpr:135F691534C8919295ED97C1C1859ED057E714DC
 /id/asp https://keyoxide.org/aspe:keyoxide.org:NRWOOGRSUA5JACMIMCVAQP4H6E
 /id /contact/#identity
+/@nour https://fosstodon.org/@Nour
+/@nour/* https://fosstodon.org/@Nour/:splat
