@@ -60,7 +60,7 @@ enableEmoji = true
 
 [params.umami]
   siteID = "0c6d4a57-0900-410d-b444-434537e9dc93"
-  scriptURL = "https://eu.umami.is/script.js" 
+  scriptURL = "https://cloud.umami.is/script.js" 
 
 # Social links
 [[params.social]]
