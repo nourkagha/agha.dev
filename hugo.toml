@@ -72,23 +72,23 @@ enableEmoji = true
   name = "Signal"
   icon = "fa-brands fa-signal-messenger fa-2x"
   weight = 2
-  url = "https://signal.agha.dev"
+  url = "/signal"
 [[params.social]]
   name = "GitHub"
   icon = "fa-brands fa-github fa-2x"
   weight = 3
-  url = "https://github.agha.dev"
+  url = "/github"
 [[params.social]]
   name = "Mastodon"
   icon = "fa-brands fa-mastodon fa-2x"
   weight = 4
-  url = "https://agha.dev/@nour"
+  url = "/@nour"
   rel = "me"
 [[params.social]]
   name = "LinkedIn"
   icon = "fa-brands fa-linkedin fa-2x"
   weight = 5
-  url = "https://linkedin.agha.dev"
+  url = "/linkedin"
 #[[params.social]]
 #  name = "RSS"
 #  icon = "fa fa-rss fa-2x"

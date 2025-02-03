@@ -15,7 +15,7 @@ For secure and encrypted communication, you can find my GPG key here: [135F 6915
 
 If you'd like to get in touch and chat with me, feel free to send me a message:
 
-🗨️ **Signal**: [nour.01](https://signal.agha.dev)
+🗨️ **Signal**: [nour.01](/signal)
 
 🗨️ **Matrix**: [@nour:mozilla.org](https://matrix.agha.dev)
 
@@ -23,7 +23,7 @@ If you'd like to get in touch and chat with me, feel free to send me a message:
 
 You can find and follow me on the [Fosstodon](https://fosstodon.org) server on **Mastodon**:
 
-👥 [agha.dev/@nour](https://agha.dev/@nour)
+👥 [agha.dev/@nour](/@nour)
 
 ### Identity
 
