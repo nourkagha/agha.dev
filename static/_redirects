@@ -1,4 +1,6 @@
 /rss /index.xml 301
+/blog /posts 301
+/blog/* /posts/:splat 301
 /gpg /135F691534C8919295ED97C1C1859ED057E714DC.asc
 /id/openpgp https://keyoxide.org/openpgp4fpr:135F691534C8919295ED97C1C1859ED057E714DC
 /id/asp https://keyoxide.org/aspe:keyoxide.org:NRWOOGRSUA5JACMIMCVAQP4H6E

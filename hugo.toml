@@ -40,9 +40,6 @@ enableEmoji = true
   tag = "tags"
   author = "authors"
 
-[permalinks]
-  posts = "blog/:slug"
-
 [params.giscus] # https://giscus.app
   repo = "nourkagha/agha.dev"
   repoID = "R_kgDOIVKGgw" 
