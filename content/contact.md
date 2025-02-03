@@ -17,7 +17,7 @@ If you'd like to get in touch and chat with me, feel free to send me a message:
 
 🗨️ **Signal**: [nour.01](/signal)
 
-🗨️ **Matrix**: [@nour:mozilla.org](https://matrix.agha.dev)
+🗨️ **Matrix**: [@nour:mozilla.org](/matrix)
 
 ### Social
 
