@@ -18,13 +18,11 @@ Privacy-friendly analytics: https://analytics.agha.dev
 
 Status: https://status.agha.dev
 
-## Build
-
-### Requirements
+## Requirements
 
 - [Hugo](https://gohugo.io/installation)
 
-### Development
+## Development
 
 Clone the repository:
 
@@ -37,6 +35,8 @@ Change to the source directory:
 Run the local development server ([localhost:1313](http://localhost:1313)):
 
     hugo server
+
+## Build
 
 Build the site (published to `/public`):
 
