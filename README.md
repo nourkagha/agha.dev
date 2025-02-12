@@ -14,9 +14,9 @@
 
 My personal website and blog, built with [Hugo](https://github.com/gohugoio/hugo) & [Coder](https://github.com/luizdepra/hugo-coder).
 
-Privacy-friendly analytics: https://analytics.agha.dev
+Privacy-friendly analytics: https://agha.dev/analytics
 
-Status: https://status.agha.dev
+Status: https://agha.dev/status
 
 ## Requirements
 
