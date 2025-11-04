@@ -3,7 +3,6 @@ title = "Nour Agha"
 theme = "hugo-coder"
 languageCode = "en"
 defaultContentLanguage = "en"
-paginate = 20
 enableEmoji = true
 
 [markup.highlight]
@@ -33,6 +32,9 @@ enableEmoji = true
   customSCSS = []
   customJS = []
   customRemoteJS = []
+
+[pagination]
+  pagerSize = 20
 
 [taxonomies]
   category = "categories"
