@@ -7,11 +7,12 @@
 /id /contact/#identity
 /@nour https://fosstodon.org/@Nour
 /@nour/* https://fosstodon.org/@Nour/:splat
-/analytics https://analytics.umami.is/share/Xsx2krfZC7YHC6zK/Nour%20Agha
+/analytics https://cloud.umami.is/share/Xsx2krfZC7YHC6zK
 /github https://github.com/nourkagha
 /github/* https://github.com/nourkagha/:splat
 /linkedin https://linkedin.com/in/nouragha
 /mastodon https://fosstodon.org/@Nour
 /matrix https://matrix.to/#/@nour:mozilla.org
 /signal https://signal.me/#eu/h-Woo03COYWcWUeKI9facvzU5ojz_F-r1E4YKtePmRXHy2WBxiBGsbSMQ2DrIc0-
-/status https://stats.uptimerobot.com/Q8KKEHXGK1
+/status https://status.agha.dev
+/status/* https://status.agha.dev/:splat
