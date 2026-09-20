@@ -14,20 +14,6 @@ I'm a free and open source software ([FOSS](https://en.wikipedia.org/wiki/Free_a
 
 My background covers my main areas, passions and interests which include some of my personal stories, experiences, achievements and goals.
 
-- [Education](#education)
-- [Software](#software)
-  - [Programming](#programming)
-  - [Free and Open Source](#free-and-open-source)
-  - [Privacy and Security](#privacy-and-security)
-- [Music](#music)
-- [Gaming](#gaming)
-  - [RuneScape](#runescape)
-  - [World of Warcraft](#world-of-warcraft)
-- [Football](#football)
-  - [Germany](#germany)
-  - [Chelsea FC](#chelsea-fc)
-- [Philosophy](#philosophy)
-
 ## Education
 
 I have a Bachelor of Science (BS) degree in Computer Engineering and graduated from the [University of Balamand](http://balamand.edu.lb) in Koura, Lebanon. I had previously spent two years at the [American University of Beirut](https://aub.edu.lb) where I lived on campus in Bliss Street, studying Electrical and Computer Engineering as a major. Both programs are [ABET](https://abet.org) accredited. My focus is computer science, software and programming with experience in algorithms, data structures and object-oriented programming, and I have a strong foundational background in electric circuits, electronics, microcontrollers, microprocessors and embedded systems, in addition to operating systems, cybersecurity, networking, telecommunications, digital and analog signal processing, automation and programmable logic controllers.
