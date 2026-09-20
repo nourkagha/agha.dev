@@ -12,7 +12,7 @@
 
 # agha.dev
 
-My personal website and blog, built with [Hugo](https://github.com/gohugoio/hugo) & [Coder](https://github.com/luizdepra/hugo-coder).
+My personal website and blog, built with [Hugo](https://github.com/gohugoio/hugo) & [Blowfish](https://github.com/nunocoracao/blowfish).
 
 Privacy-friendly analytics: https://agha.dev/analytics
 
@@ -21,12 +21,13 @@ Status: https://agha.dev/status
 ## Requirements
 
 - [Hugo](https://gohugo.io/installation)
+- [Go](https://go.dev/doc/install)
 
 ## Development
 
 Clone the repository:
 
-    git clone --recurse-submodules https://github.com/nourkagha/agha.dev
+    git clone https://github.com/nourkagha/agha.dev
 
 Change to the source directory:
 
