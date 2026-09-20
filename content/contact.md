@@ -1,8 +1,12 @@
 +++
 title = "Contact"
-description = "Contact"
-date = "2022-12-31"
-author = "Nour Agha"
+showAuthor = false
+showComments = false
+showDate = false
+showReadingTime = false
+showZenMode = false
+showTableOfContents = false
+sharingLinks = false
 +++
 
 ### Message

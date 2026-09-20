@@ -1,34 +1,38 @@
 +++
 title = "About"
-description = "About"
-date = "2023-03-05"
+showAuthor = false
+showComments = false
+showDate = false
+showReadingTime = false
+showZenMode = false
+sharingLinks = false
 +++
 
-# Introduction
+## Introduction
 
 Hello 👋 I'm Nour, a computer engineer and software developer from Lebanon. I'm an [INFP](https://www.16personalities.com/infp-personality), dreamer, writer, gamer, and a progressive and uplifting electronic music listener, producer and DJ. I'm currently working in a senior support role in the computer guided surgery field in digital dentistry, helping and enabling dental professionals to design, craft and spread more smiles.
 
 I'm a free and open source software ([FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software)) enthusiast and a privacy, security, digital freedom and humane technology advocate. I'm interested in science and philosophy and I'm passionate about [STEM](https://en.wikipedia.org/wiki/Science,_technology,_engineering,_and_mathematics), academically and professionally. My favourite literary and entertainment genres are sci-fi and fantasy. I enjoy music, writing, gaming and football as hobbies.
 
-# Background
+## Background
 
 My background covers my main areas, passions and interests which include some of my personal stories, experiences, achievements and goals.
 
-## Education
+### Education
 
 I have a Bachelor of Science (BS) degree in Computer Engineering and graduated from the [University of Balamand](http://balamand.edu.lb) in Koura, Lebanon. I had previously spent two years at the [American University of Beirut](https://aub.edu.lb) where I lived on campus in Bliss Street, studying Electrical and Computer Engineering as a major. Both programs are [ABET](https://abet.org) accredited. My focus is computer science, software and programming with experience in algorithms, data structures and object-oriented programming, and I have a strong foundational background in electric circuits, electronics, microcontrollers, microprocessors and embedded systems, in addition to operating systems, cybersecurity, networking, telecommunications, digital and analog signal processing, automation and programmable logic controllers.
 
 I attended [The International School of Choueifat](https://isckoura.sabis.net) ([SABIS](https://sabis.net)) in Koura, Lebanon for fifteen years from kindergarten to high school, where I graduated with a Lebanese Baccalaureate certificate in General Sciences. Mathematics, physics and computing were by far my best and favourite academic subjects which I excelled at, and majoring in computer engineering and becoming an engineer was always a clear and easy choice. I also enjoyed learning other sciences such as biology and chemistry, and philosophy, literature and music when it came to arts.
 
-## Software
+### Software
 
-### Programming
+#### Programming
 
 Software and programming are my ideal and preferred profession and field. I enjoy problem-solving and writing, and I'm obsessed with and love organization and detail. I find the structured, organized, detailed and precise nature of writing code to be highly satisfying, and designing, building and programming something to give exactly the desired behaviour, effect or solution to be very fulfilling. Software is a daily and essential part of our lives and digital future; almost every interaction, task or system in today's digital world involves software. It's a greatly fulfilling and rewarding field that enables me to make a significant impact on society by being able to affect and transform the way people interface with and experience the world, making their daily lives and jobs easier and better. As an engineer, I highly value simplicity, minimalism and efficiency, which is what my design philosophy is based on, and I love writing simple, clean and efficient code.
 
 I'm experienced and familiar with C/C++ and Java, and I'm very interested in and currently learning Rust and Go which have recently emerged as my favourite modern languages. Python is also a language I never got the chance to learn, even though it's a lot simpler and I aim to eventually familiarize myself further with its concepts and syntax. There are a lot of other languages, apart from frameworks, I'm interested in learning later on such as Ruby, Kotlin, Dart, Lua and more. I'm familiar with basic shell scripting which I use to automate some tasks on my system, and I've been working on and building some projects recently using frameworks such as Hugo, which this site is based on, and Next.js. I have a server on DigitalOcean which I use for development and self-hosting some personal services, and when it comes to web projects I usually prefer to go serverless with Netlify and Vercel.
 
-### Free and Open Source
+#### Free and Open Source
 
 Over the years, I grew very passionate and enthusiastic about [free](https://fsf.org) (as in freedom, or in other words, libre) and [open source](https://opensource.org) software, and I enjoy developing and contributing to projects, especially ones that I use and rely on such as the [theme](https://github.com/luizdepra/hugo-coder/commits?author=nourkagha) of this website and popular and widely used privacy and security tools like [Cryptomator](https://github.com/cryptomator/cryptomator/commits?author=nourkagha). Open source software promotes community, trust and transparency and allows for endless possibilities and innovation through interoperability, collaboration, inspiration, learning, knowledge-sharing and freedom which collectively benefit and improve society. The largest example of this is the Linux kernel which the computing, networking, server and cloud infrastructure of the world is built on, and powers most people's smartphones through the Android operating system. I prefer to and almost always use free and open source software, but I don't mind using proprietary and closed source software if there is no viable or better alternative or if it helps achieve or get something done much more efficiently, especially if it has good design and practices.
 
@@ -36,7 +40,7 @@ I use [Pop!\_OS](https://pop.system76.com), an Ubuntu-based Linux distribution b
 
 From a very young age, I liked taking things apart that no longer worked to understand how they functioned. I was also particularly fascinated by padlocks, which were my favourite tool, and how a simple locking mechanism provided a strong and satisfying sense and concept of security.
 
-### Privacy and Security
+#### Privacy and Security
 
 Privacy and security became a main topic of interest and the subject of my research in university which included encryption and cryptography. As our lives increasingly became digital, I identified this as a massively impactful issue of global concern and one of the biggest challenges facing humanity, freedom and democracy. A lot of software today is written and designed to exploit the user or person through unhealthy, unethical and unsustainable practices such as invasive personal data collection, user tracking and dark patterns in the name of for-profit and ad-funded business models, and most significantly, [surveillance capitalism](https://en.wikipedia.org/wiki/Surveillance_capitalism). I find this to not only be against the design ethics, moral code and social responsibilities of an engineer, but also against our human values and principles.
 
@@ -44,7 +48,7 @@ In 2020, I started taking my online privacy a lot more seriously after realizing
 
 As the speed at which our technology is advancing grows exponentially, we have a social and moral responsibility as people, designers and engineers to advocate for humane design principles and technology, since regulation continues to fall behind significantly while regulators fail to understand how the underlying technologies work, apart from often being influenced by powerful corporations. Historically, legislation tends to only be enacted when it's too late, unless the harms are physical and immediate. I have found that the main issue is not one of indifference but of a lack of awareness, as there is not enough education to make informed decisions regarding these technologies and issues, and most people are simply unaware about the extent to which they are regularly being tracked, profiled and targeted.
 
-## Music
+### Music
 
 I grew up listening to everything like a lot of people, with my background mainly in rock music through different bands and early influences such as Linkin Park, Green Day and Muse. I was heavily drawn towards the electronic sounds produced by the electric guitar which became my favourite instrument, and I started taking guitar lessons in 2006. We also had an electronic keyboard at home, apart from a grand piano, and there are only a few things I love more than some good piano chords. It did not take me long before I found myself exactly where I needed to be.
 
@@ -58,15 +62,15 @@ Music is much more than a hobby or passion; it is deeply philosophical, and one 
 
 I used Ableton as my digital audio workstation and took a step back from working on music during college to focus on my studies, but I have a lot more to learn and I'm looking forward to getting back into it soon. I worked on a [small project](https://hearthis.at/nour/deep-house-mix-2014) at the time as my first entry into mixing and originally planned to be part of a larger series, and I have a lot of exciting projects planned and a big announcement coming in the near future. I am also planning to move my mixing and production setup from [Ableton Live](https://www.ableton.com/en/live) to [Bitwig Studio](https://bitwig.com/overview), especially since I am now using Linux as my daily driver.
 
-## Gaming
+### Gaming
 
 MMORPGs are my favourite game genre due to their high fantasy, social, living worlds and roleplaying, and my top and main games are RuneScape and World of Warcraft which I've dedicated a significant amount of time to. I also enjoy and play a lot of other games in between such as Minecraft, Overwatch, FIFA, and I'm planning to get into League of Legends in the near future.
 
-### RuneScape
+#### RuneScape
 
 I spent a lot of my childhood playing [RuneScape](https://runescape.com) and have a [Completionist](https://runescape.wiki/w/Completionist_cape) account which I have been playing on and off since 2005 as a game veteran. RuneScape helped me grow a lot as a person and taught me many skills, and it was somewhere I had met a lot of people and built long-lasting friendships. I enjoyed helping people and owned a clan of more than a hundred players which was focused on helping players progress in the game and achieve their goals, apart from being an admin/moderator in other player communities. I am also an owner of a community that helps thousands of players which I have been managing and leading since 2016, where I had been an admin for months before being passed on the ownership by its founder. As a community leader, I created, managed and developed social and community systems, documentation and resources, including public sheets and Discord communities, which have been relied on by and helped many players, improving their daily game experience and making their lives easier. I enjoy both PvM (also known as PvE) and PvP in the game, where I've defeated most high-level bosses and participated in and helped lead many events, including some very memorable, massive, thrilling and highly competitive [player wars](https://youtu.be/HbPg_y_bXP8) as a member of the most dominant and successful PvP group in the game. I also play Old School RuneScape and have a unique appreciation for both versions of the game.
 
-### World of Warcraft
+#### World of Warcraft
 
 I got into [World of Warcraft](https://worldofwarcraft.com) at the end of 2017 during the final patch of the Legion expansion, playing on EU and the Alliance faction. I started as a Retribution Paladin which I got to max level before eventually later switching to a Windwalker Monk due to its high agility and mobility, and earned my first Ahead of the Curve achievement after defeating all eleven raid bosses of the Antorus raid on Heroic difficulty with my guild ahead of the Battle for Azeroth expansion in 2018. During Battle for Azeroth, I earned another Ahead of the Curve achievement after defeating all eight bosses of the Uldir raid on Heroic difficulty following weeks of raid progression during the first patch of the expansion and then moved up into Mythic difficulty, the most challenging and hardcore raid difficulty in the game.
 
@@ -80,21 +84,21 @@ I made some unforgettable memories and experiences in the game alongside a lot o
 
 One of my favourite things about the game is its developer community, which includes a lot of third party addons, mods and tools from complete UI overhauls using [ElvUI](https://github.com/tukui-org/ElvUI) to powerful customization frameworks such as [WeakAuras](https://github.com/WeakAuras/WeakAuras2). I enjoyed using WeakAuras to create, design and program graphical interface elements for combat, which I publicly shared to be used by thousands of other players and were officially endorsed and recommended by the Monk player community.
 
-## Football
+### Football
 
 Football is a huge passion and important part of my life, and I'm a big fan of sports in general and like other sports such as basketball, NFL, F1, tennis and more whenever I get the chance to catch and follow them. I played a lot of football growing up and eventually stopped after recurrent knee injuries, and I enjoy watching, talking and writing about football.
 
-### Germany
+#### Germany
 
 My earliest footballing memory is the FIFA World Cup in 2002. I really liked Germany and supported them throughout the tournament and final and became interested in German football. My favourite German national team player was Michael Ballack and I naturally liked his team Bayern Munich in the Bundesliga, although I did not watch or follow league football at the time. Bastian Schweinsteiger, who had also played for both Germany and Bayern, similarly became one of my favourite footballers of all time. I have great admiration and appreciation for German football, which includes the Germany national team who I've followed internationally, the Bundesliga and Bayern Munich – a club I like, respect and have a soft spot for.
 
-### Chelsea FC
+#### Chelsea FC
 
 Around 2004, especially with all of my friends supporting Arsenal, I became very interested in the Premier League in England and started following and supporting Chelsea. A couple of years later, Michael Ballack joined Chelsea, and the rest is history.
 
 I have been a Chelsea supporter since and they went on to become one of the most successful sides in English and European football history. I was very active on Twitter since its early years, where I mainly wrote about Chelsea and football. John Terry and Frank Lampard were among my favourite English players and Chelsea legends.
 
-## Philosophy
+### Philosophy
 
 My philosophy is based on free, progressive and independent thought. I don't usually follow ideas, people or trends unless I truly believe in and like their rationale and perspective. I have a highly analytical perspective and approach to problems and issues, and greatly value personal autonomy and originality. I always prefer and like to do my own thing or apply my own touch when possible, which can lead me to taking unique and unconventional approaches and perspectives. I'm heavily guided by, trust, rely on and follow my strong sense of intuition. I'm an idealist and dreamer at heart, but I'm realistic, flexible, open-minded, adaptible, and I'm very pragmatic, especially when it comes to making decisions and getting things done.
 

@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://agha.dev"><img src="/static/images/banner.png" alt="agha.dev"></a>
+  <a href="https://agha.dev"><img src="/assets/img/banner.png" alt="agha.dev"></a>
 </p>
 
 <p align="center">
