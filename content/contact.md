@@ -7,6 +7,7 @@ showReadingTime = false
 showZenMode = false
 showTableOfContents = false
 sharingLinks = false
+showReadingProgress = false
 +++
 
 ### Message
