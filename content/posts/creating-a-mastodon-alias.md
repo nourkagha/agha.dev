@@ -14,7 +14,7 @@ You can create a Mastodon alias with your own custom domain without having to ho
 
 Since it uses your own custom domain, your Mastodon alias could be the same as your email address, for example. My Mastodon account is **Nour\@fosstodon.org**, but you can also find my account by searching **nour\@agha.dev**.
 
-# Mastodon user search: WebFinger protocol
+## Mastodon user search: WebFinger protocol
 
 To understand how this works, you will need to understand how Mastodon search works, which uses a discovery protocol called [WebFinger](https://webfinger.net). This means that when you search for a username or handle on Mastodon, a WebFinger query is performed which returns a JSON document containing their information.
 
@@ -66,7 +66,7 @@ Other people can now find me by the same identity and address I use for my email
 
 If you would like to get your own alias set up, I would highly recommend the [Masto Guide](https://guide.toot.as/guide/use-your-own-domain) for this, which makes things very easy by allowing you to interactively fill your information in the placeholder fields.
 
-# Custom links and redirects
+## Custom links and redirects
 
 After I had my alias set up, I decided to take things a step further. Instead of only being found with my custom alias through Mastodon search, I also wanted a way to be able to externally link my account to people outside Mastodon while using my custom domain for consistency. For example, visiting https://agha.dev/@nour would redirect to my Mastodon profile at https://fosstodon.org/@Nour.
 
