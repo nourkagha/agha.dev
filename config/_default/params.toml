@@ -27,8 +27,8 @@ disableImageOptimizationMD = false
 disableTextInHeader = false
 # backgroundImageWidth = 1200
 
-# defaultBackgroundImage = "IMAGE.jpg" # used as default for background images
-# backgroundCanvas = false # render defaultBackgroundImage as a fixed backdrop on every page
+# defaultBackgroundImage = "img/IMAGE.jpg" # used as default for background images
+# backgroundCanvas = true # render defaultBackgroundImage as a fixed backdrop on every page
 defaultFeaturedImage = "img/cover.png" # used as default for featured images in all articles
 defaultSocialImage = "img/cover.png" # used as default for social media sharing (Open Graph and Twitter)
 hotlinkFeatureImage = false
@@ -127,10 +127,10 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   showViews = false
   showLikes = false
   showTableOfContents = false
-  showCards = false
+  showCards = true
   orderByWeight = false
   groupByYear = true
-  cardView = false
+  cardView = true
   cardViewScreenWidth = false
   constrainItemsWidth = false
 
