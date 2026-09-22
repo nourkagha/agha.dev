@@ -27,7 +27,7 @@ disableImageOptimizationMD = false
 disableTextInHeader = false
 # backgroundImageWidth = 1200
 
-# defaultBackgroundImage = "img/IMAGE.jpg" # used as default for background images
+# defaultBackgroundImage = "img/dreamscape.jpg" # used as default for background images
 # backgroundCanvas = true # render defaultBackgroundImage as a fixed backdrop on every page
 defaultFeaturedImage = "img/cover.png" # used as default for featured images in all articles
 defaultSocialImage = "img/cover.png" # used as default for social media sharing (Open Graph and Twitter)
