@@ -9,7 +9,7 @@ title = "Nour Agha"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-  logo = "img/logo.png"
+  logo = "img/nour.png"
   # secondaryLogo = "img/secondary-logo.png"
   description = "Computer engineer and software developer. Free and open source software, privacy, security, digital freedom and electronic music."
   # copyright = "Copy, _right?_ :thinking_face:"
@@ -17,7 +17,7 @@ title = "Nour Agha"
 [params.author]
   name = "Nour Agha"
   email = "nour@agha.dev"
-  image = "img/nour.jpg"
+  image = "img/nour.png"
   imageQuality = 96
   headline = "Computer engineer and software developer"
   bio = "Computer engineer and software developer. Free and open source software enthusiast. Privacy, security, digital freedom and humane technology advocate. Writer, gamer and dreamer. Electronic music listener, producer and DJ."
