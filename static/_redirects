@@ -8,10 +8,15 @@
 /@nour https://fosstodon.org/@Nour
 /@nour/* https://fosstodon.org/@Nour/:splat
 /analytics https://cloud.umami.is/share/Xsx2krfZC7YHC6zK
+/bluesky https://bsky.app/profile/agha.dev
+/bluesky/* https://bsky.app/profile/agha.dev/:splat
+/bsky https://bsky.app/profile/agha.dev
+/bsky/* https://bsky.app/profile/agha.dev/:splat
 /github https://github.com/nourkagha
 /github/* https://github.com/nourkagha/:splat
 /linkedin https://linkedin.com/in/nouragha
 /mastodon https://fosstodon.org/@Nour
+/mastodon/* https://fosstodon.org/@Nour/:splat
 /matrix https://matrix.to/#/@nour:mozilla.org
 /signal https://signal.me/#eu/h-Woo03COYWcWUeKI9facvzU5ojz_F-r1E4YKtePmRXHy2WBxiBGsbSMQ2DrIc0-
 /status https://status.agha.dev
