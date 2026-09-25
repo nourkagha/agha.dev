@@ -18,6 +18,6 @@ You can find out and explore more about me and my background [here](/about), whe
 
 I have a lot of stuff coming up, including some big music projects that I have been planning for a long time and span more than a decade of inspiration, and I can't wait to share it with the world.
 
-The source code for this website and blog lives on [GitHub](https://github.com/nourkagha/agha.dev).
+The source code for this website and blog lives on {{< icon "github" >}} [GitHub](https://github.com/nourkagha/agha.dev).
 
-You can subscribe to any updates by following my [RSS](/rss) feed.
+You can subscribe to any updates by following my {{< icon "rss" >}} [RSS](/rss) feed.
