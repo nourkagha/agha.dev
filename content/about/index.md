@@ -16,7 +16,7 @@ sharingLinks = false
 
 I'm currently working in a senior support role in the computer guided surgery field in digital dentistry, helping and enabling dental professionals to design, craft and spread more smiles.
 
-I'm a dreamer, writer, gamer, and electronic music lover, a free and open source software ([FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software)) enthusiast and a privacy, security, digital freedom and humane technology advocate. I'm interested in science and philosophy and I'm passionate about [STEM](https://en.wikipedia.org/wiki/Science,_technology,_engineering,_and_mathematics), academically and professionally. My favourite literary and entertainment genres are sci-fi and fantasy. I enjoy music, writing, gaming and football as hobbies.
+I'm a dreamer, writer, gamer and electronic music lover, a free and open source software ([FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software)) enthusiast, and a privacy, security, digital freedom and humane technology advocate. I'm interested in science and philosophy and I'm passionate about [STEM](https://en.wikipedia.org/wiki/Science,_technology,_engineering,_and_mathematics), academically and professionally. My favourite literary and entertainment genres are sci-fi and fantasy. I enjoy music, writing, gaming and football as hobbies.
 
 ## Background
 
