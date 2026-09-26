@@ -74,7 +74,7 @@
   
 [[footer]]
   name = "Status"
-  url = "https://status.agha.dev"
+  url = "https://agha.dev/status"
   weight = 2
 
 # [[footer]]
