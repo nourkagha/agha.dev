@@ -19,11 +19,6 @@
   name = "Blog"
   pageRef = "posts"
   weight = 2
-  
-[[main]]
-  name = "Contact"
-  pageRef = "contact"
-  weight = 3
 
 #[[main]]
 #  name = "Parent"
@@ -68,14 +63,19 @@
 # the copyright notice. Configure as per the main menu above.
 
 [[footer]]
+  name = "Contact"
+  pageRef = "contact"
+  weight = 1
+
+[[footer]]
   name = "Privacy"
   pageRef = "privacy"
-  weight = 1
+  weight = 2
   
 [[footer]]
   name = "Status"
   url = "https://agha.dev/status"
-  weight = 2
+  weight = 3
 
 # [[footer]]
 #   name = "Tags"
