@@ -37,9 +37,17 @@ Wago.io | Nour
 
 Notable contributions to open source projects.
 
+### Blowfish
+
+A personal website and blog theme for Hugo that powers this site.
+
+- Added Ko-fi integration ([#3118](https://github.com/nunocoracao/blowfish/pull/3118))
+
+{{< github repo="nunocoracao/blowfish" showThumbnail=false >}}
+
 ### Hugo Coder
 
-A simple and clean blog theme for Hugo (previously used for my site).
+A simple and clean blog theme for Hugo, previously [used](https://github.com/nourkagha/agha.dev/releases/tag/archive%2Fhugo-coder) for my site.
 
 - Added giscus as a comment system ([#753](https://github.com/luizdepra/hugo-coder/pull/753))
 - Added support for Pirsch analytics ([#795](https://github.com/luizdepra/hugo-coder/pull/795))
