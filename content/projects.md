@@ -24,12 +24,14 @@ My developer environment and system configuration files, designed for instant se
 
 Customizable graphics and event-driven Lua elements for real-time status tracking and UI customization in World of Warcraft.
 
-[![Wago.io Nour](https://img.shields.io/badge/Wago.io-Nour-C1272D?style=for-the-badge&logo=lua&logoColor=white)](https://wago.io/p/Nour)
+{{< button href="https://wago.io/p/Nour" target="_blank" >}}
+Wago.io | Nour
+{{< /button >}}
 
 ### Minecraft SMP Server & Client Modpack
 
 - [Paper](https://papermc.io) server built, hosted and administered for a dedicated community of over a thousand members, featuring JVM performance optimization, plugins, live 2D/3D web maps, and analytics for server performance and player activity metrics.
-- [Fabric](https://fabricmc.net) client modpack maintained and hosted on [Modrinth](https://modrinth.com) with thousands of downloads.
+- [Fabric](https://fabricmc.net) client modpack curated, hosted and maintained on [Modrinth](https://modrinth.com) with thousands of downloads, featuring performance optimization and graphics enhancement mods.
 
 ## Contributions
 
