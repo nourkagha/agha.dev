@@ -27,8 +27,9 @@ disableImageOptimizationMD = false
 disableTextInHeader = false
 # backgroundImageWidth = 1200
 
-# defaultBackgroundImage = "img/dreamscape.jpg" # used as default for background images
-# backgroundCanvas = true # render defaultBackgroundImage as a fixed backdrop on every page
+# Light and dark backgrounds are automatically controlled by custom.css
+# defaultBackgroundImage = "img/background.png" # used as default for background images
+# backgroundCanvas = false # render defaultBackgroundImage as a fixed backdrop on every page
 defaultFeaturedImage = "img/cover.png" # used as default for featured images in all articles
 defaultSocialImage = "img/cover.png" # used as default for social media sharing (Open Graph and Twitter)
 hotlinkFeatureImage = false
@@ -69,7 +70,7 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
 [homepage]
   layout = "profile" # valid options: page, profile, hero, card, background, landing, custom
   # layoutSwitcher = false # opt-in interactive preview of the built-in layouts
-  #homepageImage = "IMAGE.jpg" # used in: hero, and card
+  # homepageImage = "IMAGE.jpg" # used in: hero, and card
   showRecent = false
   showRecentItems = 5
   showMoreLink = false
@@ -89,7 +90,7 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   showAuthor = true
   # showAuthorBottom = false
   showHero = true
-  heroStyle = "basic" # valid options: basic, big, background, thumbAndBackground
+  heroStyle = "big" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
   layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
   showBreadcrumbs = false
