@@ -1,0 +1,39 @@
+/* Dark theme — base background */
+body {
+  position: relative;
+  min-height: 100vh;
+  isolation: isolate;
+
+  background-color: #0A0A0A;
+  background-image: url("/img/background-dark.webp");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+/* Light theme — fading layer */
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  pointer-events: none;
+
+  background: url("/img/background-light.webp") center / cover no-repeat;
+
+  opacity: 0;
+  transition: opacity 150ms ease;
+}
+
+/* Light mode */
+html:not(.dark) body::before {
+  opacity: 1;
+}
+
+/* Accessibility */
+@media (prefers-reduced-motion: reduce) {
+  body::before {
+    transition: none;
+  }
+}
