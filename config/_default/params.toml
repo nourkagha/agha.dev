@@ -28,7 +28,7 @@ disableTextInHeader = false
 # backgroundImageWidth = 1200
 
 # Light and dark backgrounds are automatically controlled by custom.css
-# defaultBackgroundImage = "img/background.png" # used as default for background images
+# defaultBackgroundImage = "img/dreamscape.avif" # used as default for background images
 # backgroundCanvas = false # render defaultBackgroundImage as a fixed backdrop on every page
 defaultFeaturedImage = "img/cover.png" # used as default for featured images in all articles
 defaultSocialImage = "img/cover.png" # used as default for social media sharing (Open Graph and Twitter)
