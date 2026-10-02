@@ -30,7 +30,7 @@ disableTextInHeader = false
 # Light and dark backgrounds are automatically controlled by custom.css
 # defaultBackgroundImage = "img/dreamscape.avif" # used as default for background images
 # backgroundCanvas = false # render defaultBackgroundImage as a fixed backdrop on every page
-defaultFeaturedImage = "img/card.webp" # used as default for featured images in all articles
+# defaultFeaturedImage = "img/card.webp" # used as default for featured images in all articles
 defaultSocialImage = "img/card.webp" # used as default for social media sharing (Open Graph and Twitter)
 hotlinkFeatureImage = false
 # Thumbnail aspect ratio as a number (e.g., "1.5", "1.0", "1.777")
@@ -131,7 +131,7 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   showCards = true
   orderByWeight = false
   groupByYear = true
-  cardView = true
+  cardView = false
   cardViewScreenWidth = false
   constrainItemsWidth = false
 
