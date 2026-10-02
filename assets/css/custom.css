@@ -1,14 +1,17 @@
 body {
+  --background-overlay: transparent;
+
   /* Dreamscape Dawn — desktop */
+  background-image:
+    linear-gradient(var(--background-overlay), var(--background-overlay)),
+    url("/img/dreamscape-dawn-desktop.webp");
 
-  /* WebP fallback */
-  background-image: url("/img/dreamscape-dawn-desktop.webp");
-
-  /* Prefer AVIF when supported */
-  background-image: image-set(
-    url("/img/dreamscape-dawn-desktop.avif") type("image/avif"),
-    url("/img/dreamscape-dawn-desktop.webp") type("image/webp")
-  );
+  background-image:
+    linear-gradient(var(--background-overlay), var(--background-overlay)),
+    image-set(
+      url("/img/dreamscape-dawn-desktop.avif") type("image/avif"),
+      url("/img/dreamscape-dawn-desktop.webp") type("image/webp")
+    );
 
   background-position: center;
   background-size: cover;
@@ -18,15 +21,25 @@ body {
 
 html.dark body {
   /* Dreamscape Midnight — desktop */
+  background-image:
+    linear-gradient(var(--background-overlay), var(--background-overlay)),
+    url("/img/dreamscape-midnight-desktop.webp");
 
-  /* WebP fallback */
-  background-image: url("/img/dreamscape-midnight-desktop.webp");
+  background-image:
+    linear-gradient(var(--background-overlay), var(--background-overlay)),
+    image-set(
+      url("/img/dreamscape-midnight-desktop.avif") type("image/avif"),
+      url("/img/dreamscape-midnight-desktop.webp") type("image/webp")
+    );
+}
 
-  /* Prefer AVIF when supported */
-  background-image: image-set(
-    url("/img/dreamscape-midnight-desktop.avif") type("image/avif"),
-    url("/img/dreamscape-midnight-desktop.webp") type("image/webp")
-  );
+/* Soften the background on content pages */
+body:has(#single_header) {
+  --background-overlay: rgb(255 255 255 / 75%);
+}
+
+html.dark body:has(#single_header) {
+  --background-overlay: rgb(10 10 10 / 60%);
 }
 
 /*
@@ -37,23 +50,29 @@ html.dark body {
 @media (max-width: 767px), (orientation: portrait) {
   body {
     /* Dreamscape Dawn — portrait/mobile */
+    background-image:
+      linear-gradient(var(--background-overlay), var(--background-overlay)),
+      url("/img/dreamscape-dawn-mobile.webp");
 
-    background-image: url("/img/dreamscape-dawn-mobile.webp");
-
-    background-image: image-set(
-      url("/img/dreamscape-dawn-mobile.avif") type("image/avif"),
-      url("/img/dreamscape-dawn-mobile.webp") type("image/webp")
-    );
+    background-image:
+      linear-gradient(var(--background-overlay), var(--background-overlay)),
+      image-set(
+        url("/img/dreamscape-dawn-mobile.avif") type("image/avif"),
+        url("/img/dreamscape-dawn-mobile.webp") type("image/webp")
+      );
   }
 
   html.dark body {
     /* Dreamscape Midnight — portrait/mobile */
+    background-image:
+      linear-gradient(var(--background-overlay), var(--background-overlay)),
+      url("/img/dreamscape-midnight-mobile.webp");
 
-    background-image: url("/img/dreamscape-midnight-mobile.webp");
-
-    background-image: image-set(
-      url("/img/dreamscape-midnight-mobile.avif") type("image/avif"),
-      url("/img/dreamscape-midnight-mobile.webp") type("image/webp")
-    );
+    background-image:
+      linear-gradient(var(--background-overlay), var(--background-overlay)),
+      image-set(
+        url("/img/dreamscape-midnight-mobile.avif") type("image/avif"),
+        url("/img/dreamscape-midnight-mobile.webp") type("image/webp")
+      );
   }
 }
