@@ -1,5 +1,15 @@
 body {
-  background-image: url("/img/background-light.webp");
+  /* Dreamscape Dawn — desktop */
+
+  /* WebP fallback */
+  background-image: url("/img/dreamscape-dawn-desktop.webp");
+
+  /* Prefer AVIF when supported */
+  background-image: image-set(
+    url("/img/dreamscape-dawn-desktop.avif") type("image/avif"),
+    url("/img/dreamscape-dawn-desktop.webp") type("image/webp")
+  );
+
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -7,5 +17,43 @@ body {
 }
 
 html.dark body {
-  background-image: url("/img/background-dark.webp");
+  /* Dreamscape Midnight — desktop */
+
+  /* WebP fallback */
+  background-image: url("/img/dreamscape-midnight-desktop.webp");
+
+  /* Prefer AVIF when supported */
+  background-image: image-set(
+    url("/img/dreamscape-midnight-desktop.avif") type("image/avif"),
+    url("/img/dreamscape-midnight-desktop.webp") type("image/webp")
+  );
+}
+
+/*
+ * Use the portrait composition for:
+ * - narrow viewports
+ * - portrait-oriented phones and tablets
+ */
+@media (max-width: 767px), (orientation: portrait) {
+  body {
+    /* Dreamscape Dawn — portrait/mobile */
+
+    background-image: url("/img/dreamscape-dawn-mobile.webp");
+
+    background-image: image-set(
+      url("/img/dreamscape-dawn-mobile.avif") type("image/avif"),
+      url("/img/dreamscape-dawn-mobile.webp") type("image/webp")
+    );
+  }
+
+  html.dark body {
+    /* Dreamscape Midnight — portrait/mobile */
+
+    background-image: url("/img/dreamscape-midnight-mobile.webp");
+
+    background-image: image-set(
+      url("/img/dreamscape-midnight-mobile.avif") type("image/avif"),
+      url("/img/dreamscape-midnight-mobile.webp") type("image/webp")
+    );
+  }
 }
