@@ -1,13 +1,5 @@
 +++
 title = "Contact"
-showAuthor = false
-showComments = false
-showDate = false
-showReadingTime = false
-showZenMode = false
-showTableOfContents = false
-sharingLinks = false
-showReadingProgress = false
 +++
 
 ### Message

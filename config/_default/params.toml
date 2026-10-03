@@ -19,7 +19,7 @@ enableStructuredBreadcrumbs = false
 
 replyByEmail = false
 
-# mainSections = ["section1", "section2"]
+mainSections = ["posts"]
 # robots = ""
 
 disableImageOptimization = false
@@ -28,7 +28,7 @@ disableTextInHeader = false
 # backgroundImageWidth = 1200
 
 # Light and dark backgrounds are automatically controlled by custom.css
-# defaultBackgroundImage = "img/dreamscape.avif" # used as default for background images
+# defaultBackgroundImage = "img/dreamscape.webp" # used as default for background images
 # backgroundCanvas = false # render defaultBackgroundImage as a fixed backdrop on every page
 # defaultFeaturedImage = "img/card.webp" # used as default for featured images in all articles
 defaultSocialImage = "img/card.webp" # used as default for social media sharing (Open Graph and Twitter)
@@ -54,7 +54,7 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   storedLanguageRedirect = true # Redirect to the stored language when a matching translation exists.
 
 [seo]
-# metaDescriptionOrder = ["summary", "description", "site"] # Controls the fallback order for the HTML meta description. Valid values are "summary", "description", and "site".
+metaDescriptionOrder = ["description", "summary", "site"] # Controls the fallback order for the HTML meta description. Valid values are "summary", "description", and "site".
 
 [header]
   layout = "floating" # valid options: basic, fixed, fixed-fill, fixed-gradient, fixed-fill-blur, floating
@@ -81,16 +81,16 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   disableHeroImageFilter = false # only used when layout equals hero
 
 [article]
-  showDate = true
+  showDate = false
   showViews = false
   showLikes = false
-  showComments = true
+  showComments = false
   showDateOnlyInArticle = false
-  showDateUpdated = true
-  showAuthor = true
+  showDateUpdated = false
+  showAuthor = false
   # showAuthorBottom = false
   showHero = true
-  heroStyle = "big" # valid options: basic, big, background, thumbAndBackground
+  heroStyle = "basic" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
   layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
   showBreadcrumbs = false
@@ -100,11 +100,11 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   editAppendPath = true
   seriesOpened = false
   showHeadingAnchors = true
-  showPagination = true
+  showPagination = false
   invertPagination = false
-  showReadingTime = true
-  showReadingProgress = true
-  showTableOfContents = true
+  showReadingTime = false
+  showReadingProgress = false
+  showTableOfContents = false
   # showRelatedContent = false
   # relatedContentLimit = 3
   showTaxonomies = true # Enable the display of taxonomies for the related article.
@@ -113,8 +113,8 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   showCategoriesInSecondaryColor = true # This will change the color of category badges, so the user can better distinguish between the two. Only if showTaxonomies is true.
   showAuthorsBadges = false
   showWordCount = false
-  sharingLinks = [ "linkedin", "twitter", "bluesky", "mastodon", "reddit", "pinterest", "facebook", "email", "whatsapp", "telegram"]
-  showZenMode = true
+  sharingLinks = false
+  showZenMode = false
   # externalLinkForceNewTab = false # disable to allow external links in the same tab (defaults to true)
 
 [list]
@@ -130,7 +130,7 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   showTableOfContents = false
   showCards = true
   orderByWeight = false
-  groupByYear = true
+  groupByYear = false
   cardView = false
   cardViewScreenWidth = false
   constrainItemsWidth = false

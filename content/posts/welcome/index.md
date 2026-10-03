@@ -1,13 +1,7 @@
 +++
-date = 2023-04-08T23:29:33+02:00
 title = "Welcome"
-description = "Blog welcome and introduction."
-slug = ""
-authors = []
-tags = []
-categories = []
-externalLink = ""
-series = []
+description = "Welcome and introduction to my blog."
+date = 2023-04-08T23:29:33+02:00
 +++
 
 Welcome to my blog!

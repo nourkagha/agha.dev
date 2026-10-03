@@ -1,13 +1,10 @@
 +++
-date = 2023-04-25T01:54:18+02:00
 title = "Creating a Mastodon alias"
 description = "Create a Mastodon alias using your own custom domain."
-slug = ""
-authors = []
-tags = ["mastodon", "activitypub", "web"]
+date = 2023-04-25T01:54:18+02:00
+
 categories = ["social"]
-externalLink = ""
-series = []
+tags = ["mastodon", "activitypub", "web"]
 +++
 
 You can create a Mastodon alias with your own custom domain without having to host your own Mastodon server, thanks to some web magic. It's called an alias because it doesn't change your actual *address*, but it's very useful for identity and discoverability. This means that others can find you on Mastodon (or the wider fediverse) using your alias – a part of your identity that remains unchanged, even if you switch or migrate servers.

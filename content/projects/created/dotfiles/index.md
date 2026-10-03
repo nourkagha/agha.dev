@@ -1,7 +1,7 @@
 +++
 title = "dotfiles"
-date = 2021-04-29
 description = "🔧 .files, configs and applications for my Pop!_OS desktop, managed with 🏠 chezmoi."
+date = 2021-04-29
 
 tags = ["Go", "Shell", "Linux"]
 +++

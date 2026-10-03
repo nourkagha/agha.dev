@@ -1,11 +1,8 @@
 +++
 title = "About"
-showAuthor = false
-showComments = false
-showDate = false
-showReadingTime = false
-showZenMode = false
-sharingLinks = false
+
+showReadingProgress = true
+showTableOfContents = true
 +++
 
 ## Introduction

@@ -1,9 +1,10 @@
 +++
 title = "Minecraft SMP"
-date = 2025-07-07
 description = "Minecraft SMP server and client modpack."
+date = 2025-07-07
 
-tags = ["JVM", "Server Administration", "Modpack", "Minecraft"]
+categories = ["Minecraft"]
+tags = ["Server Administration", "Modpack", "JVM"]
 +++
 
 - [Paper](https://papermc.io) server built, hosted and administered for a dedicated community of over a thousand members, featuring JVM performance optimization, plugins, live 2D/3D web maps, and analytics for server performance and player activity metrics.
