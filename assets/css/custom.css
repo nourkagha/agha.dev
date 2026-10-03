@@ -1,3 +1,13 @@
+:root {
+  /* Subdued */
+  --list-overlay-light: 25%;
+  --list-overlay-dark: 20%;
+
+  /* Immersive */
+  --article-overlay-light: 75%;
+  --article-overlay-dark: 60%;
+}
+
 body {
   --background-overlay: transparent;
 
@@ -19,13 +29,26 @@ html.dark body {
     url("/img/dreamscape-midnight-desktop.webp");
 }
 
-/* Soften the background on content pages */
+/* List pages (subdued) */
+body:has(#main-content > header) {
+  --background-overlay:
+    rgb(255 255 255 / var(--list-overlay-light));
+}
+
+html.dark body:has(#main-content > header) {
+  --background-overlay:
+    rgb(10 10 10 / var(--list-overlay-dark));
+}
+
+/* Article pages (immersive) */
 body:has(#single_header) {
-  --background-overlay: rgb(255 255 255 / 75%);
+  --background-overlay:
+    rgb(255 255 255 / var(--article-overlay-light));
 }
 
 html.dark body:has(#single_header) {
-  --background-overlay: rgb(10 10 10 / 60%);
+  --background-overlay:
+    rgb(10 10 10 / var(--article-overlay-dark));
 }
 
 /*
