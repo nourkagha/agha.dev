@@ -12,9 +12,9 @@
 
 # agha.dev
 
-My personal website and blog, built with [Hugo](https://github.com/gohugoio/hugo) & [Blowfish](https://github.com/nunocoracao/blowfish).
+My personal website and blog, built with [Hugo](https://github.com/gohugoio/hugo) & [Blowfish](https://github.com/nunocoracao/blowfish) and hosted on [Cloudflare Pages](https://pages.dev).
 
-Privacy-friendly analytics: https://agha.dev/analytics
+Privacy-first analytics: https://agha.dev/analytics
 
 Status: https://agha.dev/status
 
