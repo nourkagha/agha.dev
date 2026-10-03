@@ -1,13 +1,5 @@
 +++
 title = "Privacy"
-showAuthor = false
-showComments = false
-showDate = false
-showReadingTime = false
-showZenMode = false
-showTableOfContents = false
-sharingLinks = false
-showReadingProgress = false
 +++
 
 This site is **designed and built with privacy in mind**. It uses **privacy-first, cookieless analytics** that collect aggregate information about site usage, such as pages visited, referrers, approximate country, and device/browser type. This information helps me understand which content people find helpful, how they navigate the site, and how the site and its content can be improved. The data is anonymized and **does not include personally identifiable information**. There is **no advertising, tracking cookies, or cross-site tracking**, and analytics are not used to build personal profiles.

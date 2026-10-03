@@ -1,9 +1,10 @@
 +++
 title = "Custom WeakAuras"
-date = 2021-01-08
 description = "Custom WeakAuras for World of Warcraft, including Lua-based triggers and combat event logic."
+date = 2021-01-08
 
-tags = ["Lua", "WeakAuras", "World of Warcraft"]
+categories = ["World of Warcraft"]
+tags = ["Lua", "WeakAuras"]
 +++
 
 Customizable graphics and event-driven Lua elements for real-time status tracking and UI customization in World of Warcraft.

@@ -1,13 +1,10 @@
 +++ 
-date = 2023-05-13T17:23:10+03:00
 title = "Hosting an MTA-STS policy using Hugo and Netlify"
 description = "Create an MTA-STS policy to secure your emails on a domain hosted with Hugo and Netlify."
-slug = ""
-authors = []
-tags = ["email", "web"]
+date = 2023-05-13T17:23:10+03:00
+
 categories = ["security"]
-externalLink = ""
-series = []
+tags = ["email", "web"]
 +++
 
 An [MTA-STS](https://emailsecurity.blog/configuring-mta-sts-and-smtp-tls-rpt) (Mail Transfer Agent Strict Transport Security) policy is essential for securing your emails with both encryption and authentication. This helps prevent potential and malicious MITM (man-in-the-middle) attacks which involve interception and tampering during transit through SMTP (Simple Mail Transfer Protocol) used by mail providers. MTA-STS is a fairly new standard which makes email communication much more secure, and has been adopted by [Google](https://security.googleblog.com/2019/04/gmail-making-email-more-secure-with-mta.html) only a few years ago and [Microsoft](https://techcommunity.microsoft.com/t5/exchange-team-blog/introducing-mta-sts-for-exchange-online/ba-p/3106386) as of last year. If you have and use your own domain for email, you will need to create, configure and publish your own MTA-STS policy.

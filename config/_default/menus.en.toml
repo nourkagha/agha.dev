@@ -13,17 +13,17 @@
 [[main]]
   name = "About"
   pageRef = "about"
-  weight = 1
+  weight = 10
 
 [[main]]
   name = "Blog"
   pageRef = "posts"
-  weight = 2
+  weight = 20
   
 [[main]]
   name = "Projects"
   pageRef = "projects"
-  weight = 3
+  weight = 30
 
 #[[main]]
 #  name = "Parent"
@@ -70,17 +70,17 @@
 [[footer]]
   name = "Contact"
   pageRef = "contact"
-  weight = 1
+  weight = 10
 
 [[footer]]
   name = "Privacy"
   pageRef = "privacy"
-  weight = 2
-  
+  weight = 20
+
 [[footer]]
   name = "Status"
   url = "https://agha.dev/status"
-  weight = 3
+  weight = 30
 
 # [[footer]]
 #   name = "Tags"
