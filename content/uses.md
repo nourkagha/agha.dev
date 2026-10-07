@@ -44,7 +44,7 @@ The gear, software and tech I use day to day. This page is inspired by the [uses
 - 🔑 **Password manager:** [Bitwarden](https://bitwarden.com) and [Proton Pass](https://proton.me/pass)
 - 🛡️ **Authenticator:** [Ente Auth](https://ente.com/auth) and [Proton Authenticator](https://proton.me/authenticator)
 - 🌐 **Browser:** [Firefox](https://firefox.com) — I use a [hardened](https://www.privacyguides.org/en/desktop-browsers/#recommended-firefox-configuration) configuration for strong privacy.
-  - **Main extensions:** for a private, safe and pleasant browsing experience:
+  - **Main extensions** — for a private, safe and pleasant browsing experience:
     - [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin) (ad and content blocker)
     - [Violentmonkey](https://addons.mozilla.org/en-US/firefox/addon/violentmonkey) (userscripts to add or change features on any website)
     - [Dark Reader](https://addons.mozilla.org/en-US/firefox/addon/darkreader) (eye care and dark mode for any website)
