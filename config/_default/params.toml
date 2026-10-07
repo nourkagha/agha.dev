@@ -37,7 +37,7 @@ hotlinkFeatureImage = false
 # thumbnailAspectRatio = "1.5"
 # imagePosition = "50% 50%"
 
-# highlightCurrentMenuArea = true
+highlightCurrentMenuArea = true
 smartTOC = true
 # smartTOCHideUnfocusedChildren = true
 
@@ -188,11 +188,18 @@ metaDescriptionOrder = ["description", "summary", "site"] # Controls the fallbac
   # enableTrackEvent = true
 
 [buymeacoffee]
-  # identifier = ""
+  # identifier = "nouragha"
   # globalWidget = true
   # globalWidgetMessage = "Hello"
   # globalWidgetColor = "#FFDD00"
   # globalWidgetPosition = "right"
+
+[kofi]
+  # identifier = "nouragha"
+  # globalWidget = true
+  # globalWidgetText = "Support me"
+  # globalWidgetBackgroundColor = "#00B9FE"
+  # globalWidgetTextColor = "#FFFFFF"
 
 [verification]
   # google = ""
