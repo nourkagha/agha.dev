@@ -1,5 +1,7 @@
 +++
 title = "Privacy"
+description = "Privacy notice."
+date = "2026-09-26"
 +++
 
 This site is **designed and built with privacy in mind**. It uses **privacy-first, cookieless analytics** that collect aggregate information about site usage, such as pages visited, referrers, approximate country, and device/browser type. This information helps me understand which content people find helpful, how they navigate the site, and how the site and its content can be improved. The data is anonymized and **does not include personally identifiable information**. There is **no advertising, tracking cookies, or cross-site tracking**, and analytics are not used to build personal profiles.

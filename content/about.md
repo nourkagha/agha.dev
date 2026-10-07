@@ -1,5 +1,7 @@
 +++
 title = "About"
+description = "About me."
+date = "2023-03-05"
 
 showReadingProgress = true
 showTableOfContents = true
