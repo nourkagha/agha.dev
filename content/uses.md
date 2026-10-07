@@ -1,6 +1,7 @@
 +++
 title = "Uses"
 description = "The gear and tools I use day to day."
+date = "2026-10-07"
 +++
 
 The gear, software and tech I use day to day. This page is inspired by the [uses.tech](https://uses.tech) community.
@@ -19,7 +20,7 @@ The gear, software and tech I use day to day. This page is inspired by the [uses
 ## 🖥️ Software
 
 ### 👨🏻‍💻 Development
-- ⚙️ **Operating system:** [Pop!_OS](https://system76.com/pop) — an Ubuntu-based Linux distribution and my daily driver for development, productivity and gaming.
+- ⚙️ **Operating system:** [Pop!_OS](https://system76.com/pop) — Ubuntu-based Linux distribution and my daily driver for development, productivity and gaming.
 - 🪟 **Desktop environment:** [COSMIC](https://system76.com/cosmic)
 - ⌨️ **Terminal:** [COSMIC Terminal](https://github.com/pop-os/cosmic-term)
 - 🐟 **Shell:** [fish](https://fishshell.com)
@@ -63,6 +64,7 @@ The gear, software and tech I use day to day. This page is inspired by the [uses
 - 💾 **Backup:** [Kopia](https://kopia.io)
 - 📸 **Screenshots:** [ShareX](https://getsharex.com) — the best screenshot tool I have ever used.
 - 🎨 **Themes:** [Catppuccin Mocha (Sapphire)](https://catppuccin.com) — Catppuccin with the Mocha base and Sapphire accent is my favorite theme across nearly every application.
+- 🅰️ **Fonts:** [Roboto](https://fonts.google.com/specimen/Roboto)
 
 ## ☁️ Services
 
