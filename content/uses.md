@@ -5,6 +5,7 @@ date = "2026-10-07"
 lastmod = "2026-10-08"
 
 showDateUpdated = true
+showTableOfContents = true
 +++
 
 The gear, software, and tech I use day to day. I care most about privacy, simplicity, efficiency, and flexibility. This page is inspired by the [uses.tech](https://uses.tech) community.
