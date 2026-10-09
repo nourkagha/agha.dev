@@ -46,7 +46,7 @@ The gear, software, and tech I use day to day. I care most about privacy, simpli
 
 ### 📦 Applications
 
-- ✉️ **Mail:** [Proton Mail](https://proton.me/mail) — for private, secure and encrypted mail with [SimpleLogin](https://simplelogin.io) for email aliases.
+- ✉️ **Mail:** [Proton Mail](https://proton.me/mail) — for private, secure, and encrypted mail with [SimpleLogin](https://simplelogin.io) for email aliases.
 - 📅 **Calendar:** [Proton Calendar](https://proton.me/calendar)
 - 🔑 **Password manager:** [Bitwarden](https://bitwarden.com) and [Proton Pass](https://proton.me/pass)
 - 🛡️ **Authenticator:** [Ente Auth](https://ente.com/auth) and [Proton Authenticator](https://proton.me/authenticator)
@@ -56,7 +56,7 @@ The gear, software, and tech I use day to day. I care most about privacy, simpli
     - [Violentmonkey](https://addons.mozilla.org/en-US/firefox/addon/violentmonkey) (userscripts)
     - [Stylus](https://addons.mozilla.org/en-US/firefox/addon/styl-us) (userstyles) — I use the [Catppuccin Mocha (Sapphire)](https://userstyles.catppuccin.com) theme for many websites.
     - [Dark Reader](https://addons.mozilla.org/en-US/firefox/addon/darkreader) (dark mode)
-    - [Firefox Multi-Account Containers](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers) (separating personal, work and other browsing)
+    - [Firefox Multi-Account Containers](https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers) (separating personal, work, and other browsing)
 - 💬 **Communication:** [Signal](https://signal.org), [WhatsApp](https://whatsapp.com), [Discord](https://discord.com), and [Element](https://element.io)
 - 🗝️ **VPN & network privacy:** [Cloudflare WARP](https://one.one.one.one) and [Proton VPN](https://proton.me/vpn)
 - 📝 **Notes:** [Obsidian](https://obsidian.md) and [Standard Notes](https://standardnotes.com)

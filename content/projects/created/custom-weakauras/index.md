@@ -9,6 +9,6 @@ tags = ["Lua", "WeakAuras"]
 
 Customizable graphics and event-driven Lua elements for real-time status tracking and UI customization in World of Warcraft.
 
-{{< button href="https://wago.io/p/Nour" target="_blank" >}}
+{{< button href="<https://wago.io/p/Nour>" target="_blank" >}}
 Wago.io | Nour
 {{< /button >}}

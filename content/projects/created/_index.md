@@ -6,4 +6,4 @@ orderByWeight = false
 weight = 10
 +++
 
-Projects I've designed, built and maintained.
+Projects I've designed, built, and maintained.

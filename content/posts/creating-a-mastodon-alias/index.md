@@ -55,7 +55,7 @@ You can visit this URL and you will find that it returns the same JSON document 
 
 ```txt
 https://agha.dev/.well-known/webfinger
-``` 
+```
 
 When you search for **nour\@agha.dev** on Mastodon, a WebFinger lookup is done on the `agha.dev` domain, which finds my Fosstodon account or profile information, and leads to my Fosstodon profile being returned as a result.
 
@@ -65,7 +65,7 @@ If you would like to get your own alias set up, I would highly recommend the [Ma
 
 ## Custom links and redirects
 
-After I had my alias set up, I decided to take things a step further. Instead of only being found with my custom alias through Mastodon search, I also wanted a way to be able to externally link my account to people outside Mastodon while using my custom domain for consistency. For example, visiting https://agha.dev/@nour would redirect to my Mastodon profile at https://fosstodon.org/@Nour.
+After I had my alias set up, I decided to take things a step further. Instead of only being found with my custom alias through Mastodon search, I also wanted a way to be able to externally link my account to people outside Mastodon while using my custom domain for consistency. For example, visiting <https://agha.dev/@nour> would redirect to my Mastodon profile at <https://fosstodon.org/@Nour>.
 
 There are a lot of ways to do URL redirects, and since my website is hosted on Netlify, this is easily achievable with their powerful and flexible [redirects and rewrites](https://docs.netlify.com/routing/redirects).
 
@@ -79,4 +79,4 @@ This was done by adding these lines to my `netlify.toml` file to create an HTTP 
   force = true
 ```
 
-By using `*` as a wildcard after `agha.dev/@nour/`, I've not only created a redirect to my Mastodon profile, but also to my posts, since any input there will get appended to `https://fosstodon.org/@Nour/`. You can try this here: https://agha.dev/@nour/109599984030559230
+By using `*` as a wildcard after `agha.dev/@nour/`, I've not only created a redirect to my Mastodon profile, but also to my posts, since any input there will get appended to `https://fosstodon.org/@Nour/`. You can try this here: <https://agha.dev/@nour/109599984030559230>
