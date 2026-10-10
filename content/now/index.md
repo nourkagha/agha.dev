@@ -2,7 +2,7 @@
 title = "Now"
 description = "What I'm focused on right now."
 date = "2026-10-09"
-lastmod = "2026-10-09"
+lastmod = "2026-10-10"
 
 showDateUpdated = true
 showTableOfContents = true
@@ -16,7 +16,9 @@ I'm focused on growing as a software engineer, building things I care about, tak
 
 ## Work
 
-At work, I'm building and maintaining systems, documentation, and tooling while troubleshooting software and hardware issues. Alongside my day-to-day responsibilities, I'm exploring and building projects around AI integration and automation. I'm also actively working toward my long-term career goals.
+At work, I'm building and maintaining systems, documentation, and tooling while troubleshooting software and hardware issues. I'm also exploring AI integration and automation through projects while working toward my long-term career goals.
+
+Earlier this year, I worked on building and deploying an AI system that transcribes customer calls with [faster-whisper](https://github.com/SYSTRAN/faster-whisper) and [WhisperX](https://github.com/m-bain/whisperX). It uses LLMs through [Ollama](https://ollama.com), [vLLM](https://vllm.ai), and the [OpenAI API](https://openai.com/api) for sentiment analysis, emotion detection, and generating detailed insights and reports. I also host, maintain, and administer a [Chatwoot](https://chatwoot.com) server on [Google Cloud Platform](https://cloud.google.com).
 
 ## Projects
 
@@ -31,15 +33,17 @@ I’m revisiting programming fundamentals and learning new languages and framewo
 
 ## Health & Fitness
 
-I’m focused on improving my overall fitness and health while building muscle and strength. I train four days a week with an upper/lower split, or three days a week with full-body workouts. My workouts are based on resistance training and progressive overload. Each session starts with stretching and includes 30 minutes of cardio: 10 minutes of incline walking as a warm-up before lifting weights, followed by another 20 minutes of incline walking at the end to burn extra calories.
+I’m focused on improving my overall fitness and health while building muscle and strength. I train four days a week with an upper/lower split, or three days a week with full-body workouts. This allows me to train each muscle group at least twice a week. Each workout lasts about 90 minutes: 60 minutes of strength training and 30 minutes of cardio.
 
-I’m building sustainable long-term habits around meal planning, cooking at home when I can, a balanced whole-food diet, supplements, and self-care routines.
+My sessions are based on resistance training and progressive overload. I start with 10 minutes of incline walking as a warm-up, followed by weight lifting and another 20 minutes of incline walking to finish and burn extra calories.
+
+I’m building sustainable long-term habits that include morning stretches, meal planning and cooking at home when I can, eating a balanced whole-food diet, taking supplements, and maintaining self-care routines.
 
 ## Gaming
 
-I'm getting back into RuneScape after a long break, catching up on the latest content and working toward reachieving Completionist along the way. It's a chance to rediscover the game, experience what's changed, and work toward reclaiming my Completionist Cape.
+I got back into RuneScape after a long break and I'm catching up on the latest content, rediscovering the game and experiencing what's changed as I work toward reclaiming my [Completionist cape](https://runescape.wiki/w/Completionist_cape). I also recently hit a major milestone and claimed my 20-year Veteran cape, marking two decades in the game.
 
-In November, I'm also planning to return to World of Warcraft through WoW Forever, revisiting Azeroth and reconnecting with a world I've always enjoyed and that holds many memories.
+In November, I'm planning to return to World of Warcraft by playing WoW Forever and immersing myself again in Azeroth, a world that has always felt like home and holds many memories.
 
 ![RuneScape](runescape.webp)
 *RuneScape: Cutting eternal magic trees for 110 Woodcutting*
@@ -58,6 +62,6 @@ Some of my favorite discoveries this year have been Planet of Souls for their ci
 
 ## Coffee & Drinks
 
-I've been honing my home barista skills, getting creative with iced coffee and matcha lattes, frappes, homemade cold foams, and smoothies (both drinks and bowls). I love experimenting with different flavors, fruits, and colorful ingredients like blue spirulina, butterfly pea flower, and pink pitaya. I find the creative ritual of making each drink really therapeutic. It's especially satisfying to create something refreshing, energizing, and as healthy as it is delicious, with natural or zero-calorie sweeteners.
+I've been honing my home barista skills, getting creative with iced coffee and matcha lattes, frappes, homemade cold foams, and smoothies (both drinks and bowls). I love experimenting with different flavors, fruits, and colorful ingredients like blue spirulina, butterfly pea flower, and pink pitaya. I find the creative ritual of making each drink really therapeutic, and I much prefer iced drinks to hot drinks because I find them more refreshing and energizing, which makes them more enjoyable. It's especially satisfying to create something as healthy as it is delicious, with natural or zero-calorie sweeteners.
 
 {{< carousel aspectRatio="4-5" interval="3000" images="{iced-latte-vanilla-cold-foam.webp,iced-strawberry-matcha-latte.webp,earth-sky-matcha-latte.webp,pink-pitaya-latte.webp,blue-spirulina-smoothie-bowl.webp}" captions="{iced-latte-vanilla-cold-foam.webp:Iced latte with vanilla cold foam,iced-strawberry-matcha-latte.webp:Iced strawberry matcha latte,earth-sky-matcha-latte.webp:Earth sky matcha latte,pink-pitaya-latte.webp:Pink pitaya latte,blue-spirulina-smoothie-bowl.webp:Blue spirulina smoothie bowl}" >}}
