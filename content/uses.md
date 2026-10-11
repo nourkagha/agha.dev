@@ -2,7 +2,7 @@
 title = "Uses"
 description = "The gear, software and tools I use day to day."
 date = "2026-10-07"
-lastmod = "2026-10-08"
+lastmod = "2026-10-12"
 
 showDateUpdated = true
 showTableOfContents = true
@@ -11,7 +11,7 @@ showTableOfContents = true
 The gear, software, and tech I use day to day. This page is inspired by the [uses.tech](https://uses.tech) community.
 
 {{< lead >}}
-I care most about privacy, simplicity, efficiency, and flexibility.
+I highly value privacy, simplicity, efficiency, and flexibility.
 {{< /lead >}}
 
 ## ⚙️ Hardware
@@ -75,7 +75,7 @@ I care most about privacy, simplicity, efficiency, and flexibility.
 - 🎨 **Design & editing:** [GIMP](https://gimp.org) and [Kdenlive](https://kdenlive.org) — for creative media editing and content creation.
 - 📸 **Screenshots:** [ShareX](https://getsharex.com) — the best screenshot tool I have ever used.
 - 🌈 **Theme:** [Catppuccin Mocha (Sapphire)](https://catppuccin.com) — my favorite theme across many applications. I like its calm, colorful, and soothing aesthetic.
-- 🅰️ **Font:** [Roboto](https://fonts.google.com/specimen/Roboto) — my go-to font across applications for its clean, modern, and geometric layout.
+- 🅰️ **Font:** [Inter](https://rsms.me/inter) and [Fira Code](https://github.com/tonsky/firacode) — my main sans-serif and monospace typefaces for the site and code.
 
 ## ☁️ Services
 
@@ -86,7 +86,7 @@ I care most about privacy, simplicity, efficiency, and flexibility.
 
 ## 🧰 Accessories
 
-- 🎧 **Headphones:** [Anker soundcore Space One](https://www.soundcore.com/products/space-one-a3035011?variant=44247740022974)
-- 🔊 **Portable speaker:** [Anker soundcore Select 4 Go](https://www.soundcore.com/products/a31x1021?variant=45201948737726)
-- 🔋 **Power & charging:** [Anker 336 Charger (67W)](https://service.anker.com/product-description/a085g00000GinHQAAZ), [Anker 533 Power Bank (PowerCore 30W)](https://www.anker.com/nz/products/a1256), and [Anker USB-C Cables](https://www.anker.com/products/a8753?variant=40597771518102)
+- 🎧 **Headphones:** [Anker soundcore Space One](https://www.soundcore.com/products/space-one-a3035011?variant=44247740022974) — I really like Anker audio products for casual, everyday listening and calls. They offer great quality, excellent value, and solid ANC, and I can connect and manage everything in the same polished, feature-rich [Soundcore app](https://soundcore.com/soundcore-app-vibeos-ai). Check out the reviews on [SoundGuys](https://www.soundguys.com).
+- 🔊 **Portable speaker:** [Anker soundcore Select 4 Go](https://www.soundcore.com/products/a31x1021?variant=45201948737726) — one of the best purchases I’ve made. It punches well above its weight and is surprisingly loud for its size, with much better sound and value, and nearly three times the battery life of the JBL Go models I previously owned.
+- 🔋 **Power & charging:** [Anker 336 Charger (67W)](https://service.anker.com/product-description/a085g00000GinHQAAZ), [Anker 533 Power Bank (PowerCore 30W)](https://www.anker.com/nz/products/a1256), and [Anker USB-C Cables](https://www.anker.com/products/a8753?variant=40597771518102) — Anker is hard to beat for charging essentials. Reliable, practical, and consistently excellent quality and value.
 - 🎒 **Bag:** [SWISSGEAR ScanSmart Backpack](https://www.swissgear.com/collections/scansmart-backpacks)

@@ -1,3 +1,5 @@
+/* Background images for the site. The background image is set on the body element, and a linear gradient overlay is applied to it. The overlay's opacity is controlled by CSS variables that change based on the page type (list or article) and the theme (light or dark). */
+
 :root {
   /* Subdued */
   --list-overlay-light: 25%;
@@ -70,4 +72,31 @@ html.dark body:has(#single_header) {
       linear-gradient(var(--background-overlay), var(--background-overlay)),
       url("/img/dreamscape-midnight-mobile.webp");
   }
+}
+
+/* Font faces for the site. The Inter font is used for sans-serif text, and the Fira Code font is used for monospaced text. Both fonts are variable fonts, allowing for a range of weights to be used. The fonts are loaded with a swap display strategy to ensure text remains visible during loading. */
+
+@font-face {
+  font-family: "Inter";
+  src: url("/fonts/InterVariable.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Fira Code";
+  src: url("/fonts/FiraCode-VF.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 300 700;
+  font-display: swap;
+}
+
+:root {
+  --font-sans: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    "Helvetica Neue", "Noto Sans", Arial, sans-serif,
+    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+
+  --font-mono: "Fira Code", ui-monospace, SFMono-Regular, Menlo, Monaco,
+    Consolas, "Liberation Mono", "Courier New", monospace;
 }
