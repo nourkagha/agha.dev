@@ -55,7 +55,7 @@ I highly value privacy, simplicity, efficiency, and flexibility.
 - 🔑 **Password manager:** [Bitwarden](https://bitwarden.com) and [Proton Pass](https://proton.me/pass)
 - 🛡️ **Authenticator:** [Ente Auth](https://ente.com/auth) and [Proton Authenticator](https://proton.me/authenticator)
 - 🌐 **Browser:** [Firefox](https://firefox.com) — I use a [hardened](https://www.privacyguides.org/en/desktop-browsers/#recommended-firefox-configuration) configuration for privacy.
-  - **Main extensions**:
+  - **Main extensions:**
     - [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin) (ad and content blocker)
     - [Violentmonkey](https://addons.mozilla.org/en-US/firefox/addon/violentmonkey) (userscripts)
     - [Stylus](https://addons.mozilla.org/en-US/firefox/addon/styl-us) (userstyles) — I use the [Catppuccin Mocha (Sapphire)](https://userstyles.catppuccin.com) theme for many websites.
