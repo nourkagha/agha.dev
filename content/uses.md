@@ -6,6 +6,7 @@ lastmod = "2026-10-12"
 
 showDateUpdated = true
 showTableOfContents = true
+showReadingProgress = true
 +++
 
 The gear, software, and tech I use day to day. This page is inspired by the [uses.tech](https://uses.tech) community.

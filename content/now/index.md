@@ -6,6 +6,7 @@ lastmod = "2026-10-11"
 
 showDateUpdated = true
 showTableOfContents = true
+showReadingProgress = true
 +++
 
 A snapshot of what I've been up to lately. This page is inspired by the [/now page](https://nownownow.com) movement.
