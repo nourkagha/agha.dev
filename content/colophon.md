@@ -23,9 +23,9 @@ Content is written in [Markdown](https://markdownguide.org), and the site is dep
 
 A custom [`_redirects`](https://github.com/nourkagha/agha.dev/blob/main/static/_redirects) configuration preserves older URLs and provides convenient shortcuts to feeds, social profiles, and other resources.
 
-## 🎨 Design & Typography
+## 🎨 Design
 
-### ✨ Dreamscape
+### 🖌️ Dreamscape
 
 The site's visual identity is centered around **Dreamscape**, my custom visual language built around light, atmosphere, and negative space. More than just an aesthetic or fantasy, it's a personal expression of my identity — my personality, character, creativity, and vision — reflecting both who I am and the ideas, values, and content I share.
 
