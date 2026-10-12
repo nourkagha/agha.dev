@@ -88,9 +88,14 @@
   weight = 20
 
 [[footer]]
+  name = "Colophon"
+  pageRef = "colophon"
+  weight = 30
+
+[[footer]]
   name = "Status"
   url = "https://agha.dev/status"
-  weight = 30
+  weight = 40
 
 # [[footer]]
 #   name = "Tags"

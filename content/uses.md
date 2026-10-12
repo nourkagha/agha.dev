@@ -41,7 +41,7 @@ I highly value privacy, simplicity, efficiency, and flexibility.
 - 🔄 **Version control:** [Git](https://git-scm.com)
 - ⚡ **Static site generator:** [Hugo](https://gohugo.io) — a fast static site generator with a single binary and no runtime dependencies, powering my website.
 - 🚀 **Hosting & infrastructure:** [Cloudflare Pages](https://pages.dev) and [DigitalOcean](https://digitalocean.com)
-- 🟢 **Status monitoring:** [BetterStack](https://betterstack.com)
+- 🟢 **Status monitoring:** [Better Stack](https://betterstack.com)
 - 📊 **Analytics:** [Umami](https://umami.is) — privacy-first, cookieless analytics for my website.
 
 ### 🤖 AI
@@ -75,6 +75,8 @@ I highly value privacy, simplicity, efficiency, and flexibility.
 - 💾 **Backup:** [Kopia](https://kopia.io)
 - 🎨 **Design & editing:** [GIMP](https://gimp.org) and [Kdenlive](https://kdenlive.org) — for creative media editing and content creation.
 - 📸 **Screenshots:** [ShareX](https://getsharex.com) — the best screenshot tool I have ever used.
+- ❤️ **Health & fitness tracking:** [Zepp Health](https://us.amazfit.com/pages/zepp-app) — for my Amazfit Active 2 watch.
+- 🍎 **Nutrition tracking:** [Cronometer](https://cronometer.com)
 - 🌈 **Theme:** [Catppuccin Mocha (Sapphire)](https://catppuccin.com) — my favorite theme across many applications. I like its calm, colorful, and soothing aesthetic.
 - 🅰️ **Font:** [Inter](https://rsms.me/inter) and [Fira Code](https://github.com/tonsky/firacode) — my main sans-serif and monospace typefaces for the site and code.
 

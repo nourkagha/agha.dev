@@ -42,3 +42,7 @@ Run the local development server ([localhost:1313](http://localhost:1313)):
 Build the site (published to `/public`):
 
     hugo
+
+---
+
+**Licensing:** Source code is licensed under the [MIT License](LICENSE). Original visual assets are reserved and are not covered by that license. See [ASSETS.md](ASSETS.md) for details.

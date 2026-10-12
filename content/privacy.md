@@ -10,7 +10,7 @@ showTableOfContents = true
 
 This site is **designed and built with privacy in mind**. It uses **privacy-first, cookieless analytics** that collect aggregate information about site usage, such as pages visited, referrers, approximate country, and device/browser type. This information helps me understand which content people find helpful, how they navigate the site, and how the site and its content can be improved. The data is anonymized and **does not include personally identifiable information**. There is **no advertising, tracking cookies, or cross-site tracking**, and analytics are not used to build personal profiles.
 
-## At a glance
+## Overview
 
 | Service                      | Purpose                            | What it does                                                          |
 | ---------------------------- | ---------------------------------- | --------------------------------------------------------------------- |
@@ -53,7 +53,7 @@ This site supports Webmentions through [**Webmention.io**](https://webmention.io
 
 Interactions with posts here, such as replies, likes, reposts, and mentions from supported platforms, may appear on this site. These services process publicly available information associated with those interactions.
 
-## Source code
+## Source Code
 
 This site's source code is publicly available on [**GitHub**](https://github.agha.dev/agha.dev).
 
