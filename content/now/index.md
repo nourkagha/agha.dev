@@ -36,7 +36,7 @@ I’m revisiting programming fundamentals and learning new languages and framewo
 
 I’m focused on improving my overall fitness and health while building muscle and strength. I train four days a week with an upper/lower split, or three days a week with full-body workouts. This allows me to train each muscle group at least twice a week. Each workout lasts about 90 minutes: 60 minutes of strength training and 30 minutes of cardio.
 
-My sessions are based on resistance training and progressive overload. I start with 10 minutes of incline walking as a warm-up, followed by weight lifting and another 20 minutes of incline walking to finish and burn extra calories.
+My sessions are based on resistance training and progressive overload. I start with 10 minutes of incline walking as a warm-up, followed by an hour of weight lifting and another 20 minutes of incline walking to finish and burn extra calories.
 
 I’m building sustainable long-term habits that include morning stretching, meal planning and cooking at home when I can, eating a balanced whole-food diet, taking supplements, and maintaining self-care routines.
 
