@@ -74,11 +74,15 @@ You can explore the site's public [analytics](https://agha.dev/analytics) or rea
 
 Security is strongly considered throughout the site’s configuration, with an emphasis on protecting visitors and minimizing unnecessary exposure.
 
-HTTP Strict Transport Security (HSTS) enforces HTTPS in supporting browsers, helping prevent protocol downgrade attacks and insecure connections. The domain is included in the [HSTS preload](https://hstspreload.org/?domain=agha.dev) list, enabling supporting browsers to enforce HTTPS even before the first connection.
+HTTPS is enforced across the site, with Transport Layer Security (TLS) securing connections and HTTP Strict Transport Security (HSTS) helping prevent protocol downgrade attacks and insecure connections. The domain is included in the [HSTS preload](https://hstspreload.org/?domain=agha.dev) list, allowing supporting browsers to enforce HTTPS before the first connection.
 
 A restrictive [Content Security Policy (CSP)](https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/CSP) is enforced through Cloudflare Pages using a custom [`_headers`](https://github.com/nourkagha/agha.dev/blob/main/static/_headers) configuration. It restricts resource loading to explicitly permitted sources, uses cryptographic hashes for approved inline content, and reports policy violations through [Report URI](https://report-uri.com). These measures help mitigate cross-site scripting (XSS) and other code injection attacks.
 
-Additional HTTP security headers provide protections against clickjacking and MIME-type sniffing, while restricting browser permissions and referrer information. [DNSSEC](https://cloudflare.com/learning/dns/dnssec/how-dnssec-works) adds another layer of protection by allowing DNS responses to be authenticated, helping protect against DNS spoofing and tampering.
+Additional HTTP security headers provide protections against clickjacking and MIME-type sniffing, while restricting browser permissions and referrer information.
+
+[DNSSEC](https://cloudflare.com/learning/dns/dnssec/how-dnssec-works) helps protect the integrity of DNS responses by enabling their authentication. Email security is strengthened through SPF, DKIM, and DMARC, alongside MTA-STS, TLS reporting (TLS-RPT), and DANE. Certificate Authority Authorization (CAA) further restricts which certificate authorities are authorized to issue certificates for the domain.
+
+A published [`security.txt`](https://agha.dev/security.txt) file provides a designated contact for security researchers to report vulnerabilities.
 
 The site's security configuration can be independently evaluated using:
 
