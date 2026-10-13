@@ -2,7 +2,7 @@
 title = "Colophon"
 description = "The technology and philosophy behind my independent home on the web — from design to privacy, security, simplicity, and performance."
 date = "2026-10-12"
-lastmod = "2026-10-12"
+lastmod = "2026-10-13"
 
 showDateUpdated = true
 showTableOfContents = true
@@ -72,11 +72,13 @@ You can explore the site's public [analytics](https://agha.dev/analytics) or rea
 
 ## 🛡️ Security
 
-Security is strongly considered throughout the site's configuration, with an emphasis on protecting visitors and minimizing unnecessary exposure.
+Security is strongly considered throughout the site’s configuration, with an emphasis on protecting visitors and minimizing unnecessary exposure.
 
-A restrictive [**Content Security Policy (CSP)**](https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/CSP) is enforced through Cloudflare Pages using a custom [`_headers`](https://github.com/nourkagha/agha.dev/blob/main/static/_headers) configuration. It restricts resource loading to explicitly permitted sources, uses cryptographic hashes for approved inline content, and reports policy violations through [Report URI](https://report-uri.com).
+HTTP Strict Transport Security (HSTS) enforces HTTPS in supporting browsers, helping prevent protocol downgrade attacks and insecure connections. The domain is included in the [HSTS preload](https://hstspreload.org/?domain=agha.dev) list, enabling supporting browsers to enforce HTTPS even before the first connection.
 
-Additional HTTP security headers provide protections such as HTTP Strict Transport Security (HSTS), clickjacking prevention, MIME-type sniffing prevention, and restrictions on browser permissions and referrer information.
+A restrictive [Content Security Policy (CSP)](https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/CSP) is enforced through Cloudflare Pages using a custom [`_headers`](https://github.com/nourkagha/agha.dev/blob/main/static/_headers) configuration. It restricts resource loading to explicitly permitted sources, uses cryptographic hashes for approved inline content, and reports policy violations through [Report URI](https://report-uri.com). These measures help mitigate cross-site scripting (XSS) and other code injection attacks.
+
+Additional HTTP security headers provide protections against clickjacking and MIME-type sniffing, while restricting browser permissions and referrer information. [DNSSEC](https://cloudflare.com/learning/dns/dnssec/how-dnssec-works) adds another layer of protection by allowing DNS responses to be authenticated, helping protect against DNS spoofing and tampering.
 
 The site's security configuration can be independently evaluated using:
 
