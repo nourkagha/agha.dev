@@ -9,7 +9,9 @@ showTableOfContents = true
 showReadingProgress = true
 +++
 
-This website is my **personal and independent home on the web** — a place to share my thoughts, ideas, projects, writing, and experiments. Inspired by the principles of the [IndieWeb](https://indieweb.org), it's a space where I own and control my content, guided by three core principles: **privacy, simplicity, and performance**.
+This website is my **personal and independent home on the web** — a place to share my thoughts, ideas, projects, writing, and experiments. Rooted in creative and artistic expression, engineering discipline and philosophy, and digital independence and freedom, it reflects both my identity and the values that shape my work.
+
+Inspired by the principles of the [IndieWeb](https://indieweb.org), it's a space where I own and control my content, guided by three core principles: **privacy, simplicity, and performance**.
 
 In an internet increasingly dominated by a handful of social media platforms and algorithm-driven feeds, I believe there's immense value in having a space of your own that isn't dependent on any particular platform, its algorithms, policies, or shifting priorities.
 
@@ -29,7 +31,7 @@ A custom [`_redirects`](https://github.com/nourkagha/agha.dev/blob/main/static/_
 
 The site's visual identity is centered around **Dreamscape**, my custom visual language built around light, atmosphere, and negative space. More than just an aesthetic or fantasy, it's a personal expression of my identity — my personality, character, creativity, and vision — reflecting both who I am and the ideas, values, and content I share.
 
-It consists of two complementary environments, representing two emotional states within the same inner world — one turning inward and the other reaching outward and upward:
+It consists of two complementary environments, representing two emotional states of mind within the same inner world — one turning inward and the other reaching outward and upward:
 
 - 🌑 **Dreamscape Midnight (Dark Mode):** A deep, quiet, and contemplative atmosphere where cyan light emerges as a soft, luminous glow, illuminating the near-black darkness and evoking introspection, imagination, and inspiration. A private yet expansive inner world for looking inward, exploring dreams, and finding light within the unknown. Its darkness isn't emptiness or despair, but a space for thought, wonder, and endless possibility.
 - 🌥️ **Dreamscape Dawn (Light Mode):** A bright, heavenly, and ethereal atmosphere where the same cyan light expands into an open, boundless sky, evoking celestial beauty, angelic serenity, and an almost divine sense of bliss and transcendence. A feeling of reaching a higher state of being, embracing new horizons, and finding peace, tranquility, and sanctuary beyond the ordinary.
@@ -40,21 +42,21 @@ The backgrounds use optimized WebP images with dedicated desktop and mobile comp
 
 #### 🩵 Electric Cyan
 
-At the center of both environments is my signature **electric cyan (`#00CCFF`)**, composed of **100% blue, 80% green, and 0% red** (`rgb(0, 204, 255)`). Its maximum-intensity blue evokes electric energy, inspiration, and transcendence, while its strong green component reflects nature, harmony, and grounded serenity. Together, they form a cool, vibrant, and luminous light expressing two deeply connected aspects of who I am: **the dreamer and the guardian**. The dreamer is Dreamscape's guiding spirit and heart, while the guardian provides its steadfast, grounding, and protective foundation.
+At the center of both environments is my signature **electric cyan (`#00CCFF`)**, composed of **100% blue, 80% green, and 0% red** (`rgb(0, 204, 255)`). Its maximum-intensity blue evokes electric energy, inspiration, and transcendence, while its strong green component reflects nature, harmony, and grounded serenity. Together, they form a cool, vibrant, and luminous light expressing two deeply connected aspects of who I am: the dreamer and the guardian.
 
-The **dreamer** represents imagination, intuition, curiosity, wonder, hope, and the courage to envision what could be. An empathetic, innovative creative spirit, always exploring possibilities, seeking inspiration, and looking beyond the boundaries of what already exists. Guided by independent, progressive thought and an idealistic yet pragmatic outlook, the dreamer aspires toward a better future — one shaped by freedom, creativity, knowledge, progress, and the pursuit of human potential.
+The **dreamer** is the guiding spirit and imaginative heart — empathetic, intuitive, curious, and hopeful. It embraces wonder and the courage to envision what could be, seeking inspiration beyond the boundaries of what already exists. Guided by independent, progressive thought and an idealistic yet pragmatic outlook, it explores possibilities through imagination and innovation. It aspires toward a better future shaped by freedom, creativity, knowledge, progress, and the pursuit of human potential.
 
-The **guardian** represents calm strength, serenity, groundedness, stability, resilience, and the determination to protect what matters. A steady, vigilant, and reassuring presence that offers sanctuary and security amid uncertainty, embodying gentle compassion alongside a fierce, chivalrous spirit of protection, loyalty, and unwavering devotion. Guided by purity of intention, courage, humility, and wisdom, its strength is rooted not in aggression or control, but in conviction, understanding, and the resolve to stand for what is right. Beneath its quiet composure lies a profound loyalty to loved ones and an enduring devotion to the people and principles worth safeguarding — a devotion grounded in compassion rather than blind allegiance. Its gentleness is never weakness, nor does its serenity diminish its strength.
+The **guardian** is the steadfast, grounding, and protective foundation — calm, resilient, and vigilant, offering sanctuary, security, and stability amid uncertainty. It combines gentle compassion with courage, loyalty, and a fierce, chivalrous spirit of protection and devotion. Guided by purity of intention, humility, and wisdom, it draws strength from conviction and understanding rather than aggression or control, offering reassurance through its steady presence and resolve to stand for what is right. Its profound loyalty to loved ones and principles worth safeguarding is rooted in compassion rather than blind allegiance; its gentleness is never weakness, nor does its serenity diminish its strength.
 
 Together, the dreamer and the guardian reflect a balance between idealism and pragmatism, freedom and responsibility, imagination and purpose. One envisions a better world; the other provides the grounding and protection needed to nurture that vision and make it possible.
 
-**Electric cyan** brings these qualities together in harmony. Its cool, luminous nature evokes clarity, tranquility, trust, and the comforting light of a sanctuary. Its soft bloom and gentle glow convey serenity and reassurance, while its *electric* intensity introduces a vibrant spark of life and energy, evoking imagination, inspiration, hope, euphoria, and an uplifting sense of transcendence. The result is a balanced light — gentle without being fragile, powerful without being overwhelming, and steadfast without losing its warmth.
+**Electric cyan** unites these qualities in a single, continuous light. Its cool luminosity, soft bloom, and gentle glow evoke clarity, tranquility, trust, and comfort, while its *electric* intensity brings a vibrant spark of life and energy, stirring imagination, inspiration, hope, euphoria, and an uplifting sense of transcendence. It embodies balance: gentle without being fragile, powerful without being overwhelming, and steadfast without losing its warmth.
 
-This single, continuous light connects Dreamscape's two emotional states of mind. In Midnight, it emerges from within, illuminating imagination and offering comfort in darkness. In Dawn, it expands into luminous openness, embodying transcendence, freedom, and possibility. Throughout both, the guardian remains a quiet, reassuring presence, offering a sense of sanctuary, serenity, and security.
+In Midnight, this light emerges from within, illuminating imagination and offering comfort in darkness. In Dawn, it expands into luminous openness, embodying transcendence, freedom, and possibility. Throughout both, the guardian remains a quiet, reassuring presence.
 
 Together, Midnight and Dawn reflect a philosophy of looking introspectively inward, progressively forward, and imaginatively upward — seeking understanding within ourselves, striving toward a better future, and daring to envision what lies beyond.
 
-**The light discovered inwardly in Midnight becomes the light the dreamer rises into in Dawn.**
+*The light discovered inwardly in Midnight becomes the light the dreamer rises into in Dawn.*
 
 ### 🔤 Typography
 
@@ -64,7 +66,7 @@ Typography uses the self-hosted variable fonts [Inter](https://rsms.me/inter) fo
 
 Privacy is a fundamental part of this site's design, not an afterthought.
 
-There are **no advertisements, tracking cookies, or cross-site tracking**. I use [Umami Cloud](https://umami.is) and [Cloudflare Web Analytics](https://www.cloudflare.com/web-analytics) for anonymized, aggregate usage and performance statistics, not for identifying or profiling visitors.
+There are **no advertisements, tracking cookies, or cross-site tracking**. I use [Umami Cloud](https://umami.is) and [Cloudflare Web Analytics](https://www.cloudflare.com/web-analytics) for privacy-first, anonymized, aggregate usage and performance statistics, not for identifying or profiling visitors.
 
 Some optional features, including comments and Webmentions, rely on third-party services. Cloudflare also processes technical information necessary to deliver and secure the site.
 
@@ -115,11 +117,11 @@ These features help connect this independent space to the wider internet without
 
 ## 🤖 AI Assistance
 
-I use [ChatGPT](https://chatgpt.com), [Claude](https://claude.ai), and [Gemini](https://gemini.google) as thinking partners across my creative and technical work — from brainstorming and exploring ideas to gaining new perspectives, getting feedback, refining wording, and working through code.
+I use [ChatGPT](https://chatgpt.com), [Claude](https://claude.ai), and [Gemini](https://gemini.google) as thinking partners across my creative and technical work — from exploring ideas and gaining new perspectives to refining phrasing and working through code. Their real-time feedback helps me evaluate possibilities, iterate on ideas, and make decisions, allowing me to move faster and get things done more efficiently.
 
-AI is a tool in my creative and technical process, not a substitute for my own thinking or judgment. The content and writing on this site are my own, as are the ideas, creative direction, design decisions, and final choices behind my work.
+AI is a tool that supports and accelerates my process, not a substitute for my own creativity, critical thinking, or judgment. The content and writing on this site are my own, as are the ideas, creative direction, and final decisions behind my work.
 
-To help bring my artistic vision for Dreamscape to life, I used AI assistance to write a Python script that procedurally generates the visual assets. The visuals are generated by code, not an AI image-generation model.
+To bring my artistic vision for Dreamscape to life, I worked with AI to develop a deterministic Python script that procedurally generates its visual assets according to my specifications, using my chosen color palette centered on my signature electric cyan. The visuals are generated by code, not an AI image-generation model.
 
 ## 💻 Source Code & Credits
 
