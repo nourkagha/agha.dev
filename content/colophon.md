@@ -9,9 +9,13 @@ showTableOfContents = true
 showReadingProgress = true
 +++
 
-This website is my **personal and independent home on the web** — a place to share my thoughts, ideas, projects, writing, and experiments. Rooted in creative and artistic expression, engineering discipline and philosophy, and digital independence and freedom, it reflects both my identity and the values that shape my work.
+{{< lead >}}
+This website is my **personal and independent home on the web** — a place to share my thoughts, ideas, projects, writing, and experiments.
+{{< /lead >}}
 
-Inspired by the principles of the [IndieWeb](https://indieweb.org), it's a space where I own and control my content, guided by three core principles: **privacy, simplicity, and performance**.
+Rooted in creative and artistic expression, engineering discipline and philosophy, and digital independence and freedom, it reflects both my identity and the values that shape my work.
+
+Inspired by the principles of the [IndieWeb](https://indieweb.org), it's a space where I own and control my content. Its design and development are guided by three core principles: **privacy, simplicity, and performance**.
 
 In an internet increasingly dominated by a handful of social media platforms and algorithm-driven feeds, I believe there's immense value in having a space of your own that isn't dependent on any particular platform, its algorithms, policies, or shifting priorities.
 
@@ -56,7 +60,9 @@ In Midnight, this light emerges from within, illuminating imagination and offeri
 
 Together, Midnight and Dawn reflect a philosophy of looking introspectively inward, progressively forward, and imaginatively upward — seeking understanding within ourselves, striving toward a better future, and daring to envision what lies beyond.
 
+{{< lead >}}
 *The light discovered inwardly in Midnight becomes the light the dreamer rises into in Dawn.*
+{{< /lead >}}
 
 ### 🔤 Typography
 
@@ -111,7 +117,7 @@ I believe the web should remain open, decentralized, and accessible to everyone.
 
 Social media platforms can be useful for discovering content and connecting with others, but they shouldn't be the only way to publish, share, or participate online.
 
-This site embraces that philosophy by supporting [RSS](https://agha.dev/rss) for following content without relying on algorithms, [Webmentions](https://www.w3.org/TR/webmention/) through [Webmention.io](https://webmention.io) and [Bridgy](https://brid.gy) for interactions across the web, and comments through [Giscus](https://giscus.app) and GitHub Discussions.
+This site embraces that philosophy by supporting [RSS](https://agha.dev/rss) for following content without relying on algorithms, [Webmentions](https://www.w3.org/TR/webmention) through [Webmention.io](https://webmention.io) and [Bridgy](https://brid.gy) for interactions across the web, and comments through [Giscus](https://giscus.app) and GitHub Discussions.
 
 These features help connect this independent space to the wider internet without making any single social platform its center.
 

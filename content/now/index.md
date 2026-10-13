@@ -12,7 +12,7 @@ showReadingProgress = true
 A snapshot of what I've been up to lately. This page is inspired by the [/now page](https://nownownow.com) movement.
 
 {{< lead >}}
-I'm focused on growing as a software engineer, building things I care about, taking care of myself, and finding a sustainable balance between work, learning, health, and the things I enjoy.
+I'm focused on **growing** as a software engineer, **building** things I care about, taking **care** of myself, and finding a sustainable **balance** between work, learning, health, and the things I enjoy.
 {{< /lead >}}
 
 ## Work
