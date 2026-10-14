@@ -1,5 +1,6 @@
 +++
 title = "Blog"
+description = "Articles on technology, projects, music, gaming, and more."
 groupByYear = true
 orderByWeight = false
 
@@ -18,3 +19,5 @@ orderByWeight = false
   showZenMode = true
   sharingLinks = ["email", "linkedin", "twitter", "bluesky", "mastodon", "reddit", "pinterest", "facebook", "whatsapp", "telegram"]
 +++
+
+Writing about what I build, learn, and enjoy.

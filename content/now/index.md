@@ -15,24 +15,24 @@ A snapshot of what I've been up to lately. This page is inspired by the [/now pa
 I'm focused on **growing** as a software engineer, **building** things I care about, taking **care** of myself, and finding a sustainable **balance** between work, learning, health, and the things I enjoy.
 {{< /lead >}}
 
-## Work
+## 🏢 Work
 
 I've been building and maintaining systems, documentation, and tooling while troubleshooting software and hardware issues. I'm also exploring AI integration and automation through projects while working toward my long-term career goals.
 
 Earlier this year, I worked on building and deploying an AI system that transcribes customer calls with [faster-whisper](https://github.com/SYSTRAN/faster-whisper) and [WhisperX](https://github.com/m-bain/whisperX). It uses LLMs through [Ollama](https://ollama.com), [vLLM](https://vllm.ai), and the [OpenAI API](https://openai.com/api) for sentiment analysis, emotion detection, and generating detailed insights and reports. I also host, maintain, and administer a [Chatwoot](https://chatwoot.com) server on [Google Cloud Platform](https://cloud.google.com).
 
-## Projects
+## 👨🏻‍💻 Projects
 
 I'm continuing to work on my personal projects and [contributing](/projects/contributions) to open source projects, as well as shaping [agha.dev](https://agha.dev) into a personal space for my projects, ideas, writing, and experiments. I'm interested in thoughtful design, useful software, and building things with privacy in mind, as well as staying up to date with AI and agentic development.
 
 ![VS Code with GitHub Copilot](vscode.webp)
 *VS Code with GitHub Copilot: Standardizing document formatting*
 
-## Learning
+## 🌱 Learning
 
 I’m revisiting programming fundamentals and learning new languages and frameworks to grow and develop my skills further. I’m planning to put what I learn into practice through personal projects and tools for communities I'm passionate about.
 
-## Health & Fitness
+## ❤️ Health & Fitness
 
 I’m focused on improving my overall fitness and health while building muscle and strength. I train four days a week with an upper/lower split, or three days a week with full-body workouts. This allows me to train each muscle group at least twice a week. Each workout lasts about 90 minutes: 60 minutes of strength training and 30 minutes of cardio.
 
@@ -40,7 +40,7 @@ My sessions are based on resistance training and progressive overload. I start w
 
 I’m building sustainable long-term habits that include morning stretching, meal planning and cooking at home when I can, eating a balanced whole-food diet, taking supplements, and maintaining self-care routines.
 
-## Gaming
+## 🎮 Gaming
 
 I got back into RuneScape after a long break and I'm catching up on the latest content, rediscovering the game and experiencing what's changed as I work toward reclaiming my [Completionist](https://runescape.wiki/w/Completionist_cape) cape. I recently hit a major milestone and claimed my 20-year Veteran cape, marking over two decades in the game.
 
@@ -49,7 +49,7 @@ In November, I'm planning to return to World of Warcraft by playing WoW Forever 
 ![RuneScape](runescape.webp)
 *RuneScape: Cutting eternal magic trees for 110 Woodcutting*
 
-## Music
+## 🎹 Music
 
 I'm looking to reconnect with my passion for electronic music through mixing and production. I'd love to spend more time exploring that creative, artistic, and emotional side again, experimenting with sounds, and rediscovering the joy of creating and sharing music.
 
@@ -67,7 +67,7 @@ Some of my favorite discoveries this year have been Planet of Souls for their ci
 **Note:** YouTube embed playback may not be available on mobile.
 {{< /alert >}}
 
-## Coffee & Drinks
+## ☕ Coffee & Drinks
 
 I've been honing my home barista skills, getting creative with iced coffee and matcha lattes, frappes, homemade cold foams, and smoothies (both drinks and bowls). I love experimenting with different flavors, fruits, and colorful ingredients like blue spirulina, butterfly pea flower, and pink pitaya. I find the creative ritual of making each drink really therapeutic, and I much prefer iced drinks to hot drinks because I find them very refreshing and energizing, which makes them more enjoyable. It's especially satisfying to create something as healthy as it is delicious, with natural or zero-calorie sweeteners.
 

@@ -8,4 +8,4 @@ orderByWeight = true
   heroStyle = "background"
 +++
 
-A collection of projects I've built and open source projects I've contributed to.
+Projects I've built and open source projects I've contributed to.

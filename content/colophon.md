@@ -23,7 +23,7 @@ As the internet becomes increasingly dominated by a handful of social media plat
 
 This site is built with [Hugo](https://gohugo.io), a fast, open-source static site generator particularly well-suited for content-driven websites. Distributed as a self-contained binary, Hugo keeps tooling lightweight and builds fast, without requiring a JavaScript runtime or build toolchain. It also supports [Hugo Modules](https://gohugo.io/hugo-modules), which use [Go](https://go.dev) for dependency management.
 
-The site uses [Blowfish](https://blowfish.page) as its theme, customized with my own [color scheme](https://github.com/nourkagha/agha.dev/blob/main/assets/css/schemes/nour.css) inspired by [Dreamscape](#-dreamscape), alongside additional CSS for styling and visual refinements.
+The site uses [Blowfish](https://blowfish.page) as its theme, customized with my own [color scheme](https://github.com/nourkagha/agha.dev/blob/main/assets/css/schemes/nour.css) inspired by [Dreamscape](#-dreamscape), alongside custom Hugo templates and additional CSS for styling and visual refinements.
 
 Content is written in [Markdown](https://markdownguide.org), and the site is deployed and hosted on [Cloudflare Pages](https://pages.dev), with its source code maintained on [GitHub](https://github.agha.dev/agha.dev). Availability and uptime are monitored using [Better Stack](https://betterstack.com), with a public [status](https://agha.dev/status) page providing service status and incident updates.
 
@@ -52,13 +52,13 @@ The **dreamer** is the guiding spirit and imaginative heart — empathetic, intu
 
 The **guardian** is the steadfast, grounding, and protective foundation — calm, resilient, and vigilant, offering sanctuary, security, and stability amid uncertainty. It combines gentle compassion with courage, loyalty, and a fierce, chivalrous spirit of protection and devotion. Guided by purity of intention, humility, and wisdom, it draws strength from conviction and understanding rather than aggression or control, offering reassurance through its steady presence and resolve to stand for what is right. Its profound loyalty to loved ones and principles worth safeguarding is rooted in compassion rather than blind allegiance; its gentleness is never weakness, nor does its serenity diminish its strength.
 
-Together, the dreamer and the guardian reflect a balance between idealism and pragmatism, freedom and responsibility, imagination and purpose. One envisions a better world; the other provides the grounding and protection needed to nurture that vision and make it possible.
+The dreamer and the guardian reflect a balance between idealism and pragmatism, freedom and responsibility, imagination and purpose. One envisions a better world; the other provides the grounding and protection needed to nurture that vision and make it possible.
 
 **Electric cyan** unites these qualities in a single, continuous light. Its cool luminosity, soft bloom, and gentle glow evoke clarity, tranquility, trust, and comfort, while its *electric* intensity brings a vibrant spark of life and energy, stirring imagination, inspiration, hope, euphoria, and an uplifting sense of transcendence. It embodies balance: gentle without being fragile, powerful without being overwhelming, and steadfast without losing its warmth.
 
 In Midnight, this light emerges from within, illuminating imagination and offering comfort in darkness. In Dawn, it expands into luminous openness, embodying transcendence, freedom, and possibility. Throughout both, the guardian remains a quiet, reassuring presence.
 
-Together, Midnight and Dawn reflect a philosophy of looking introspectively inward, progressively forward, and imaginatively upward — seeking understanding within ourselves, striving toward a better future, and daring to envision what lies beyond.
+Midnight and Dawn reflect a philosophy of looking introspectively inward, progressively forward, and imaginatively upward — seeking understanding within ourselves, striving toward a better future, and daring to envision what lies beyond.
 
 {{< lead >}}
 *The light discovered inwardly in Midnight becomes the light the dreamer rises into in Dawn.*

@@ -1,0 +1,38 @@
+{{ define "main" }}
+  <article class="h-entry mt-10 max-w-prose">
+    <header id="single_header">
+      <h1 class="sr-only">{{ .Title }}</h1>
+    </header>
+
+    <div class="e-content article-content prose dark:prose-invert mt-4">
+      {{ .Content }}
+    </div>
+
+    <footer class="mt-3">
+      {{ $published := .Date | time.In "Asia/Beirut" }}
+      <a
+        class="u-url text-sm text-neutral-500 dark:text-neutral-400 decoration-primary-500 hover:underline hover:decoration-2 hover:underline-offset-2"
+        href="{{ .RelPermalink }}"
+        rel="bookmark">
+        <time
+          class="dt-published"
+          datetime="{{ $published.Format "2006-01-02T15:04:05Z07:00" }}"
+          title="Beirut time">
+          {{ $published.Format "2 Jan 2006 · 15:04" }}
+        </time>
+      </a>
+    </footer>
+
+    <div class="mt-8 print:hidden">
+      <hr class="border-dotted border-neutral-300 dark:border-neutral-600">
+
+      <nav class="pt-3" aria-label="Notes navigation">
+        <a
+          class="text-neutral-700 dark:text-neutral hover:text-primary-600 dark:hover:text-primary-400"
+          href="{{ .Parent.RelPermalink }}">
+          ← All notes
+        </a>
+      </nav>
+    </div>
+  </article>
+{{ end }}
