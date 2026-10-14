@@ -17,7 +17,7 @@ Rooted in creative and artistic expression, engineering discipline and philosoph
 
 Inspired by the principles of the [IndieWeb](https://indieweb.org), it's a space where I own and control my content. Its design and development are guided by three core principles: **privacy, simplicity, and performance**.
 
-As the internet becomes increasingly dominated by a handful of social media platforms and algorithm-driven feeds, there's immense value in having a space of your own. Your online identity and creative work shouldn’t depend entirely on any platform, its algorithms, policies, or shifting priorities. I believe in owning your presence on the web.
+As the internet becomes increasingly dominated by a handful of social media platforms and algorithm-driven feeds, there's immense value in having a space of your own. Your online identity, personal expression and creative content shouldn’t depend entirely on any platform, its algorithms, policies, or shifting priorities. I believe in owning your presence on the web.
 
 ## ⚙️ Technology
 
