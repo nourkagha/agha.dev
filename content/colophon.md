@@ -13,11 +13,11 @@ showReadingProgress = true
 This website is my **personal and independent home on the web** — a place to share my thoughts, ideas, projects, writing, and experiments.
 {{< /lead >}}
 
-Rooted in creative and artistic expression, engineering discipline and philosophy, and digital independence and freedom, it reflects both my identity and the values that shape my work.
+Rooted in creative and artistic expression, engineering discipline and philosophy, and digital independence and freedom, it reflects both my identity and my values.
 
 Inspired by the principles of the [IndieWeb](https://indieweb.org), it's a space where I own and control my content. Its design and development are guided by three core principles: **privacy, simplicity, and performance**.
 
-As the internet becomes increasingly dominated by a handful of social media platforms and algorithm-driven feeds, there's immense value in having a space of your own. Your online identity, personal expression and creative content shouldn’t depend entirely on any platform, its algorithms, policies, or shifting priorities. I believe in owning your presence on the web.
+As the internet becomes increasingly dominated by a handful of social media platforms and algorithm-driven feeds, there's immense value in having a space of your own. Your online identity, personal expression, and creative content shouldn’t depend entirely on any platform, its algorithms, policies, or shifting priorities. I believe in owning your presence on the web.
 
 ## ⚙️ Technology
 
