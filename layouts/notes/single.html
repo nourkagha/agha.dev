@@ -1,10 +1,43 @@
 {{ define "main" }}
   <article class="h-entry mt-10 max-w-prose">
-    <header id="single_header">
+    <header id="single_header" class="mb-6">
       <h1 class="sr-only">{{ .Title }}</h1>
+
+      <div class="p-author h-card flex items-center">
+        {{ with site.Params.Author.image }}
+          {{ with resources.Get . }}
+            {{ $avatar := . }}
+            {{ if not (or site.Params.disableImageOptimization (eq .MediaType.SubType "svg")) }}
+              {{ $avatar = .Fill "96x96 Center" }}
+            {{ end }}
+            <a
+              class="me-4 shrink-0"
+              href="{{ "about/" | relURL }}"
+              aria-label="About {{ site.Params.Author.name }}">
+              <img
+                class="u-photo nozoom h-12 w-12 rounded-full"
+                width="48"
+                height="48"
+                src="{{ $avatar.RelPermalink }}"
+                alt="">
+            </a>
+          {{ end }}
+        {{ end }}
+
+        <div>
+          <a
+            class="p-name u-url font-semibold leading-6 text-neutral-800 dark:text-neutral-300 hover:text-primary-600 dark:hover:text-primary-400"
+            href="{{ "about/" | relURL }}">
+            {{ site.Params.Author.name }}
+          </a>
+          <div class="text-lg">
+            {{ partialCached "author-links.html" . }}
+          </div>
+        </div>
+      </div>
     </header>
 
-    <div class="e-content article-content prose dark:prose-invert mt-4">
+    <div class="e-content article-content prose dark:prose-invert">
       {{ .Content }}
     </div>
 
