@@ -2,7 +2,7 @@
 title = "Colophon"
 description = "The technology and philosophy behind my independent home on the web — from design to privacy, security, simplicity, and performance."
 date = "2026-10-12"
-lastmod = "2026-10-13"
+lastmod = "2026-10-14"
 
 showDateUpdated = true
 showTableOfContents = true
@@ -80,11 +80,11 @@ You can explore the site's public [analytics](https://agha.dev/analytics) or rea
 
 ## 🛡️ Security
 
-Security is strongly considered throughout the site’s configuration, with an emphasis on protecting visitors and minimizing unnecessary exposure.
+Security is a key consideration throughout the site's configuration, with an emphasis on protecting visitors and minimizing unnecessary exposure.
 
 HTTPS is enforced across the site, with Transport Layer Security (TLS) securing connections and HTTP Strict Transport Security (HSTS) helping prevent protocol downgrade attacks and insecure connections. The domain is included in the [HSTS preload](https://hstspreload.org/?domain=agha.dev) list, allowing supporting browsers to enforce HTTPS before the first connection.
 
-A restrictive [Content Security Policy (CSP)](https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/CSP) is enforced through Cloudflare Pages using a custom [`_headers`](https://github.com/nourkagha/agha.dev/blob/main/static/_headers) configuration. It restricts resource loading to explicitly permitted sources, uses cryptographic hashes for approved inline content, and reports policy violations through [Report URI](https://report-uri.com). These measures help mitigate cross-site scripting (XSS) and other code injection attacks.
+A restrictive [Content Security Policy (CSP)](https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/CSP) is configured through Cloudflare Pages using a custom [`_headers`](https://github.com/nourkagha/agha.dev/blob/main/static/_headers) file and enforced by browsers. It restricts resource loading to explicitly permitted sources and uses cryptographic hashes for approved inline content. These measures help mitigate cross-site scripting (XSS) and other code injection attacks.
 
 Additional HTTP security headers provide protections against clickjacking and MIME-type sniffing, while restricting browser permissions and referrer information.
 
