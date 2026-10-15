@@ -9,7 +9,17 @@ body:has(#single_header) #background-canvas > img {
 }
 
 /* Mobile background */
+/* Fix mobile scroll stutter: `inset: 0` on a `fixed` element tracks the
+   live viewport edges, so on mobile the layer resizes/repaints every frame
+   the browser's address bar is animating in or out during scroll. Pinning
+   the height to 100svh (viewport size with browser chrome fully visible)
+   keeps it stable instead of recalculating on every scroll tick. */
 @media (max-width: 767px) {
+  #background-canvas {
+    bottom: auto;
+    height: 100svh;
+  }
+
   #background-canvas > img {
     object-fit: fill;
   }
