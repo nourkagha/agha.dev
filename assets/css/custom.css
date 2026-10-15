@@ -8,6 +8,23 @@ body:has(#single_header) #background-canvas > img {
   opacity: 0.4;
 }
 
+/* Mobile background */
+@media (max-width: 767px) {
+  #background-canvas > img {
+    object-fit: fill;
+  }
+}
+
+/* Fix mobile scroll stutter: a `position: fixed` full-viewport layer forces
+   most mobile browsers to repaint it on every scroll
+   frame instead of compositing it. Promoting it to its own GPU layer stops
+   the repaint-on-scroll behavior. */
+#background-canvas {
+  transform: translateZ(0);
+  will-change: transform;
+  backface-visibility: hidden;
+}
+
 /* Font faces for the site. The Inter font is used for sans-serif text, and the Fira Code font is used for monospaced text. Both fonts are variable fonts, allowing for a range of weights to be used. The fonts are loaded with a swap display strategy to ensure text remains visible during loading. */
 @font-face {
   font-family: "Inter";
