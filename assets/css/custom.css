@@ -8,16 +8,15 @@ body:has(#single_header) #background-canvas > img {
   opacity: 0.4;
 }
 
+/* Stable background canvas in all orientations across mobile browser chrome changes */
+#background-canvas {
+  inset: 0 0 auto;
+  height: 100vh;
+  height: 100lvh;
+}
+
 /* Mobile background */
 @media (max-width: 767px) {
-  /* Stable background canvas across mobile browser chrome changes */
-  #background-canvas {
-    inset: 0 0 auto;
-    height: 100vh;
-    height: 100lvh;
-  }
-
-  /* Fill the background canvas image to cover the entire viewport on mobile devices */
   #background-canvas > img {
     object-fit: fill;
   }
