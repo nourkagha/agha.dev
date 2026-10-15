@@ -9,7 +9,7 @@
   Permissions-Policy: geolocation=(), midi=(), sync-xhr=(), microphone=(), camera=(), magnetometer=(), gyroscope=(), fullscreen=(), payment=()
 
 # Allow Giscus to load the custom Dreamscape stylesheet
-/css/giscus.min.css
+/css/giscus-dreamscape.min.css
   Access-Control-Allow-Origin: https://giscus.app
 
 # Search indexing
