@@ -27,15 +27,16 @@ main {
   --dreamscape-hover: rgba(var(--color-primary-400), 0.12);
   --dreamscape-active: rgba(var(--color-primary-400), 0.20);
   --dreamscape-popover: rgb(var(--color-neutral-800));
+  /* One shared accent for links and primary actions in each environment. */
   --dreamscape-link: rgb(var(--color-primary-400));
-  --dreamscape-action: rgb(var(--color-primary-400));
+  --dreamscape-action: var(--dreamscape-link);
   --dreamscape-action-hover: rgb(var(--color-primary-300));
   --dreamscape-on-action: rgb(var(--color-neutral-800));
 
   /* Backgrounds: keep the Dreamscape artwork visible. */
   --color-canvas-default: transparent;
   --color-canvas-subtle: transparent;
-  --color-canvas-inset: var(--dreamscape-surface);
+  --color-canvas-inset: transparent;
   --color-canvas-overlay: var(--dreamscape-popover);
 
   /* Content and links. */
@@ -131,9 +132,8 @@ main {
     --dreamscape-hover: rgba(var(--color-primary-400), 0.11);
     --dreamscape-active: rgba(var(--color-primary-600), 0.16);
     --dreamscape-popover: rgb(var(--color-neutral));
-    --dreamscape-link: rgb(var(--color-primary-700));
-    --dreamscape-action: rgb(var(--color-primary-700));
-    --dreamscape-action-hover: rgb(var(--color-primary-800));
+    --dreamscape-link: rgb(var(--color-primary-600));
+    --dreamscape-action-hover: rgb(var(--color-primary-700));
     --dreamscape-on-action: rgb(var(--color-neutral));
 
     --color-success-fg: #186a50;
