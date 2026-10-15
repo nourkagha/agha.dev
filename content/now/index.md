@@ -25,8 +25,7 @@ Earlier this year, I worked on building and deploying an AI system that transcri
 
 I'm continuing to work on my personal projects and [contributing](/projects/contributions) to open source projects, as well as shaping [agha.dev](https://agha.dev) into a personal space for my projects, ideas, writing, and experiments. I'm interested in thoughtful design, useful software, and building things with privacy in mind, as well as staying up to date with AI and agentic development.
 
-![VS Code with GitHub Copilot](vscode.webp)
-*VS Code with GitHub Copilot: Standardizing document formatting*
+![VS Code with GitHub Copilot](vscode.webp "*VS Code with GitHub Copilot: Standardizing document formatting*")
 
 ## 🌱 Learning
 

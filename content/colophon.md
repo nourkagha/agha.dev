@@ -21,9 +21,9 @@ As the internet becomes increasingly dominated by a handful of social media plat
 
 ## ⚙️ Technology
 
-This site is built with [Hugo](https://gohugo.io), a fast, open-source static site generator particularly well-suited for content-driven websites. Distributed as a self-contained binary, Hugo keeps tooling lightweight and builds fast, without requiring a JavaScript runtime or build toolchain. It also supports [Hugo Modules](https://gohugo.io/hugo-modules), which use [Go](https://go.dev) for dependency management.
+This site is built with [Hugo](https://gohugo.io), a fast, open-source static site generator for content-driven websites. Distributed as a self-contained binary, Hugo keeps tooling lightweight and builds fast, without requiring a JavaScript runtime or build toolchain. It also supports [Hugo Modules](https://gohugo.io/hugo-modules), which use [Go](https://go.dev) for dependency management.
 
-The site uses [Blowfish](https://blowfish.page) as its theme, customized with my own [color scheme](https://github.com/nourkagha/agha.dev/blob/main/assets/css/schemes/nour.css) inspired by [Dreamscape](#-dreamscape), alongside custom Hugo templates and additional CSS for styling and visual refinements.
+The site uses [Blowfish](https://blowfish.page) as its theme, customized with my own [color scheme](https://github.com/nourkagha/agha.dev/blob/main/assets/css/schemes/dreamscape.css) inspired by [Dreamscape](#-dreamscape), alongside custom Hugo templates and additional CSS for styling and visual refinements.
 
 Content is written in [Markdown](https://markdownguide.org), and the site is deployed and hosted on [Cloudflare Pages](https://pages.dev), with its source code maintained on [GitHub](https://github.agha.dev/agha.dev). Availability and uptime are monitored using [Better Stack](https://betterstack.com), with a public [status](https://agha.dev/status) page providing service status and incident updates.
 
@@ -41,6 +41,8 @@ It consists of two complementary environments, representing two emotional states
 - 🌥️ **Dreamscape Dawn (Light Mode):** A bright, heavenly, and ethereal atmosphere where the same cyan light expands into an open, boundless sky, evoking celestial beauty, angelic serenity, and an almost divine sense of bliss and transcendence. A feeling of reaching a higher state of being, embracing new horizons, and finding peace, tranquility, and sanctuary beyond the ordinary.
 
 The design uses a restrained palette of near-black (`#0A0A0A`), white (`#FFFFFF`), and electric cyan (`#00CCFF`), with smooth gradients, soft bloom and glow, gentle radiance, atmospheric luminance, and generous open space. The balance between light and dark echoes the harmony found in nature, while the interplay of light, atmosphere, and space creates a serene, immersive, trance-like experience, evoking depth and emotion without unnecessary decoration.
+
+{{< swatches "#0A0A0A" "#FFFFFF" "#00CCFF" >}}
 
 The backgrounds use optimized WebP images with dedicated desktop and mobile compositions. The site supports light and dark modes, with dark mode as the default and automatic adaptation to system preferences.
 
