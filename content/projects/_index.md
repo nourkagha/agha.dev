@@ -5,6 +5,7 @@ groupByYear = false
 orderByWeight = true
 
 [cascade]
+  showHero = true
   heroStyle = "background"
 +++
 

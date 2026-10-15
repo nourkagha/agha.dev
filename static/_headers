@@ -1,5 +1,4 @@
 # Content Security Policy
-
 /*
   X-Frame-Options: DENY
   X-XSS-Protection: 0
@@ -9,7 +8,10 @@
   Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
   Permissions-Policy: geolocation=(), midi=(), sync-xhr=(), microphone=(), camera=(), magnetometer=(), gyroscope=(), fullscreen=(), payment=()
 
-# Search indexing
+# Allow Giscus to load the custom Dreamscape stylesheet
+/css/giscus.min.css
+  Access-Control-Allow-Origin: https://giscus.app
 
+# Search indexing
 https://nouragha.pages.dev/*
   X-Robots-Tag: noindex

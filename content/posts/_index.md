@@ -8,6 +8,7 @@ orderByWeight = false
   heroStyle = "big"
   showDate = true
   showDateUpdated = true
+  showHero = false
   showAuthor = true
   showComments = true
   showReadingTime = true

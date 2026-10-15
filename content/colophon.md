@@ -46,7 +46,9 @@ The backgrounds use optimized WebP images with dedicated desktop and mobile comp
 
 #### 🩵 Electric Cyan
 
-At the center of both environments is my signature **electric cyan (`#00CCFF`)**, composed of **100% blue, 80% green, and 0% red** (`rgb(0, 204, 255)`). Its maximum-intensity blue evokes electric energy, inspiration, and transcendence, while its strong green component reflects nature, harmony, and grounded serenity. Together, they form a cool, vibrant, and luminous light expressing two deeply connected aspects of who I am: the dreamer and the guardian.
+The same light illuminates Midnight and Dawn: my signature **electric cyan (`#00CCFF`)**, composed of **100% blue, 80% green, and 0% red** (`rgb(0, 204, 255)`). Its maximum-intensity blue evokes electric energy, inspiration, and transcendence, while its strong green component reflects nature, harmony, and grounded serenity. Together, they form a cool, vibrant, and luminous light expressing two deeply connected aspects of who I am: the dreamer and the guardian.
+
+At the heart of Dreamscape, electric cyan is more than my signature color — it is my symbolic presence within this inner world. My name, **Nour (نور)**, literally means *light* in Arabic, and this luminous, continuous light embodies my identity, character, and spirit. It represents the dreamer and the guardian as two complementary aspects of who I am, united in a single essence that remains unchanged whether emerging from the darkness of Midnight or expanding into the boundless openness of Dawn.
 
 The **dreamer** is the guiding spirit and imaginative heart — empathetic, intuitive, curious, and hopeful. It embraces wonder and the courage to envision what could be, seeking inspiration beyond the boundaries of what already exists. Guided by independent, progressive thought and an idealistic yet pragmatic outlook, it explores possibilities through imagination and innovation. It aspires toward a better future shaped by freedom, creativity, knowledge, progress, and the pursuit of human potential.
 
