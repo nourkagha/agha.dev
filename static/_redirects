@@ -1,14 +1,24 @@
+# Legacy URLs
 /rss /index.xml 301
 /feed /index.xml 301
-/blog /posts 301
-/blog/* /posts/:splat 301
+/blog /posts/ 301
+/microblog /notes/ 301
+/blog/rss /posts/index.xml 301
+/blog/feed /posts/index.xml 301
+/microblog/rss /notes/index.xml 301
+/microblog/feed /notes/index.xml 301
 /security.txt /.well-known/security.txt 301
+
+# Identity and services
 /gpg /135F691534C8919295ED97C1C1859ED057E714DC.asc
 /id/openpgp https://keyoxide.org/openpgp4fpr:135F691534C8919295ED97C1C1859ED057E714DC
 /id/asp https://keyoxide.org/aspe:keyoxide.org:NRWOOGRSUA5JACMIMCVAQP4H6E
 /id /contact/#identity
-/@nour https://fosstodon.org/@Nour
 /analytics https://cloud.umami.is/share/Xsx2krfZC7YHC6zK
+/status https://status.agha.dev
+
+# Social profiles
+/@nour https://fosstodon.org/@Nour
 /bluesky https://bsky.app/profile/agha.dev
 /bsky https://bsky.app/profile/agha.dev
 /github https://github.com/nourkagha
@@ -16,10 +26,15 @@
 /mastodon https://fosstodon.org/@Nour
 /matrix https://matrix.to/#/@nour:mozilla.org
 /signal https://signal.me/#eu/h-Woo03COYWcWUeKI9facvzU5ojz_F-r1E4YKtePmRXHy2WBxiBGsbSMQ2DrIc0-
-/status https://status.agha.dev
+
+# Legacy URL patterns
+/blog/* /posts/:splat 301
+/microblog/* /notes/:splat 301
+
+# External URL patterns
+/status/* https://status.agha.dev/:splat
 /@nour/* https://fosstodon.org/@Nour/:splat
 /bluesky/* https://bsky.app/profile/agha.dev/:splat
 /bsky/* https://bsky.app/profile/agha.dev/:splat
 /github/* https://github.com/nourkagha/:splat
 /mastodon/* https://fosstodon.org/@Nour/:splat
-/status/* https://status.agha.dev/:splat
