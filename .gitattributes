@@ -1,2 +1,1 @@
-# Keep CSS line endings consistent across platforms
-*.css text eol=lf
+* text=auto eol=lf
