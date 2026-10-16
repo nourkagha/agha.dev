@@ -8,11 +8,11 @@ body:has(#single_header) #background-canvas > img {
   opacity: 0.4;
 }
 
-/* Stable background canvas in all orientations across mobile browser chrome changes */
+/* Fix background jumping and gaps on mobile browsers */
 #background-canvas {
   inset: 0 0 auto;
-  height: 100vh;
-  height: 100lvh;
+  height: calc(100vh + 8rem);
+  height: calc(100lvh + 8rem);
 }
 
 /* Mobile background */
