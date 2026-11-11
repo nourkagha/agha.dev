@@ -1,6 +1,6 @@
 +++
 title = "Blowfish"
-date = 2026-09-30
+date = 2026-11-11
 description = "A personal website and blog theme for Hugo."
 
 tags = ["Go", "Hugo", "Tailwind CSS"]
