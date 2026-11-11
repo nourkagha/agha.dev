@@ -2,14 +2,14 @@
 title = "Now"
 description = "What I'm focused on right now."
 date = "2026-10-09"
-lastmod = "2026-10-11"
+lastmod = "2026-11-11"
 
 showDateUpdated = true
 showTableOfContents = true
 showReadingProgress = true
 +++
 
-A snapshot of what I've been up to lately. This page is inspired by the [/now page](https://nownownow.com) movement.
+A snapshot of what I've been up to lately. This page is inspired by the [Now page](https://nownownow.com/about) movement.
 
 {{< lead >}}
 I'm focused on **growing** as a software engineer, **building** things I care about, taking **care** of myself, and finding a sustainable **balance** between work, learning, health, and the things I enjoy.
@@ -43,7 +43,7 @@ I’m building sustainable long-term habits that include morning stretching, mea
 
 I got back into RuneScape after a long break and I'm catching up on the latest content, rediscovering the game and experiencing what's changed as I work toward reclaiming my [Completionist](https://runescape.wiki/w/Completionist_cape) cape. I recently hit a major milestone and claimed my 20-year Veteran cape, marking over two decades in the game.
 
-In November, I'm planning to return to World of Warcraft by playing WoW Forever and immersing myself again in Azeroth, a world that has always felt like home and holds many memories.
+I also returned to World of Warcraft with the launch of WoW Forever on November 4, immersing myself once again in Azeroth, a world that has always felt like home and holds so many memories. I'm currently leveling a High Order Skyborne Druid on EU PvP (Alliance).
 
 ![RuneScape](runescape.webp)
 *RuneScape: Cutting eternal magic trees for 110 Woodcutting*
@@ -54,7 +54,7 @@ I'm looking to reconnect with my passion for electronic music through mixing and
 
 Lately, I've been listening to a lot of deep, progressive, and melodic house and techno, as well as chillout and downtempo. I've also been keeping up with Above & Beyond and releases from their Anjunabeats, Anjunadeep, and newer Anjunachill labels. I've been exploring music from artists like Mahmut Orhan, Guy Didden, Into The Ether, Because of Art, Jan Blomqvist, mölly, and Marten Lou.
 
-Some of my favorite discoveries this year have been Planet of Souls for their cinematic electronic downtempo style and ethereal vocals, and Lynnic & ItsArius for their emotional, atmospheric melodic deep house.
+Some of my favorite discoveries this year have been Planet of Souls for their cinematic electronic downtempo style and ethereal vocals, as well as anamē and Lynnic & ItsArius for their emotional, atmospheric melodic deep and progressive house.
 
 {{< icon "youtube" >}} [**Lynnic, ItsArius & Dinia - Fading Away (Live)**](https://youtu.be/-o-hpiTDeJM?start=623&end=817)
 {{< youtubeLite id="-o-hpiTDeJM" label="Lynnic, ItsArius & Dinia - Fading Away (Live)" params="start=623&end=817" >}}
