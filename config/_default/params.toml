@@ -182,6 +182,7 @@ metaDescriptionOrder = ["description", "summary", "site"] # Controls the fallbac
   # dataDomains = "yoursite.com,yoursite2.com"
   scriptName = "script.js"
   # enableTrackEvent = true
+  integrity = "sha384-Kl9WoD7/D7ZGlOvsI8CDV5klPo4Mc7WzV80E+05bdd6tZs+koxB0MmImAFo/8r7M"
 
 [selineAnalytics]
   # token = "XXXXXX"
