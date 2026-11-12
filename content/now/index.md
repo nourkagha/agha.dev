@@ -2,7 +2,7 @@
 title = "Now"
 description = "What I'm focused on right now."
 date = "2026-10-09"
-lastmod = "2026-11-11"
+lastmod = "2026-11-12"
 
 showDateUpdated = true
 showTableOfContents = true
@@ -43,7 +43,7 @@ I’m building sustainable long-term habits that include morning stretching, mea
 
 I got back into RuneScape after a long break and I'm catching up on the latest content, rediscovering the game and experiencing what's changed as I work toward reclaiming my [Completionist](https://runescape.wiki/w/Completionist_cape) cape. I recently hit a major milestone and claimed my 20-year Veteran cape, marking over two decades in the game.
 
-I also returned to World of Warcraft with the launch of WoW Forever on November 4, immersing myself once again in Azeroth, a world that has always felt like home and holds so many memories. I'm currently leveling a High Order Skyborne Druid on EU PvP (Alliance).
+I also returned to World of Warcraft with the launch of WoW Forever on November 4, immersing myself once again in Azeroth, a world that has always felt like home and holds so many memories. I'm currently leveling a High Order Skyborne Druid on EU PvP (Alliance), marking the beginning of a new chapter in WoW, and it's been an exciting journey and a blast so far.
 
 ![RuneScape](runescape.webp)
 *RuneScape: Cutting eternal magic trees for 110 Woodcutting*
