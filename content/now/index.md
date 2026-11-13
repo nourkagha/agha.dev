@@ -2,7 +2,7 @@
 title = "Now"
 description = "What I'm focused on right now."
 date = "2026-10-09"
-lastmod = "2026-11-12"
+lastmod = "2026-11-13"
 
 showDateUpdated = true
 showTableOfContents = true
@@ -26,6 +26,12 @@ Earlier this year, I worked on building and deploying an AI system that transcri
 I'm continuing to work on my personal projects and [contributing](/projects/contributions) to open source projects, as well as shaping [agha.dev](https://agha.dev) into a personal space for my projects, ideas, writing, and experiments. I'm interested in thoughtful design, useful software, and building things with privacy in mind, as well as staying up to date with AI and agentic development.
 
 ![VS Code with GitHub Copilot](vscode.webp "*VS Code with GitHub Copilot: Standardizing document formatting*")
+
+## ⚙️ Technology
+
+After several years of using [Pop!_OS](https://system76.com/pop), I recently made the switch to [CachyOS](https://cachyos.org) and have been really enjoying it so far. I decided to make the switch for its focus on performance and kernel optimizations, as well as being a rolling release Arch-based Linux distribution. I enjoy having a bleeding edge system with access to the latest software and packages, and it's become my new daily driver for development, productivity, and gaming.
+
+![CachyOS with KDE Plasma](cachyos.webp "*CachyOS with KDE Plasma desktop*")
 
 ## 🌱 Learning
 

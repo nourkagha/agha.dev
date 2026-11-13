@@ -2,7 +2,7 @@
 title = "Uses"
 description = "The gear, software and tools I use day to day."
 date = "2026-10-07"
-lastmod = "2026-10-12"
+lastmod = "2026-11-13"
 
 showDateUpdated = true
 showTableOfContents = true
@@ -30,9 +30,9 @@ I highly value privacy, simplicity, efficiency, and flexibility.
 
 ### 👨🏻‍💻 Development
 
-- ⚙️ **Operating system:** [Pop!_OS](https://system76.com/pop) — Ubuntu-based Linux and my daily driver for development, productivity, and gaming.
-- 🪟 **Desktop environment:** [COSMIC](https://system76.com/cosmic)
-- ⌨️ **Terminal:** [COSMIC Terminal](https://github.com/pop-os/cosmic-term)
+- ⚙️ **Operating system:** [CachyOS](https://cachyos.org) — performance-focused, Arch-based Linux with kernel optimizations and system-level tweaks. My daily driver for development, productivity, and gaming.
+- 🪟 **Desktop environment:** [KDE Plasma](https://kde.org/plasma-desktop)
+- ⌨️ **Terminal:** [Ghostty](https://ghostty.org)
 - 🐟 **Shell:** [fish](https://fishshell.com) — a friendly, interactive shell with syntax highlighting, autosuggestions, and tab completions out of the box, giving me a cleaner experience than zsh with plugins.
 - 🧩 **Shell plugins:** [Fisher](https://github.com/jorgebucaran/fisher) — plugin manager for fish. I mainly use [plugin-git](https://github.com/jhillyerd/plugin-git) for git aliases, [fzf.fish](https://github.com/patrickf1/fzf.fish) for fuzzy finding, and [nvm.fish](https://github.com/jorgebucaran/nvm.fish) for node version management.
 - ✨ **Prompt:** [Starship](https://starship.rs) — a minimal, fast, customizable, and cross-shell prompt.
