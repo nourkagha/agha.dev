@@ -2,7 +2,7 @@
 title = "Colophon"
 description = "The technology and philosophy behind my independent home on the web — from design to privacy, security, simplicity, and performance."
 date = "2026-10-12"
-lastmod = "2026-10-14"
+lastmod = "2026-11-13"
 
 showDateUpdated = true
 showTableOfContents = true
@@ -44,7 +44,7 @@ The design uses a restrained palette of near-black (`#0A0A0A`), white (`#FFFFFF`
 
 {{< swatches "#0A0A0A" "#FFFFFF" "#00CCFF" >}}
 
-The backgrounds use optimized WebP images with dedicated desktop and mobile compositions. The site supports light and dark modes, with dark mode as the default and automatic adaptation to system preferences.
+The backgrounds use optimized WebP images. The site supports light and dark modes, with dark mode as the default and automatic adaptation to system preferences.
 
 #### 🩵 Electric Cyan
 
