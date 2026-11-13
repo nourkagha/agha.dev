@@ -44,7 +44,7 @@ The design uses a restrained palette of near-black (`#0A0A0A`), white (`#FFFFFF`
 
 {{< swatches "#0A0A0A" "#FFFFFF" "#00CCFF" >}}
 
-The backgrounds use optimized WebP images. The site supports light and dark modes, with dark mode as the default and automatic adaptation to system preferences.
+The site supports light and dark modes, with dark mode as the default and automatic adaptation to system preferences. The background uses an optimized WebP image as a transparent overlay blending with both light and dark modes.
 
 #### 🩵 Electric Cyan
 
